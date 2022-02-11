@@ -3,7 +3,7 @@ char Incoming_value;
 Servo myservo;
 int pos;
 int hi;
-int github;
+int github!
 void setup(){
   Serial.begin(9600);
   pinMode(13,OUTPUT);
