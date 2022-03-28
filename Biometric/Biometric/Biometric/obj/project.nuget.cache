@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kg1FaJTeFAVvB2XkTvs6vY1Jc9jNUqltyyCmb3K9cYJDsfOuG645ehdLGWjdeoG+tjhUDoRr3G5sLeDJU7+bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tommy\\source\\repos\\ProjectNew\\Biometric\\Biometric\\Biometric\\Biometric.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tommy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tommy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tommy\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512",
+    "C:\\Users\\Tommy\\.nuget\\packages\\plugin.fingerprint\\2.1.5\\plugin.fingerprint.2.1.5.nupkg.sha512",
+    "C:\\Users\\Tommy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tommy\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Tommy\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
