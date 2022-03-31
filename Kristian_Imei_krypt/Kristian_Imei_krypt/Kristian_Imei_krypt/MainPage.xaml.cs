@@ -13,6 +13,12 @@ namespace Kristian_Imei_krypt
         public MainPage()
         {
             InitializeComponent();
+
+        }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            await DisplayAlert("test", "test", "ok");
         }
     }
 }
