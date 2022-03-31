@@ -6,13 +6,19 @@ using System.Text;
 using System.Threading.Tasks;
 using Plugin.Fingerprint;
 using Plugin.Fingerprint.Abstractions;
+using Xamarin.Essentials;
+using Plugin.BLE;
 using Xamarin.Forms;
-
+using Plugin.BLE.Abstractions.Contracts;
 
 namespace Biometric
 {
     public partial class MainPage : ContentPage
     {
+        IBluetoothLE ble = CrossBluetoothLE.Current;
+        IAdapter adapter = CrossBluetoothLE.Current.Adapter;
+        List<IDevice> deviceList = new List<IDevice>();
+
         public MainPage()
         {
             InitializeComponent();
@@ -37,6 +43,7 @@ namespace Biometric
             if (authResult.Authenticated)
             {
                 await DisplayAlert("Fingeravtrykk godkjent", "Døren er låst opp",  "Lukk");
+               
             }
 
             if (!authResult.Authenticated)
@@ -46,6 +53,37 @@ namespace Biometric
 
 
         }
-        
+
+        private async void Button_Clicked_1(object sender, EventArgs e)
+        {
+            var state = ble.State;
+
+            if (state == BluetoothState.Off)
+            {
+                await DisplayAlert("Bluetooth status ", "Bluetooth is off", "OK");
+            }
+            if (state == BluetoothState.On)
+            {
+                await DisplayAlert("Bluetooth status ", "Bluetooth is on", "OK");
+                adapter.ScanTimeout = 8000;
+                adapter.DeviceDiscovered += (s, a) => deviceList.Add(a.Device);
+                await adapter.StartScanningForDevicesAsync();
+
+
+                StringBuilder sb = new StringBuilder();
+
+                foreach (IDevice device in deviceList)
+                {
+                    sb.Append(device.Name);
+                    sb.Append(" - ");
+                }
+
+                String deviceListString = sb.ToString();
+
+                await DisplayAlert("bluetooth list", deviceListString, "OK");
+
+            }
+
+        }
     }
 }
