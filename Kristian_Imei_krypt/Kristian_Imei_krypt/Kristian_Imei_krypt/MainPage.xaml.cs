@@ -20,5 +20,7 @@ namespace Kristian_Imei_krypt
         {
             await DisplayAlert("test", "test", "ok");
         }
+
+
     }
 }
