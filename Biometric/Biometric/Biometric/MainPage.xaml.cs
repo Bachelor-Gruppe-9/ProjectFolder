@@ -54,7 +54,7 @@ namespace Biometric
 
         }
 
-        private async void Bluetooth_Connect(object sender, EventArgs e)
+        private async void Button_Clicked_1(object sender, EventArgs e)
         {
             var state = ble.State;
 
@@ -67,7 +67,6 @@ namespace Biometric
                 await DisplayAlert("Bluetooth status ", "Bluetooth is on", "OK");
                 adapter.ScanTimeout = 8000;
                 adapter.DeviceDiscovered += (s, a) => deviceList.Add(a.Device);
-                adapter.DeviceConnected += (s, a) => DisplayAlert("Bluetooth status", "Device connected", "ok");
                 await adapter.StartScanningForDevicesAsync();
 
 
@@ -83,19 +82,8 @@ namespace Biometric
 
                 await DisplayAlert("bluetooth list", deviceListString, "OK");
 
-                try
-                {
-                    var device = deviceList.Where(d => d.Name != null && d.Name == "HC-05").First();
-                    if (device != null)
-                    {
-                        await adapter.ConnectToDeviceAsync(device);
-                    }
-                }
-                catch (DeviceConnectionException exception)
-                {
-                    // ... could not connect to device
-                }
             }
+
         }
     }
 }
