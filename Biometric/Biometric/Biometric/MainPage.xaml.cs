@@ -60,11 +60,11 @@ namespace Biometric
 
             if (state == BluetoothState.Off)
             {
-                await DisplayAlert("Bluetooth status ", "Bluetooth is off", "OK");
+                await DisplayAlert("Bluetooth status ", "Bluetooth is off", "OK!");
             }
             if (state == BluetoothState.On)
             {
-                await DisplayAlert("Bluetooth status ", "Bluetooth is on", "OK");
+                await DisplayAlert("Bluetooth status ", "Bluetooth is on", "OK!");
                 adapter.ScanTimeout = 8000;
                 adapter.DeviceDiscovered += (s, a) => deviceList.Add(a.Device);
                 await adapter.StartScanningForDevicesAsync();
