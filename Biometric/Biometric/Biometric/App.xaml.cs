@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using Xamarin.Essentials;
 using Xamarin.Forms;
 using static Xamarin.Essentials.Permissions;
+using Android.Bluetooth;
 
 namespace Biometric
 {
@@ -37,8 +38,8 @@ namespace Biometric
 
             await AskforPermissionAsync<Permissions.LocationWhenInUse>();
             await AskforPermissionAsync<Permissions.LocationAlways>();
-
-
+            await AskforPermissionAsync<Permissions.Camera>();
+            
         }
 
         private async Task AskforPermissionAsync<TPermission>()
