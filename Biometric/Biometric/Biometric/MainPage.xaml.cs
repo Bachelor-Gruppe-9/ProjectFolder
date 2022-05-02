@@ -10,6 +10,8 @@ using Xamarin.Essentials;
 using Plugin.BLE;
 using Xamarin.Forms;
 using Plugin.BLE.Abstractions.Contracts;
+using Android;
+using Android.Bluetooth;
 
 namespace Biometric
 {
@@ -85,5 +87,12 @@ namespace Biometric
             }
 
         }
+
+        const string RequestToEnableBluetooth = 1;
+        if ( !bluetooth.IsEnabled){
+            var intent = new Intent(
+                BluetoothAdapter.ActionStateChanged
+            )
+        
     }
 }
