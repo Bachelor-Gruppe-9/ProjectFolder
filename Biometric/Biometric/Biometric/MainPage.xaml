@@ -15,6 +15,10 @@
         <Button Text="Connect Bluetooth"
                 TextColor="Blue" FontSize="20" Padding="0" CornerRadius="100"
         Clicked="Button_Clicked_1"/>
+
+        <Button Text="Show your ID"
+                TextColor="Blue" FontSize="20" Padding="0" CornerRadius="100"
+        Clicked="Button_Clicked_2"/>
     </StackLayout>
 
 </ContentPage>

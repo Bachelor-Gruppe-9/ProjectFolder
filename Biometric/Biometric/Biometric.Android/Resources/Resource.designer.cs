@@ -14,7 +14,7 @@ namespace Biometric.Droid
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.2.0.155")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.2.4.160")]
 	public partial class Resource
 	{
 		
@@ -10961,6 +10961,5127 @@ namespace Biometric.Droid
 			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_gravity_bottom_start = global::Biometric.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
 			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_gravity_top_start = global::Biometric.Droid.Resource.Xml.standalone_badge_gravity_top_start;
 			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_offset = global::Biometric.Droid.Resource.Xml.standalone_badge_offset;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_fade_in = global::Biometric.Droid.Resource.Animation.abc_fade_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_fade_out = global::Biometric.Droid.Resource.Animation.abc_fade_out;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_grow_fade_in_from_bottom = global::Biometric.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_popup_enter = global::Biometric.Droid.Resource.Animation.abc_popup_enter;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_popup_exit = global::Biometric.Droid.Resource.Animation.abc_popup_exit;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Biometric.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_slide_in_bottom = global::Biometric.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_slide_in_top = global::Biometric.Droid.Resource.Animation.abc_slide_in_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_slide_out_bottom = global::Biometric.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_slide_out_top = global::Biometric.Droid.Resource.Animation.abc_slide_out_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_tooltip_enter = global::Biometric.Droid.Resource.Animation.abc_tooltip_enter;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.abc_tooltip_exit = global::Biometric.Droid.Resource.Animation.abc_tooltip_exit;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.design_bottom_sheet_slide_in = global::Biometric.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.design_bottom_sheet_slide_out = global::Biometric.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.design_snackbar_in = global::Biometric.Droid.Resource.Animation.design_snackbar_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.design_snackbar_out = global::Biometric.Droid.Resource.Animation.design_snackbar_out;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.EnterFromLeft = global::Biometric.Droid.Resource.Animation.EnterFromLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.EnterFromRight = global::Biometric.Droid.Resource.Animation.EnterFromRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.ExitToLeft = global::Biometric.Droid.Resource.Animation.ExitToLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.ExitToRight = global::Biometric.Droid.Resource.Animation.ExitToRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.fragment_fast_out_extra_slow_in = global::Biometric.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.mtrl_bottom_sheet_slide_in = global::Biometric.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.mtrl_bottom_sheet_slide_out = global::Biometric.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::ZXing.Net.Mobile.Forms.Resource.Animation.mtrl_card_lowers_interpolator = global::Biometric.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.design_appbar_state_list_animator = global::Biometric.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.design_fab_hide_motion_spec = global::Biometric.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.design_fab_show_motion_spec = global::Biometric.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_btn_state_list_anim = global::Biometric.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Biometric.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_card_state_list_anim = global::Biometric.Droid.Resource.Animator.mtrl_card_state_list_anim;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_chip_state_list_anim = global::Biometric.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::Biometric.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::Biometric.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_extended_fab_state_list_animator = global::Biometric.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_fab_hide_motion_spec = global::Biometric.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_fab_show_motion_spec = global::Biometric.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::Biometric.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::Biometric.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarDivider = global::Biometric.Droid.Resource.Attribute.actionBarDivider;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarItemBackground = global::Biometric.Droid.Resource.Attribute.actionBarItemBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarPopupTheme = global::Biometric.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarSize = global::Biometric.Droid.Resource.Attribute.actionBarSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarSplitStyle = global::Biometric.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarStyle = global::Biometric.Droid.Resource.Attribute.actionBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarTabBarStyle = global::Biometric.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarTabStyle = global::Biometric.Droid.Resource.Attribute.actionBarTabStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarTabTextStyle = global::Biometric.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarTheme = global::Biometric.Droid.Resource.Attribute.actionBarTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionBarWidgetTheme = global::Biometric.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionButtonStyle = global::Biometric.Droid.Resource.Attribute.actionButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionDropDownStyle = global::Biometric.Droid.Resource.Attribute.actionDropDownStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionLayout = global::Biometric.Droid.Resource.Attribute.actionLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionMenuTextAppearance = global::Biometric.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionMenuTextColor = global::Biometric.Droid.Resource.Attribute.actionMenuTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeBackground = global::Biometric.Droid.Resource.Attribute.actionModeBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeCloseButtonStyle = global::Biometric.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeCloseDrawable = global::Biometric.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeCopyDrawable = global::Biometric.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeCutDrawable = global::Biometric.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeFindDrawable = global::Biometric.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModePasteDrawable = global::Biometric.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModePopupWindowStyle = global::Biometric.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeSelectAllDrawable = global::Biometric.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeShareDrawable = global::Biometric.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeSplitBackground = global::Biometric.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeStyle = global::Biometric.Droid.Resource.Attribute.actionModeStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionModeWebSearchDrawable = global::Biometric.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionOverflowButtonStyle = global::Biometric.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionOverflowMenuStyle = global::Biometric.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionProviderClass = global::Biometric.Droid.Resource.Attribute.actionProviderClass;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionTextColorAlpha = global::Biometric.Droid.Resource.Attribute.actionTextColorAlpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.actionViewClass = global::Biometric.Droid.Resource.Attribute.actionViewClass;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.activityChooserViewStyle = global::Biometric.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.alertDialogButtonGroupStyle = global::Biometric.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.alertDialogCenterButtons = global::Biometric.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.alertDialogStyle = global::Biometric.Droid.Resource.Attribute.alertDialogStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.alertDialogTheme = global::Biometric.Droid.Resource.Attribute.alertDialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.allowStacking = global::Biometric.Droid.Resource.Attribute.allowStacking;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.alpha = global::Biometric.Droid.Resource.Attribute.alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.alphabeticModifiers = global::Biometric.Droid.Resource.Attribute.alphabeticModifiers;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.animationMode = global::Biometric.Droid.Resource.Attribute.animationMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.appBarLayoutStyle = global::Biometric.Droid.Resource.Attribute.appBarLayoutStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.arrowHeadLength = global::Biometric.Droid.Resource.Attribute.arrowHeadLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.arrowShaftLength = global::Biometric.Droid.Resource.Attribute.arrowShaftLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.autoCompleteTextViewStyle = global::Biometric.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.autoSizeMaxTextSize = global::Biometric.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.autoSizeMinTextSize = global::Biometric.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.autoSizePresetSizes = global::Biometric.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.autoSizeStepGranularity = global::Biometric.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.autoSizeTextType = global::Biometric.Droid.Resource.Attribute.autoSizeTextType;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.background = global::Biometric.Droid.Resource.Attribute.background;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundColor = global::Biometric.Droid.Resource.Attribute.backgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundInsetBottom = global::Biometric.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundInsetEnd = global::Biometric.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundInsetStart = global::Biometric.Droid.Resource.Attribute.backgroundInsetStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundInsetTop = global::Biometric.Droid.Resource.Attribute.backgroundInsetTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundOverlayColorAlpha = global::Biometric.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundSplit = global::Biometric.Droid.Resource.Attribute.backgroundSplit;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundStacked = global::Biometric.Droid.Resource.Attribute.backgroundStacked;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundTint = global::Biometric.Droid.Resource.Attribute.backgroundTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.backgroundTintMode = global::Biometric.Droid.Resource.Attribute.backgroundTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.badgeGravity = global::Biometric.Droid.Resource.Attribute.badgeGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.badgeStyle = global::Biometric.Droid.Resource.Attribute.badgeStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.badgeTextColor = global::Biometric.Droid.Resource.Attribute.badgeTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.barLength = global::Biometric.Droid.Resource.Attribute.barLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_autoHide = global::Biometric.Droid.Resource.Attribute.behavior_autoHide;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_autoShrink = global::Biometric.Droid.Resource.Attribute.behavior_autoShrink;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_expandedOffset = global::Biometric.Droid.Resource.Attribute.behavior_expandedOffset;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_fitToContents = global::Biometric.Droid.Resource.Attribute.behavior_fitToContents;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_halfExpandedRatio = global::Biometric.Droid.Resource.Attribute.behavior_halfExpandedRatio;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_hideable = global::Biometric.Droid.Resource.Attribute.behavior_hideable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_overlapTop = global::Biometric.Droid.Resource.Attribute.behavior_overlapTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_peekHeight = global::Biometric.Droid.Resource.Attribute.behavior_peekHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_saveFlags = global::Biometric.Droid.Resource.Attribute.behavior_saveFlags;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.behavior_skipCollapsed = global::Biometric.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.borderlessButtonStyle = global::Biometric.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.borderWidth = global::Biometric.Droid.Resource.Attribute.borderWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.bottomAppBarStyle = global::Biometric.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.bottomNavigationStyle = global::Biometric.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.bottomSheetDialogTheme = global::Biometric.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.bottomSheetStyle = global::Biometric.Droid.Resource.Attribute.bottomSheetStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxBackgroundColor = global::Biometric.Droid.Resource.Attribute.boxBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxBackgroundMode = global::Biometric.Droid.Resource.Attribute.boxBackgroundMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxCollapsedPaddingTop = global::Biometric.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxCornerRadiusBottomEnd = global::Biometric.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxCornerRadiusBottomStart = global::Biometric.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxCornerRadiusTopEnd = global::Biometric.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxCornerRadiusTopStart = global::Biometric.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxStrokeColor = global::Biometric.Droid.Resource.Attribute.boxStrokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxStrokeWidth = global::Biometric.Droid.Resource.Attribute.boxStrokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.boxStrokeWidthFocused = global::Biometric.Droid.Resource.Attribute.boxStrokeWidthFocused;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonBarButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonBarNegativeButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonBarNeutralButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonBarPositiveButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonBarStyle = global::Biometric.Droid.Resource.Attribute.buttonBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonCompat = global::Biometric.Droid.Resource.Attribute.buttonCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonGravity = global::Biometric.Droid.Resource.Attribute.buttonGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonIconDimen = global::Biometric.Droid.Resource.Attribute.buttonIconDimen;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonPanelSideLayout = global::Biometric.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonStyle = global::Biometric.Droid.Resource.Attribute.buttonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonStyleSmall = global::Biometric.Droid.Resource.Attribute.buttonStyleSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonTint = global::Biometric.Droid.Resource.Attribute.buttonTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.buttonTintMode = global::Biometric.Droid.Resource.Attribute.buttonTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardBackgroundColor = global::Biometric.Droid.Resource.Attribute.cardBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardCornerRadius = global::Biometric.Droid.Resource.Attribute.cardCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardElevation = global::Biometric.Droid.Resource.Attribute.cardElevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardForegroundColor = global::Biometric.Droid.Resource.Attribute.cardForegroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardMaxElevation = global::Biometric.Droid.Resource.Attribute.cardMaxElevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardPreventCornerOverlap = global::Biometric.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardUseCompatPadding = global::Biometric.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cardViewStyle = global::Biometric.Droid.Resource.Attribute.cardViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkboxStyle = global::Biometric.Droid.Resource.Attribute.checkboxStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkedButton = global::Biometric.Droid.Resource.Attribute.checkedButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkedChip = global::Biometric.Droid.Resource.Attribute.checkedChip;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkedIcon = global::Biometric.Droid.Resource.Attribute.checkedIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkedIconEnabled = global::Biometric.Droid.Resource.Attribute.checkedIconEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkedIconTint = global::Biometric.Droid.Resource.Attribute.checkedIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkedIconVisible = global::Biometric.Droid.Resource.Attribute.checkedIconVisible;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.checkedTextViewStyle = global::Biometric.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipBackgroundColor = global::Biometric.Droid.Resource.Attribute.chipBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipCornerRadius = global::Biometric.Droid.Resource.Attribute.chipCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipEndPadding = global::Biometric.Droid.Resource.Attribute.chipEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipGroupStyle = global::Biometric.Droid.Resource.Attribute.chipGroupStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipIcon = global::Biometric.Droid.Resource.Attribute.chipIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipIconEnabled = global::Biometric.Droid.Resource.Attribute.chipIconEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipIconSize = global::Biometric.Droid.Resource.Attribute.chipIconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipIconTint = global::Biometric.Droid.Resource.Attribute.chipIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipIconVisible = global::Biometric.Droid.Resource.Attribute.chipIconVisible;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipMinHeight = global::Biometric.Droid.Resource.Attribute.chipMinHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipMinTouchTargetSize = global::Biometric.Droid.Resource.Attribute.chipMinTouchTargetSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipSpacing = global::Biometric.Droid.Resource.Attribute.chipSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipSpacingHorizontal = global::Biometric.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipSpacingVertical = global::Biometric.Droid.Resource.Attribute.chipSpacingVertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipStandaloneStyle = global::Biometric.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipStartPadding = global::Biometric.Droid.Resource.Attribute.chipStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipStrokeColor = global::Biometric.Droid.Resource.Attribute.chipStrokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipStrokeWidth = global::Biometric.Droid.Resource.Attribute.chipStrokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipStyle = global::Biometric.Droid.Resource.Attribute.chipStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.chipSurfaceColor = global::Biometric.Droid.Resource.Attribute.chipSurfaceColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeIcon = global::Biometric.Droid.Resource.Attribute.closeIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeIconEnabled = global::Biometric.Droid.Resource.Attribute.closeIconEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeIconEndPadding = global::Biometric.Droid.Resource.Attribute.closeIconEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeIconSize = global::Biometric.Droid.Resource.Attribute.closeIconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeIconStartPadding = global::Biometric.Droid.Resource.Attribute.closeIconStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeIconTint = global::Biometric.Droid.Resource.Attribute.closeIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeIconVisible = global::Biometric.Droid.Resource.Attribute.closeIconVisible;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.closeItemLayout = global::Biometric.Droid.Resource.Attribute.closeItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.collapseContentDescription = global::Biometric.Droid.Resource.Attribute.collapseContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.collapsedTitleGravity = global::Biometric.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.collapsedTitleTextAppearance = global::Biometric.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.collapseIcon = global::Biometric.Droid.Resource.Attribute.collapseIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.collectionViewStyle = global::Biometric.Droid.Resource.Attribute.collectionViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.color = global::Biometric.Droid.Resource.Attribute.color;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorAccent = global::Biometric.Droid.Resource.Attribute.colorAccent;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorBackgroundFloating = global::Biometric.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorButtonNormal = global::Biometric.Droid.Resource.Attribute.colorButtonNormal;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorControlActivated = global::Biometric.Droid.Resource.Attribute.colorControlActivated;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorControlHighlight = global::Biometric.Droid.Resource.Attribute.colorControlHighlight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorControlNormal = global::Biometric.Droid.Resource.Attribute.colorControlNormal;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorError = global::Biometric.Droid.Resource.Attribute.colorError;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorOnBackground = global::Biometric.Droid.Resource.Attribute.colorOnBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorOnError = global::Biometric.Droid.Resource.Attribute.colorOnError;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorOnPrimary = global::Biometric.Droid.Resource.Attribute.colorOnPrimary;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorOnPrimarySurface = global::Biometric.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorOnSecondary = global::Biometric.Droid.Resource.Attribute.colorOnSecondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorOnSurface = global::Biometric.Droid.Resource.Attribute.colorOnSurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorPrimary = global::Biometric.Droid.Resource.Attribute.colorPrimary;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorPrimaryDark = global::Biometric.Droid.Resource.Attribute.colorPrimaryDark;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorPrimarySurface = global::Biometric.Droid.Resource.Attribute.colorPrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorPrimaryVariant = global::Biometric.Droid.Resource.Attribute.colorPrimaryVariant;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorSecondary = global::Biometric.Droid.Resource.Attribute.colorSecondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorSecondaryVariant = global::Biometric.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorSurface = global::Biometric.Droid.Resource.Attribute.colorSurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.colorSwitchThumbNormal = global::Biometric.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.commitIcon = global::Biometric.Droid.Resource.Attribute.commitIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentDescription = global::Biometric.Droid.Resource.Attribute.contentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentInsetEnd = global::Biometric.Droid.Resource.Attribute.contentInsetEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentInsetEndWithActions = global::Biometric.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentInsetLeft = global::Biometric.Droid.Resource.Attribute.contentInsetLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentInsetRight = global::Biometric.Droid.Resource.Attribute.contentInsetRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentInsetStart = global::Biometric.Droid.Resource.Attribute.contentInsetStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentInsetStartWithNavigation = global::Biometric.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentPadding = global::Biometric.Droid.Resource.Attribute.contentPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentPaddingBottom = global::Biometric.Droid.Resource.Attribute.contentPaddingBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentPaddingLeft = global::Biometric.Droid.Resource.Attribute.contentPaddingLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentPaddingRight = global::Biometric.Droid.Resource.Attribute.contentPaddingRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentPaddingTop = global::Biometric.Droid.Resource.Attribute.contentPaddingTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.contentScrim = global::Biometric.Droid.Resource.Attribute.contentScrim;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.controlBackground = global::Biometric.Droid.Resource.Attribute.controlBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.coordinatorLayoutStyle = global::Biometric.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerFamily = global::Biometric.Droid.Resource.Attribute.cornerFamily;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerFamilyBottomLeft = global::Biometric.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerFamilyBottomRight = global::Biometric.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerFamilyTopLeft = global::Biometric.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerFamilyTopRight = global::Biometric.Droid.Resource.Attribute.cornerFamilyTopRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerRadius = global::Biometric.Droid.Resource.Attribute.cornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerSize = global::Biometric.Droid.Resource.Attribute.cornerSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerSizeBottomLeft = global::Biometric.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerSizeBottomRight = global::Biometric.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerSizeTopLeft = global::Biometric.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.cornerSizeTopRight = global::Biometric.Droid.Resource.Attribute.cornerSizeTopRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.counterEnabled = global::Biometric.Droid.Resource.Attribute.counterEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.counterMaxLength = global::Biometric.Droid.Resource.Attribute.counterMaxLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.counterOverflowTextAppearance = global::Biometric.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.counterOverflowTextColor = global::Biometric.Droid.Resource.Attribute.counterOverflowTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.counterTextAppearance = global::Biometric.Droid.Resource.Attribute.counterTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.counterTextColor = global::Biometric.Droid.Resource.Attribute.counterTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.customNavigationLayout = global::Biometric.Droid.Resource.Attribute.customNavigationLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dayInvalidStyle = global::Biometric.Droid.Resource.Attribute.dayInvalidStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.daySelectedStyle = global::Biometric.Droid.Resource.Attribute.daySelectedStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dayStyle = global::Biometric.Droid.Resource.Attribute.dayStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dayTodayStyle = global::Biometric.Droid.Resource.Attribute.dayTodayStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.defaultQueryHint = global::Biometric.Droid.Resource.Attribute.defaultQueryHint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dialogCornerRadius = global::Biometric.Droid.Resource.Attribute.dialogCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dialogPreferredPadding = global::Biometric.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dialogTheme = global::Biometric.Droid.Resource.Attribute.dialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.displayOptions = global::Biometric.Droid.Resource.Attribute.displayOptions;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.divider = global::Biometric.Droid.Resource.Attribute.divider;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dividerHorizontal = global::Biometric.Droid.Resource.Attribute.dividerHorizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dividerPadding = global::Biometric.Droid.Resource.Attribute.dividerPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dividerVertical = global::Biometric.Droid.Resource.Attribute.dividerVertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableBottomCompat = global::Biometric.Droid.Resource.Attribute.drawableBottomCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableEndCompat = global::Biometric.Droid.Resource.Attribute.drawableEndCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableLeftCompat = global::Biometric.Droid.Resource.Attribute.drawableLeftCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableRightCompat = global::Biometric.Droid.Resource.Attribute.drawableRightCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableSize = global::Biometric.Droid.Resource.Attribute.drawableSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableStartCompat = global::Biometric.Droid.Resource.Attribute.drawableStartCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableTint = global::Biometric.Droid.Resource.Attribute.drawableTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableTintMode = global::Biometric.Droid.Resource.Attribute.drawableTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawableTopCompat = global::Biometric.Droid.Resource.Attribute.drawableTopCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawerArrowStyle = global::Biometric.Droid.Resource.Attribute.drawerArrowStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.drawerLayoutStyle = global::Biometric.Droid.Resource.Attribute.drawerLayoutStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dropdownListPreferredItemHeight = global::Biometric.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.dropDownListViewStyle = global::Biometric.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.editTextBackground = global::Biometric.Droid.Resource.Attribute.editTextBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.editTextColor = global::Biometric.Droid.Resource.Attribute.editTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.editTextStyle = global::Biometric.Droid.Resource.Attribute.editTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.elevation = global::Biometric.Droid.Resource.Attribute.elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.elevationOverlayColor = global::Biometric.Droid.Resource.Attribute.elevationOverlayColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.elevationOverlayEnabled = global::Biometric.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.endIconCheckable = global::Biometric.Droid.Resource.Attribute.endIconCheckable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.endIconContentDescription = global::Biometric.Droid.Resource.Attribute.endIconContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.endIconDrawable = global::Biometric.Droid.Resource.Attribute.endIconDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.endIconMode = global::Biometric.Droid.Resource.Attribute.endIconMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.endIconTint = global::Biometric.Droid.Resource.Attribute.endIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.endIconTintMode = global::Biometric.Droid.Resource.Attribute.endIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.enforceMaterialTheme = global::Biometric.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.enforceTextAppearance = global::Biometric.Droid.Resource.Attribute.enforceTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.ensureMinTouchTargetSize = global::Biometric.Droid.Resource.Attribute.ensureMinTouchTargetSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.errorEnabled = global::Biometric.Droid.Resource.Attribute.errorEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.errorIconDrawable = global::Biometric.Droid.Resource.Attribute.errorIconDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.errorIconTint = global::Biometric.Droid.Resource.Attribute.errorIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.errorIconTintMode = global::Biometric.Droid.Resource.Attribute.errorIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.errorTextAppearance = global::Biometric.Droid.Resource.Attribute.errorTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.errorTextColor = global::Biometric.Droid.Resource.Attribute.errorTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Biometric.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expanded = global::Biometric.Droid.Resource.Attribute.expanded;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandedTitleGravity = global::Biometric.Droid.Resource.Attribute.expandedTitleGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandedTitleMargin = global::Biometric.Droid.Resource.Attribute.expandedTitleMargin;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandedTitleMarginBottom = global::Biometric.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandedTitleMarginEnd = global::Biometric.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandedTitleMarginStart = global::Biometric.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandedTitleMarginTop = global::Biometric.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.expandedTitleTextAppearance = global::Biometric.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.extendedFloatingActionButtonStyle = global::Biometric.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.extendMotionSpec = global::Biometric.Droid.Resource.Attribute.extendMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fabAlignmentMode = global::Biometric.Droid.Resource.Attribute.fabAlignmentMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fabAnimationMode = global::Biometric.Droid.Resource.Attribute.fabAnimationMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fabCradleMargin = global::Biometric.Droid.Resource.Attribute.fabCradleMargin;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fabCradleRoundedCornerRadius = global::Biometric.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fabCradleVerticalOffset = global::Biometric.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fabCustomSize = global::Biometric.Droid.Resource.Attribute.fabCustomSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fabSize = global::Biometric.Droid.Resource.Attribute.fabSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fastScrollEnabled = global::Biometric.Droid.Resource.Attribute.fastScrollEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Biometric.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Biometric.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Biometric.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Biometric.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.firstBaselineToTopHeight = global::Biometric.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.floatingActionButtonStyle = global::Biometric.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.font = global::Biometric.Droid.Resource.Attribute.font;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontFamily = global::Biometric.Droid.Resource.Attribute.fontFamily;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontProviderAuthority = global::Biometric.Droid.Resource.Attribute.fontProviderAuthority;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontProviderCerts = global::Biometric.Droid.Resource.Attribute.fontProviderCerts;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontProviderFetchStrategy = global::Biometric.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontProviderFetchTimeout = global::Biometric.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontProviderPackage = global::Biometric.Droid.Resource.Attribute.fontProviderPackage;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontProviderQuery = global::Biometric.Droid.Resource.Attribute.fontProviderQuery;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontStyle = global::Biometric.Droid.Resource.Attribute.fontStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontVariationSettings = global::Biometric.Droid.Resource.Attribute.fontVariationSettings;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.fontWeight = global::Biometric.Droid.Resource.Attribute.fontWeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.foregroundInsidePadding = global::Biometric.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.gapBetweenBars = global::Biometric.Droid.Resource.Attribute.gapBetweenBars;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.goIcon = global::Biometric.Droid.Resource.Attribute.goIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.headerLayout = global::Biometric.Droid.Resource.Attribute.headerLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.height = global::Biometric.Droid.Resource.Attribute.height;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.helperText = global::Biometric.Droid.Resource.Attribute.helperText;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.helperTextEnabled = global::Biometric.Droid.Resource.Attribute.helperTextEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.helperTextTextAppearance = global::Biometric.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.helperTextTextColor = global::Biometric.Droid.Resource.Attribute.helperTextTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hideMotionSpec = global::Biometric.Droid.Resource.Attribute.hideMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hideOnContentScroll = global::Biometric.Droid.Resource.Attribute.hideOnContentScroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hideOnScroll = global::Biometric.Droid.Resource.Attribute.hideOnScroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hintAnimationEnabled = global::Biometric.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hintEnabled = global::Biometric.Droid.Resource.Attribute.hintEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hintTextAppearance = global::Biometric.Droid.Resource.Attribute.hintTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hintTextColor = global::Biometric.Droid.Resource.Attribute.hintTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.homeAsUpIndicator = global::Biometric.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.homeLayout = global::Biometric.Droid.Resource.Attribute.homeLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.hoveredFocusedTranslationZ = global::Biometric.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.icon = global::Biometric.Droid.Resource.Attribute.icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconEndPadding = global::Biometric.Droid.Resource.Attribute.iconEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconGravity = global::Biometric.Droid.Resource.Attribute.iconGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconifiedByDefault = global::Biometric.Droid.Resource.Attribute.iconifiedByDefault;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconPadding = global::Biometric.Droid.Resource.Attribute.iconPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconSize = global::Biometric.Droid.Resource.Attribute.iconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconStartPadding = global::Biometric.Droid.Resource.Attribute.iconStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconTint = global::Biometric.Droid.Resource.Attribute.iconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.iconTintMode = global::Biometric.Droid.Resource.Attribute.iconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.imageButtonStyle = global::Biometric.Droid.Resource.Attribute.imageButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.indeterminateProgressStyle = global::Biometric.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.initialActivityCount = global::Biometric.Droid.Resource.Attribute.initialActivityCount;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.insetForeground = global::Biometric.Droid.Resource.Attribute.insetForeground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.isLightTheme = global::Biometric.Droid.Resource.Attribute.isLightTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.isMaterialTheme = global::Biometric.Droid.Resource.Attribute.isMaterialTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemBackground = global::Biometric.Droid.Resource.Attribute.itemBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemFillColor = global::Biometric.Droid.Resource.Attribute.itemFillColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemHorizontalPadding = global::Biometric.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemHorizontalTranslationEnabled = global::Biometric.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemIconPadding = global::Biometric.Droid.Resource.Attribute.itemIconPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemIconSize = global::Biometric.Droid.Resource.Attribute.itemIconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemIconTint = global::Biometric.Droid.Resource.Attribute.itemIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemMaxLines = global::Biometric.Droid.Resource.Attribute.itemMaxLines;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemPadding = global::Biometric.Droid.Resource.Attribute.itemPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemRippleColor = global::Biometric.Droid.Resource.Attribute.itemRippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemShapeAppearance = global::Biometric.Droid.Resource.Attribute.itemShapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemShapeAppearanceOverlay = global::Biometric.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemShapeFillColor = global::Biometric.Droid.Resource.Attribute.itemShapeFillColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemShapeInsetBottom = global::Biometric.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemShapeInsetEnd = global::Biometric.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemShapeInsetStart = global::Biometric.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemShapeInsetTop = global::Biometric.Droid.Resource.Attribute.itemShapeInsetTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemSpacing = global::Biometric.Droid.Resource.Attribute.itemSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemStrokeColor = global::Biometric.Droid.Resource.Attribute.itemStrokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemStrokeWidth = global::Biometric.Droid.Resource.Attribute.itemStrokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemTextAppearance = global::Biometric.Droid.Resource.Attribute.itemTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemTextAppearanceActive = global::Biometric.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemTextAppearanceInactive = global::Biometric.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.itemTextColor = global::Biometric.Droid.Resource.Attribute.itemTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.keylines = global::Biometric.Droid.Resource.Attribute.keylines;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.labelVisibilityMode = global::Biometric.Droid.Resource.Attribute.labelVisibilityMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.lastBaselineToBottomHeight = global::Biometric.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout = global::Biometric.Droid.Resource.Attribute.layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layoutManager = global::Biometric.Droid.Resource.Attribute.layoutManager;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_anchor = global::Biometric.Droid.Resource.Attribute.layout_anchor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_anchorGravity = global::Biometric.Droid.Resource.Attribute.layout_anchorGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_behavior = global::Biometric.Droid.Resource.Attribute.layout_behavior;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_collapseMode = global::Biometric.Droid.Resource.Attribute.layout_collapseMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_collapseParallaxMultiplier = global::Biometric.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_dodgeInsetEdges = global::Biometric.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_insetEdge = global::Biometric.Droid.Resource.Attribute.layout_insetEdge;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_keyline = global::Biometric.Droid.Resource.Attribute.layout_keyline;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_scrollFlags = global::Biometric.Droid.Resource.Attribute.layout_scrollFlags;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.layout_scrollInterpolator = global::Biometric.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.liftOnScroll = global::Biometric.Droid.Resource.Attribute.liftOnScroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.liftOnScrollTargetViewId = global::Biometric.Droid.Resource.Attribute.liftOnScrollTargetViewId;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.lineHeight = global::Biometric.Droid.Resource.Attribute.lineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.lineSpacing = global::Biometric.Droid.Resource.Attribute.lineSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listChoiceBackgroundIndicator = global::Biometric.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::Biometric.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::Biometric.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listDividerAlertDialog = global::Biometric.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listItemLayout = global::Biometric.Droid.Resource.Attribute.listItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listLayout = global::Biometric.Droid.Resource.Attribute.listLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listMenuViewStyle = global::Biometric.Droid.Resource.Attribute.listMenuViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPopupWindowStyle = global::Biometric.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPreferredItemHeight = global::Biometric.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPreferredItemHeightLarge = global::Biometric.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPreferredItemHeightSmall = global::Biometric.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPreferredItemPaddingEnd = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPreferredItemPaddingLeft = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPreferredItemPaddingRight = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.listPreferredItemPaddingStart = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.logo = global::Biometric.Droid.Resource.Attribute.logo;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.logoDescription = global::Biometric.Droid.Resource.Attribute.logoDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialAlertDialogBodyTextStyle = global::Biometric.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialAlertDialogTheme = global::Biometric.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialAlertDialogTitleIconStyle = global::Biometric.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::Biometric.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialAlertDialogTitleTextStyle = global::Biometric.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialButtonOutlinedStyle = global::Biometric.Droid.Resource.Attribute.materialButtonOutlinedStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialButtonStyle = global::Biometric.Droid.Resource.Attribute.materialButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialButtonToggleGroupStyle = global::Biometric.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarDay = global::Biometric.Droid.Resource.Attribute.materialCalendarDay;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarFullscreenTheme = global::Biometric.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarHeaderConfirmButton = global::Biometric.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarHeaderDivider = global::Biometric.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarHeaderLayout = global::Biometric.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarHeaderSelection = global::Biometric.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarHeaderTitle = global::Biometric.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarHeaderToggleButton = global::Biometric.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarStyle = global::Biometric.Droid.Resource.Attribute.materialCalendarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCalendarTheme = global::Biometric.Droid.Resource.Attribute.materialCalendarTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialCardViewStyle = global::Biometric.Droid.Resource.Attribute.materialCardViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.materialThemeOverlay = global::Biometric.Droid.Resource.Attribute.materialThemeOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.maxActionInlineWidth = global::Biometric.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.maxButtonHeight = global::Biometric.Droid.Resource.Attribute.maxButtonHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.maxCharacterCount = global::Biometric.Droid.Resource.Attribute.maxCharacterCount;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.maxImageSize = global::Biometric.Droid.Resource.Attribute.maxImageSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.measureWithLargestChild = global::Biometric.Droid.Resource.Attribute.measureWithLargestChild;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.menu = global::Biometric.Droid.Resource.Attribute.menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.minTouchTargetSize = global::Biometric.Droid.Resource.Attribute.minTouchTargetSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.multiChoiceItemLayout = global::Biometric.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.navigationContentDescription = global::Biometric.Droid.Resource.Attribute.navigationContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.navigationIcon = global::Biometric.Droid.Resource.Attribute.navigationIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.navigationMode = global::Biometric.Droid.Resource.Attribute.navigationMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.navigationViewStyle = global::Biometric.Droid.Resource.Attribute.navigationViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.number = global::Biometric.Droid.Resource.Attribute.number;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.numericModifiers = global::Biometric.Droid.Resource.Attribute.numericModifiers;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.overlapAnchor = global::Biometric.Droid.Resource.Attribute.overlapAnchor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.paddingBottomNoButtons = global::Biometric.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.paddingEnd = global::Biometric.Droid.Resource.Attribute.paddingEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.paddingStart = global::Biometric.Droid.Resource.Attribute.paddingStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.paddingTopNoTitle = global::Biometric.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.panelBackground = global::Biometric.Droid.Resource.Attribute.panelBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.panelMenuListTheme = global::Biometric.Droid.Resource.Attribute.panelMenuListTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.panelMenuListWidth = global::Biometric.Droid.Resource.Attribute.panelMenuListWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.passwordToggleContentDescription = global::Biometric.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.passwordToggleDrawable = global::Biometric.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.passwordToggleEnabled = global::Biometric.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.passwordToggleTint = global::Biometric.Droid.Resource.Attribute.passwordToggleTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.passwordToggleTintMode = global::Biometric.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.popupMenuBackground = global::Biometric.Droid.Resource.Attribute.popupMenuBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.popupMenuStyle = global::Biometric.Droid.Resource.Attribute.popupMenuStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.popupTheme = global::Biometric.Droid.Resource.Attribute.popupTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.popupWindowStyle = global::Biometric.Droid.Resource.Attribute.popupWindowStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.preserveIconSpacing = global::Biometric.Droid.Resource.Attribute.preserveIconSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.pressedTranslationZ = global::Biometric.Droid.Resource.Attribute.pressedTranslationZ;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.progressBarPadding = global::Biometric.Droid.Resource.Attribute.progressBarPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.progressBarStyle = global::Biometric.Droid.Resource.Attribute.progressBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.queryBackground = global::Biometric.Droid.Resource.Attribute.queryBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.queryHint = global::Biometric.Droid.Resource.Attribute.queryHint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.radioButtonStyle = global::Biometric.Droid.Resource.Attribute.radioButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.rangeFillColor = global::Biometric.Droid.Resource.Attribute.rangeFillColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.ratingBarStyle = global::Biometric.Droid.Resource.Attribute.ratingBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.ratingBarStyleIndicator = global::Biometric.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.ratingBarStyleSmall = global::Biometric.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.recyclerViewStyle = global::Biometric.Droid.Resource.Attribute.recyclerViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.reverseLayout = global::Biometric.Droid.Resource.Attribute.reverseLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.rippleColor = global::Biometric.Droid.Resource.Attribute.rippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.scrimAnimationDuration = global::Biometric.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.scrimBackground = global::Biometric.Droid.Resource.Attribute.scrimBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.scrimVisibleHeightTrigger = global::Biometric.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.scrollViewStyle = global::Biometric.Droid.Resource.Attribute.scrollViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.searchHintIcon = global::Biometric.Droid.Resource.Attribute.searchHintIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.searchIcon = global::Biometric.Droid.Resource.Attribute.searchIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.searchViewStyle = global::Biometric.Droid.Resource.Attribute.searchViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.seekBarStyle = global::Biometric.Droid.Resource.Attribute.seekBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.selectableItemBackground = global::Biometric.Droid.Resource.Attribute.selectableItemBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.selectableItemBackgroundBorderless = global::Biometric.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.shapeAppearance = global::Biometric.Droid.Resource.Attribute.shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.shapeAppearanceLargeComponent = global::Biometric.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.shapeAppearanceMediumComponent = global::Biometric.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.shapeAppearanceOverlay = global::Biometric.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.shapeAppearanceSmallComponent = global::Biometric.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.showAsAction = global::Biometric.Droid.Resource.Attribute.showAsAction;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.showDividers = global::Biometric.Droid.Resource.Attribute.showDividers;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.showMotionSpec = global::Biometric.Droid.Resource.Attribute.showMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.showText = global::Biometric.Droid.Resource.Attribute.showText;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.showTitle = global::Biometric.Droid.Resource.Attribute.showTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.shrinkMotionSpec = global::Biometric.Droid.Resource.Attribute.shrinkMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.singleChoiceItemLayout = global::Biometric.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.singleLine = global::Biometric.Droid.Resource.Attribute.singleLine;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.singleSelection = global::Biometric.Droid.Resource.Attribute.singleSelection;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.snackbarButtonStyle = global::Biometric.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.snackbarStyle = global::Biometric.Droid.Resource.Attribute.snackbarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.spanCount = global::Biometric.Droid.Resource.Attribute.spanCount;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.spinBars = global::Biometric.Droid.Resource.Attribute.spinBars;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.spinnerDropDownItemStyle = global::Biometric.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.spinnerStyle = global::Biometric.Droid.Resource.Attribute.spinnerStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.splitTrack = global::Biometric.Droid.Resource.Attribute.splitTrack;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.srcCompat = global::Biometric.Droid.Resource.Attribute.srcCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.stackFromEnd = global::Biometric.Droid.Resource.Attribute.stackFromEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.startIconCheckable = global::Biometric.Droid.Resource.Attribute.startIconCheckable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.startIconContentDescription = global::Biometric.Droid.Resource.Attribute.startIconContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.startIconDrawable = global::Biometric.Droid.Resource.Attribute.startIconDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.startIconTint = global::Biometric.Droid.Resource.Attribute.startIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.startIconTintMode = global::Biometric.Droid.Resource.Attribute.startIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.state_above_anchor = global::Biometric.Droid.Resource.Attribute.state_above_anchor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.state_collapsed = global::Biometric.Droid.Resource.Attribute.state_collapsed;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.state_collapsible = global::Biometric.Droid.Resource.Attribute.state_collapsible;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.state_dragged = global::Biometric.Droid.Resource.Attribute.state_dragged;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.state_liftable = global::Biometric.Droid.Resource.Attribute.state_liftable;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.state_lifted = global::Biometric.Droid.Resource.Attribute.state_lifted;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.statusBarBackground = global::Biometric.Droid.Resource.Attribute.statusBarBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.statusBarForeground = global::Biometric.Droid.Resource.Attribute.statusBarForeground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.statusBarScrim = global::Biometric.Droid.Resource.Attribute.statusBarScrim;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.strokeColor = global::Biometric.Droid.Resource.Attribute.strokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.strokeWidth = global::Biometric.Droid.Resource.Attribute.strokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.subMenuArrow = global::Biometric.Droid.Resource.Attribute.subMenuArrow;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.submitBackground = global::Biometric.Droid.Resource.Attribute.submitBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.subtitle = global::Biometric.Droid.Resource.Attribute.subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.subtitleTextAppearance = global::Biometric.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.subtitleTextColor = global::Biometric.Droid.Resource.Attribute.subtitleTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.subtitleTextStyle = global::Biometric.Droid.Resource.Attribute.subtitleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.suggestionRowLayout = global::Biometric.Droid.Resource.Attribute.suggestionRowLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor = global::Biometric.Droid.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.switchMinWidth = global::Biometric.Droid.Resource.Attribute.switchMinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.switchPadding = global::Biometric.Droid.Resource.Attribute.switchPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.switchStyle = global::Biometric.Droid.Resource.Attribute.switchStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.switchTextAppearance = global::Biometric.Droid.Resource.Attribute.switchTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabBackground = global::Biometric.Droid.Resource.Attribute.tabBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabContentStart = global::Biometric.Droid.Resource.Attribute.tabContentStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabGravity = global::Biometric.Droid.Resource.Attribute.tabGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIconTint = global::Biometric.Droid.Resource.Attribute.tabIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIconTintMode = global::Biometric.Droid.Resource.Attribute.tabIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIndicator = global::Biometric.Droid.Resource.Attribute.tabIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIndicatorAnimationDuration = global::Biometric.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIndicatorColor = global::Biometric.Droid.Resource.Attribute.tabIndicatorColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIndicatorFullWidth = global::Biometric.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIndicatorGravity = global::Biometric.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabIndicatorHeight = global::Biometric.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabInlineLabel = global::Biometric.Droid.Resource.Attribute.tabInlineLabel;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabMaxWidth = global::Biometric.Droid.Resource.Attribute.tabMaxWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabMinWidth = global::Biometric.Droid.Resource.Attribute.tabMinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabMode = global::Biometric.Droid.Resource.Attribute.tabMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabPadding = global::Biometric.Droid.Resource.Attribute.tabPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabPaddingBottom = global::Biometric.Droid.Resource.Attribute.tabPaddingBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabPaddingEnd = global::Biometric.Droid.Resource.Attribute.tabPaddingEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabPaddingStart = global::Biometric.Droid.Resource.Attribute.tabPaddingStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabPaddingTop = global::Biometric.Droid.Resource.Attribute.tabPaddingTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabRippleColor = global::Biometric.Droid.Resource.Attribute.tabRippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabSelectedTextColor = global::Biometric.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabStyle = global::Biometric.Droid.Resource.Attribute.tabStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabTextAppearance = global::Biometric.Droid.Resource.Attribute.tabTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabTextColor = global::Biometric.Droid.Resource.Attribute.tabTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tabUnboundedRipple = global::Biometric.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAllCaps = global::Biometric.Droid.Resource.Attribute.textAllCaps;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceBody1 = global::Biometric.Droid.Resource.Attribute.textAppearanceBody1;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceBody2 = global::Biometric.Droid.Resource.Attribute.textAppearanceBody2;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceButton = global::Biometric.Droid.Resource.Attribute.textAppearanceButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceCaption = global::Biometric.Droid.Resource.Attribute.textAppearanceCaption;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceHeadline1 = global::Biometric.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceHeadline2 = global::Biometric.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceHeadline3 = global::Biometric.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceHeadline4 = global::Biometric.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceHeadline5 = global::Biometric.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceHeadline6 = global::Biometric.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceLargePopupMenu = global::Biometric.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceLineHeightEnabled = global::Biometric.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceListItem = global::Biometric.Droid.Resource.Attribute.textAppearanceListItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceListItemSecondary = global::Biometric.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceListItemSmall = global::Biometric.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceOverline = global::Biometric.Droid.Resource.Attribute.textAppearanceOverline;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearancePopupMenuHeader = global::Biometric.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Biometric.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceSearchResultTitle = global::Biometric.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceSmallPopupMenu = global::Biometric.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceSubtitle1 = global::Biometric.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textAppearanceSubtitle2 = global::Biometric.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textColorAlertDialogListItem = global::Biometric.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textColorSearchUrl = global::Biometric.Droid.Resource.Attribute.textColorSearchUrl;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textEndPadding = global::Biometric.Droid.Resource.Attribute.textEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textInputStyle = global::Biometric.Droid.Resource.Attribute.textInputStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textLocale = global::Biometric.Droid.Resource.Attribute.textLocale;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.textStartPadding = global::Biometric.Droid.Resource.Attribute.textStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.theme = global::Biometric.Droid.Resource.Attribute.theme;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.themeLineHeight = global::Biometric.Droid.Resource.Attribute.themeLineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.thickness = global::Biometric.Droid.Resource.Attribute.thickness;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.thumbTextPadding = global::Biometric.Droid.Resource.Attribute.thumbTextPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.thumbTint = global::Biometric.Droid.Resource.Attribute.thumbTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.thumbTintMode = global::Biometric.Droid.Resource.Attribute.thumbTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tickMark = global::Biometric.Droid.Resource.Attribute.tickMark;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tickMarkTint = global::Biometric.Droid.Resource.Attribute.tickMarkTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tickMarkTintMode = global::Biometric.Droid.Resource.Attribute.tickMarkTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tint = global::Biometric.Droid.Resource.Attribute.tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tintMode = global::Biometric.Droid.Resource.Attribute.tintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.title = global::Biometric.Droid.Resource.Attribute.title;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleEnabled = global::Biometric.Droid.Resource.Attribute.titleEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleMargin = global::Biometric.Droid.Resource.Attribute.titleMargin;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleMarginBottom = global::Biometric.Droid.Resource.Attribute.titleMarginBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleMarginEnd = global::Biometric.Droid.Resource.Attribute.titleMarginEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleMargins = global::Biometric.Droid.Resource.Attribute.titleMargins;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleMarginStart = global::Biometric.Droid.Resource.Attribute.titleMarginStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleMarginTop = global::Biometric.Droid.Resource.Attribute.titleMarginTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleTextAppearance = global::Biometric.Droid.Resource.Attribute.titleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleTextColor = global::Biometric.Droid.Resource.Attribute.titleTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.titleTextStyle = global::Biometric.Droid.Resource.Attribute.titleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.toolbarId = global::Biometric.Droid.Resource.Attribute.toolbarId;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.toolbarNavigationButtonStyle = global::Biometric.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.toolbarStyle = global::Biometric.Droid.Resource.Attribute.toolbarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tooltipForegroundColor = global::Biometric.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tooltipFrameBackground = global::Biometric.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.tooltipText = global::Biometric.Droid.Resource.Attribute.tooltipText;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.track = global::Biometric.Droid.Resource.Attribute.track;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.trackTint = global::Biometric.Droid.Resource.Attribute.trackTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.trackTintMode = global::Biometric.Droid.Resource.Attribute.trackTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.ttcIndex = global::Biometric.Droid.Resource.Attribute.ttcIndex;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.useCompatPadding = global::Biometric.Droid.Resource.Attribute.useCompatPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.useMaterialThemeColors = global::Biometric.Droid.Resource.Attribute.useMaterialThemeColors;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.viewInflaterClass = global::Biometric.Droid.Resource.Attribute.viewInflaterClass;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.voiceIcon = global::Biometric.Droid.Resource.Attribute.voiceIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowActionBar = global::Biometric.Droid.Resource.Attribute.windowActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowActionBarOverlay = global::Biometric.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowActionModeOverlay = global::Biometric.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowFixedHeightMajor = global::Biometric.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowFixedHeightMinor = global::Biometric.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowFixedWidthMajor = global::Biometric.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowFixedWidthMinor = global::Biometric.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowMinWidthMajor = global::Biometric.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowMinWidthMinor = global::Biometric.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.windowNoTitle = global::Biometric.Droid.Resource.Attribute.windowNoTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.yearSelectedStyle = global::Biometric.Droid.Resource.Attribute.yearSelectedStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.yearStyle = global::Biometric.Droid.Resource.Attribute.yearStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Attribute.yearTodayStyle = global::Biometric.Droid.Resource.Attribute.yearTodayStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Boolean.abc_action_bar_embed_tabs = global::Biometric.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::ZXing.Net.Mobile.Forms.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Biometric.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::ZXing.Net.Mobile.Forms.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::Biometric.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Biometric.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_background_cache_hint_selector_material_light = global::Biometric.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_btn_colored_borderless_text_material = global::Biometric.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_btn_colored_text_material = global::Biometric.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_color_highlight_material = global::Biometric.Droid.Resource.Color.abc_color_highlight_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_decor_view_status_guard = global::Biometric.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_decor_view_status_guard_light = global::Biometric.Droid.Resource.Color.abc_decor_view_status_guard_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_hint_foreground_material_dark = global::Biometric.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_hint_foreground_material_light = global::Biometric.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_primary_text_disable_only_material_dark = global::Biometric.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_primary_text_disable_only_material_light = global::Biometric.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_primary_text_material_dark = global::Biometric.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_primary_text_material_light = global::Biometric.Droid.Resource.Color.abc_primary_text_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_search_url_text = global::Biometric.Droid.Resource.Color.abc_search_url_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_search_url_text_normal = global::Biometric.Droid.Resource.Color.abc_search_url_text_normal;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_search_url_text_pressed = global::Biometric.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_search_url_text_selected = global::Biometric.Droid.Resource.Color.abc_search_url_text_selected;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_secondary_text_material_dark = global::Biometric.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_secondary_text_material_light = global::Biometric.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_tint_btn_checkable = global::Biometric.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_tint_default = global::Biometric.Droid.Resource.Color.abc_tint_default;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_tint_edittext = global::Biometric.Droid.Resource.Color.abc_tint_edittext;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_tint_seek_thumb = global::Biometric.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_tint_spinner = global::Biometric.Droid.Resource.Color.abc_tint_spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.abc_tint_switch_track = global::Biometric.Droid.Resource.Color.abc_tint_switch_track;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.accent_material_dark = global::Biometric.Droid.Resource.Color.accent_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.accent_material_light = global::Biometric.Droid.Resource.Color.accent_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.androidx_core_ripple_material_light = global::Biometric.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.androidx_core_secondary_text_default_material_light = global::Biometric.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.background_floating_material_dark = global::Biometric.Droid.Resource.Color.background_floating_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.background_floating_material_light = global::Biometric.Droid.Resource.Color.background_floating_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.background_material_dark = global::Biometric.Droid.Resource.Color.background_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.background_material_light = global::Biometric.Droid.Resource.Color.background_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.bright_foreground_disabled_material_dark = global::Biometric.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.bright_foreground_disabled_material_light = global::Biometric.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.bright_foreground_inverse_material_dark = global::Biometric.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.bright_foreground_inverse_material_light = global::Biometric.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.bright_foreground_material_dark = global::Biometric.Droid.Resource.Color.bright_foreground_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.bright_foreground_material_light = global::Biometric.Droid.Resource.Color.bright_foreground_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.browser_actions_bg_grey = global::Biometric.Droid.Resource.Color.browser_actions_bg_grey;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.browser_actions_divider_color = global::Biometric.Droid.Resource.Color.browser_actions_divider_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.browser_actions_text_color = global::Biometric.Droid.Resource.Color.browser_actions_text_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.browser_actions_title_color = global::Biometric.Droid.Resource.Color.browser_actions_title_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.button_material_dark = global::Biometric.Droid.Resource.Color.button_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.button_material_light = global::Biometric.Droid.Resource.Color.button_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.cardview_dark_background = global::Biometric.Droid.Resource.Color.cardview_dark_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.cardview_light_background = global::Biometric.Droid.Resource.Color.cardview_light_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.cardview_shadow_end_color = global::Biometric.Droid.Resource.Color.cardview_shadow_end_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.cardview_shadow_start_color = global::Biometric.Droid.Resource.Color.cardview_shadow_start_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.checkbox_themeable_attribute_color = global::Biometric.Droid.Resource.Color.checkbox_themeable_attribute_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_bottom_navigation_shadow_color = global::Biometric.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_box_stroke_color = global::Biometric.Droid.Resource.Color.design_box_stroke_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_background = global::Biometric.Droid.Resource.Color.design_dark_default_color_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_error = global::Biometric.Droid.Resource.Color.design_dark_default_color_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_on_background = global::Biometric.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_on_error = global::Biometric.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_on_primary = global::Biometric.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_on_secondary = global::Biometric.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_on_surface = global::Biometric.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_primary = global::Biometric.Droid.Resource.Color.design_dark_default_color_primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_primary_dark = global::Biometric.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_primary_variant = global::Biometric.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_secondary = global::Biometric.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_secondary_variant = global::Biometric.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_dark_default_color_surface = global::Biometric.Droid.Resource.Color.design_dark_default_color_surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_background = global::Biometric.Droid.Resource.Color.design_default_color_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_error = global::Biometric.Droid.Resource.Color.design_default_color_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_on_background = global::Biometric.Droid.Resource.Color.design_default_color_on_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_on_error = global::Biometric.Droid.Resource.Color.design_default_color_on_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_on_primary = global::Biometric.Droid.Resource.Color.design_default_color_on_primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_on_secondary = global::Biometric.Droid.Resource.Color.design_default_color_on_secondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_on_surface = global::Biometric.Droid.Resource.Color.design_default_color_on_surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_primary = global::Biometric.Droid.Resource.Color.design_default_color_primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_primary_dark = global::Biometric.Droid.Resource.Color.design_default_color_primary_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_primary_variant = global::Biometric.Droid.Resource.Color.design_default_color_primary_variant;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_secondary = global::Biometric.Droid.Resource.Color.design_default_color_secondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_secondary_variant = global::Biometric.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_default_color_surface = global::Biometric.Droid.Resource.Color.design_default_color_surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_error = global::Biometric.Droid.Resource.Color.design_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_fab_shadow_end_color = global::Biometric.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_fab_shadow_mid_color = global::Biometric.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_fab_shadow_start_color = global::Biometric.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_fab_stroke_end_inner_color = global::Biometric.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_fab_stroke_end_outer_color = global::Biometric.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_fab_stroke_top_inner_color = global::Biometric.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_fab_stroke_top_outer_color = global::Biometric.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_icon_tint = global::Biometric.Droid.Resource.Color.design_icon_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.design_snackbar_background_color = global::Biometric.Droid.Resource.Color.design_snackbar_background_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.dim_foreground_disabled_material_dark = global::Biometric.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.dim_foreground_disabled_material_light = global::Biometric.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.dim_foreground_material_dark = global::Biometric.Droid.Resource.Color.dim_foreground_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.dim_foreground_material_light = global::Biometric.Droid.Resource.Color.dim_foreground_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.error_color_material_dark = global::Biometric.Droid.Resource.Color.error_color_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.error_color_material_light = global::Biometric.Droid.Resource.Color.error_color_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.foreground_material_dark = global::Biometric.Droid.Resource.Color.foreground_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.foreground_material_light = global::Biometric.Droid.Resource.Color.foreground_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.highlighted_text_material_dark = global::Biometric.Droid.Resource.Color.highlighted_text_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.highlighted_text_material_light = global::Biometric.Droid.Resource.Color.highlighted_text_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_blue_grey_800 = global::Biometric.Droid.Resource.Color.material_blue_grey_800;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_blue_grey_900 = global::Biometric.Droid.Resource.Color.material_blue_grey_900;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_blue_grey_950 = global::Biometric.Droid.Resource.Color.material_blue_grey_950;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_deep_teal_200 = global::Biometric.Droid.Resource.Color.material_deep_teal_200;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_deep_teal_500 = global::Biometric.Droid.Resource.Color.material_deep_teal_500;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_grey_100 = global::Biometric.Droid.Resource.Color.material_grey_100;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_grey_300 = global::Biometric.Droid.Resource.Color.material_grey_300;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_grey_50 = global::Biometric.Droid.Resource.Color.material_grey_50;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_grey_600 = global::Biometric.Droid.Resource.Color.material_grey_600;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_grey_800 = global::Biometric.Droid.Resource.Color.material_grey_800;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_grey_850 = global::Biometric.Droid.Resource.Color.material_grey_850;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_grey_900 = global::Biometric.Droid.Resource.Color.material_grey_900;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_background_disabled = global::Biometric.Droid.Resource.Color.material_on_background_disabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_background_emphasis_high_type = global::Biometric.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_background_emphasis_medium = global::Biometric.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_primary_disabled = global::Biometric.Droid.Resource.Color.material_on_primary_disabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_primary_emphasis_high_type = global::Biometric.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_primary_emphasis_medium = global::Biometric.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_surface_disabled = global::Biometric.Droid.Resource.Color.material_on_surface_disabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_surface_emphasis_high_type = global::Biometric.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.material_on_surface_emphasis_medium = global::Biometric.Droid.Resource.Color.material_on_surface_emphasis_medium;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_bg_color_selector = global::Biometric.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_ripple_color = global::Biometric.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_stroke_color_selector = global::Biometric.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::Biometric.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_text_btn_ripple_color = global::Biometric.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_text_color_disabled = global::Biometric.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_text_color_selector = global::Biometric.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_btn_transparent_bg_color = global::Biometric.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_calendar_item_stroke_color = global::Biometric.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_calendar_selected_range = global::Biometric.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_card_view_foreground = global::Biometric.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_card_view_ripple = global::Biometric.Droid.Resource.Color.mtrl_card_view_ripple;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_chip_background_color = global::Biometric.Droid.Resource.Color.mtrl_chip_background_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_chip_close_icon_tint = global::Biometric.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_chip_surface_color = global::Biometric.Droid.Resource.Color.mtrl_chip_surface_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_chip_text_color = global::Biometric.Droid.Resource.Color.mtrl_chip_text_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_choice_chip_background_color = global::Biometric.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_choice_chip_ripple_color = global::Biometric.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_choice_chip_text_color = global::Biometric.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_error = global::Biometric.Droid.Resource.Color.mtrl_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_fab_ripple_color = global::Biometric.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_filled_background_color = global::Biometric.Droid.Resource.Color.mtrl_filled_background_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_filled_icon_tint = global::Biometric.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_filled_stroke_color = global::Biometric.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_indicator_text_color = global::Biometric.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_navigation_item_background_color = global::Biometric.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_navigation_item_icon_tint = global::Biometric.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_navigation_item_text_color = global::Biometric.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::Biometric.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_outlined_icon_tint = global::Biometric.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_outlined_stroke_color = global::Biometric.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_popupmenu_overlay_color = global::Biometric.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_scrim_color = global::Biometric.Droid.Resource.Color.mtrl_scrim_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_tabs_colored_ripple_color = global::Biometric.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_tabs_icon_color_selector = global::Biometric.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::Biometric.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::Biometric.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_tabs_ripple_color = global::Biometric.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_textinput_default_box_stroke_color = global::Biometric.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_textinput_disabled_color = global::Biometric.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::Biometric.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::Biometric.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::Biometric.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.mtrl_text_btn_text_color_selector = global::Biometric.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.notification_action_color_filter = global::Biometric.Droid.Resource.Color.notification_action_color_filter;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.notification_icon_bg_color = global::Biometric.Droid.Resource.Color.notification_icon_bg_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.notification_material_background_media_default_color = global::Biometric.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_dark_material_dark = global::Biometric.Droid.Resource.Color.primary_dark_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_dark_material_light = global::Biometric.Droid.Resource.Color.primary_dark_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_material_dark = global::Biometric.Droid.Resource.Color.primary_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_material_light = global::Biometric.Droid.Resource.Color.primary_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_text_default_material_dark = global::Biometric.Droid.Resource.Color.primary_text_default_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_text_default_material_light = global::Biometric.Droid.Resource.Color.primary_text_default_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_text_disabled_material_dark = global::Biometric.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.primary_text_disabled_material_light = global::Biometric.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.ripple_material_dark = global::Biometric.Droid.Resource.Color.ripple_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.ripple_material_light = global::Biometric.Droid.Resource.Color.ripple_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.secondary_text_default_material_dark = global::Biometric.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.secondary_text_default_material_light = global::Biometric.Droid.Resource.Color.secondary_text_default_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.secondary_text_disabled_material_dark = global::Biometric.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.secondary_text_disabled_material_light = global::Biometric.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.switch_thumb_disabled_material_dark = global::Biometric.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.switch_thumb_disabled_material_light = global::Biometric.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.switch_thumb_material_dark = global::Biometric.Droid.Resource.Color.switch_thumb_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.switch_thumb_material_light = global::Biometric.Droid.Resource.Color.switch_thumb_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.switch_thumb_normal_material_dark = global::Biometric.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.switch_thumb_normal_material_light = global::Biometric.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.test_mtrl_calendar_day = global::Biometric.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.test_mtrl_calendar_day_selected = global::Biometric.Droid.Resource.Color.test_mtrl_calendar_day_selected;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.tooltip_background_dark = global::Biometric.Droid.Resource.Color.tooltip_background_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Color.tooltip_background_light = global::Biometric.Droid.Resource.Color.tooltip_background_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_content_inset_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Biometric.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_default_height_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_elevation_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_stacked_max_height = global::Biometric.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Biometric.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_button_min_height_material = global::Biometric.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_button_min_width_material = global::Biometric.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Biometric.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Biometric.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_alert_dialog_button_dimen = global::Biometric.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_button_inset_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_button_inset_vertical_material = global::Biometric.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_button_padding_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_button_padding_vertical_material = global::Biometric.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Biometric.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_config_prefDialogWidth = global::Biometric.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_control_corner_material = global::Biometric.Droid.Resource.Dimension.abc_control_corner_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_control_inset_material = global::Biometric.Droid.Resource.Dimension.abc_control_inset_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_control_padding_material = global::Biometric.Droid.Resource.Dimension.abc_control_padding_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_corner_radius_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_fixed_height_major = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_fixed_height_minor = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_fixed_width_major = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_fixed_width_minor = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Biometric.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Biometric.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_min_width_major = global::Biometric.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_min_width_minor = global::Biometric.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_padding_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_padding_top_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dialog_title_divider_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_disabled_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_disabled_alpha_material_light = global::Biometric.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dropdownitem_icon_width = global::Biometric.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Biometric.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Biometric.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Biometric.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_edit_text_inset_top_material = global::Biometric.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_floating_window_z = global::Biometric.Droid.Resource.Dimension.abc_floating_window_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_list_item_height_large_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_list_item_height_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_list_item_height_small_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_panel_menu_list_width = global::Biometric.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_progress_bar_height_material = global::Biometric.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_search_view_preferred_height = global::Biometric.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_search_view_preferred_width = global::Biometric.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_seekbar_track_background_height_material = global::Biometric.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Biometric.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_select_dialog_padding_start_material = global::Biometric.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_switch_padding = global::Biometric.Droid.Resource.Dimension.abc_switch_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_body_1_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_body_2_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_button_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_caption_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_display_1_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_display_2_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_display_3_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_display_4_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_headline_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_large_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_medium_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_menu_header_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_menu_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_small_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_subhead_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Biometric.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_title_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.abc_text_size_title_material_toolbar = global::Biometric.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.action_bar_size = global::Biometric.Droid.Resource.Dimension.action_bar_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.appcompat_dialog_background_inset = global::Biometric.Droid.Resource.Dimension.appcompat_dialog_background_inset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.browser_actions_context_menu_max_width = global::Biometric.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.browser_actions_context_menu_min_padding = global::Biometric.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.cardview_compat_inset_shadow = global::Biometric.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.cardview_default_elevation = global::Biometric.Droid.Resource.Dimension.cardview_default_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.cardview_default_radius = global::Biometric.Droid.Resource.Dimension.cardview_default_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.compat_button_inset_horizontal_material = global::Biometric.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.compat_button_inset_vertical_material = global::Biometric.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.compat_button_padding_horizontal_material = global::Biometric.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.compat_button_padding_vertical_material = global::Biometric.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.compat_control_corner_material = global::Biometric.Droid.Resource.Dimension.compat_control_corner_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.compat_notification_large_icon_max_height = global::Biometric.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.compat_notification_large_icon_max_width = global::Biometric.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.default_dimension = global::Biometric.Droid.Resource.Dimension.default_dimension;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.def_drawer_elevation = global::Biometric.Droid.Resource.Dimension.def_drawer_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_appbar_elevation = global::Biometric.Droid.Resource.Dimension.design_appbar_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_active_text_size = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_elevation = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_height = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_icon_size = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_item_max_width = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_item_min_width = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_margin = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_shadow_height = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_navigation_text_size = global::Biometric.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_sheet_elevation = global::Biometric.Droid.Resource.Dimension.design_bottom_sheet_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Biometric.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Biometric.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_fab_border_width = global::Biometric.Droid.Resource.Dimension.design_fab_border_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_fab_elevation = global::Biometric.Droid.Resource.Dimension.design_fab_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_fab_image_size = global::Biometric.Droid.Resource.Dimension.design_fab_image_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_fab_size_mini = global::Biometric.Droid.Resource.Dimension.design_fab_size_mini;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_fab_size_normal = global::Biometric.Droid.Resource.Dimension.design_fab_size_normal;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_fab_translation_z_hovered_focused = global::Biometric.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_fab_translation_z_pressed = global::Biometric.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_elevation = global::Biometric.Droid.Resource.Dimension.design_navigation_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_icon_padding = global::Biometric.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_icon_size = global::Biometric.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_item_horizontal_padding = global::Biometric.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_item_icon_padding = global::Biometric.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_max_width = global::Biometric.Droid.Resource.Dimension.design_navigation_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_padding_bottom = global::Biometric.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_navigation_separator_vertical_padding = global::Biometric.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_action_inline_max_width = global::Biometric.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_action_text_color_alpha = global::Biometric.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_background_corner_radius = global::Biometric.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_elevation = global::Biometric.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Biometric.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_max_width = global::Biometric.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_min_width = global::Biometric.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_padding_horizontal = global::Biometric.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_padding_vertical = global::Biometric.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Biometric.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_snackbar_text_size = global::Biometric.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_tab_max_width = global::Biometric.Droid.Resource.Dimension.design_tab_max_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_tab_scrollable_min_width = global::Biometric.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_tab_text_size = global::Biometric.Droid.Resource.Dimension.design_tab_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_tab_text_size_2line = global::Biometric.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.design_textinput_caption_translate_y = global::Biometric.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.disabled_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.disabled_alpha_material_light = global::Biometric.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.fastscroll_default_thickness = global::Biometric.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.fastscroll_margin = global::Biometric.Droid.Resource.Dimension.fastscroll_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.fastscroll_minimum_range = global::Biometric.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.highlight_alpha_material_colored = global::Biometric.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.highlight_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.highlight_alpha_material_light = global::Biometric.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.hint_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.hint_alpha_material_light = global::Biometric.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.hint_pressed_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.hint_pressed_alpha_material_light = global::Biometric.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Biometric.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Biometric.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Biometric.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.material_emphasis_disabled = global::Biometric.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.material_emphasis_high_type = global::Biometric.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.material_emphasis_medium = global::Biometric.Droid.Resource.Dimension.material_emphasis_medium;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.material_text_view_test_line_height = global::Biometric.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.material_text_view_test_line_height_override = global::Biometric.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::Biometric.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::Biometric.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::Biometric.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::Biometric.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::Biometric.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::Biometric.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::Biometric.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_badge_radius = global::Biometric.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::Biometric.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_badge_text_size = global::Biometric.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_badge_with_text_radius = global::Biometric.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::Biometric.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::Biometric.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::Biometric.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::Biometric.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::Biometric.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_bottomappbar_height = global::Biometric.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_corner_radius = global::Biometric.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::Biometric.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_disabled_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_disabled_z = global::Biometric.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_focused_z = global::Biometric.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_hovered_z = global::Biometric.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::Biometric.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_icon_padding = global::Biometric.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_inset = global::Biometric.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_letter_spacing = global::Biometric.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_padding_bottom = global::Biometric.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_padding_left = global::Biometric.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_padding_right = global::Biometric.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_padding_top = global::Biometric.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_pressed_z = global::Biometric.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_stroke_size = global::Biometric.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::Biometric.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::Biometric.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::Biometric.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_text_size = global::Biometric.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_btn_z = global::Biometric.Droid.Resource.Dimension.mtrl_btn_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_action_height = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_action_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_bottom_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_content_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_days_of_week_height = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_day_corner = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_day_height = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_day_today_stroke = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_day_width = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_content_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_height = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_text_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_landscape_header_width = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_navigation_height = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_year_corner = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_year_height = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_calendar_year_width = global::Biometric.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_card_checked_icon_margin = global::Biometric.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_card_checked_icon_size = global::Biometric.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_card_corner_radius = global::Biometric.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_card_dragged_z = global::Biometric.Droid.Resource.Dimension.mtrl_card_dragged_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_card_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_card_spacing = global::Biometric.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Biometric.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_chip_text_size = global::Biometric.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::Biometric.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::Biometric.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_corner_radius = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_end_padding = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_icon_size = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_min_height = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_min_width = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_start_padding = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_top_padding = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::Biometric.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_fab_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_fab_min_touch_target = global::Biometric.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::Biometric.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_fab_translation_z_pressed = global::Biometric.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_high_ripple_default_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_large_touch_target = global::Biometric.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_low_ripple_default_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_min_touch_target_size = global::Biometric.Droid.Resource.Dimension.mtrl_min_touch_target_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_navigation_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::Biometric.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_navigation_item_icon_padding = global::Biometric.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_navigation_item_icon_size = global::Biometric.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::Biometric.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::Biometric.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_shape_corner_size_large_component = global::Biometric.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::Biometric.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_shape_corner_size_small_component = global::Biometric.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Biometric.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::Biometric.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_snackbar_margin = global::Biometric.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_switch_thumb_elevation = global::Biometric.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::Biometric.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.mtrl_toolbar_default_height = global::Biometric.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_action_icon_size = global::Biometric.Droid.Resource.Dimension.notification_action_icon_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_action_text_size = global::Biometric.Droid.Resource.Dimension.notification_action_text_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_big_circle_margin = global::Biometric.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_content_margin_start = global::Biometric.Droid.Resource.Dimension.notification_content_margin_start;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_large_icon_height = global::Biometric.Droid.Resource.Dimension.notification_large_icon_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_large_icon_width = global::Biometric.Droid.Resource.Dimension.notification_large_icon_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_main_column_padding_top = global::Biometric.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_media_narrow_margin = global::Biometric.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_right_icon_size = global::Biometric.Droid.Resource.Dimension.notification_right_icon_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_right_side_padding_top = global::Biometric.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_small_icon_background_padding = global::Biometric.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_small_icon_size_as_large = global::Biometric.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_subtext_size = global::Biometric.Droid.Resource.Dimension.notification_subtext_size;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_top_pad = global::Biometric.Droid.Resource.Dimension.notification_top_pad;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.notification_top_pad_large_text = global::Biometric.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::Biometric.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_corner_radius = global::Biometric.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_horizontal_padding = global::Biometric.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_margin = global::Biometric.Droid.Resource.Dimension.tooltip_margin;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Biometric.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_precise_anchor_threshold = global::Biometric.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_vertical_padding = global::Biometric.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_y_offset_non_touch = global::Biometric.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::ZXing.Net.Mobile.Forms.Resource.Dimension.tooltip_y_offset_touch = global::Biometric.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_action_bar_item_background_material = global::Biometric.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_borderless_material = global::Biometric.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_check_material = global::Biometric.Droid.Resource.Drawable.abc_btn_check_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_check_material_anim = global::Biometric.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Biometric.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Biometric.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_colored_material = global::Biometric.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_default_mtrl_shape = global::Biometric.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_radio_material = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_radio_material_anim = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Biometric.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Biometric.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_cab_background_internal_bg = global::Biometric.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_cab_background_top_material = global::Biometric.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_control_background_material = global::Biometric.Droid.Resource.Drawable.abc_control_background_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_dialog_material_background = global::Biometric.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_edit_text_material = global::Biometric.Droid.Resource.Drawable.abc_edit_text_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_ab_back_material = global::Biometric.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Biometric.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_clear_material = global::Biometric.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_go_search_api_material = global::Biometric.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_menu_overflow_material = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_search_api_material = global::Biometric.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ic_voice_search_api_material = global::Biometric.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_item_background_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_item_background_holo_light = global::Biometric.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_divider_material = global::Biometric.Droid.Resource.Drawable.abc_list_divider_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_focused_holo = global::Biometric.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_longpressed_holo = global::Biometric.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_pressed_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_pressed_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_selector_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_list_selector_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Biometric.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_popup_background_mtrl_mult = global::Biometric.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ratingbar_indicator_material = global::Biometric.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ratingbar_material = global::Biometric.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_ratingbar_small_material = global::Biometric.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Biometric.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Biometric.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_seekbar_thumb_material = global::Biometric.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_seekbar_tick_mark_material = global::Biometric.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_seekbar_track_material = global::Biometric.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Biometric.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_spinner_textfield_background_material = global::Biometric.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_switch_thumb_material = global::Biometric.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_tab_indicator_material = global::Biometric.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_textfield_search_material = global::Biometric.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_text_cursor_material = global::Biometric.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.abc_vector_test = global::Biometric.Droid.Resource.Drawable.abc_vector_test;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.avd_hide_password = global::Biometric.Droid.Resource.Drawable.avd_hide_password;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.avd_show_password = global::Biometric.Droid.Resource.Drawable.avd_show_password;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_checkbox_checked_mtrl = global::Biometric.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::Biometric.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_radio_off_mtrl = global::Biometric.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_radio_on_mtrl = global::Biometric.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.design_fab_background = global::Biometric.Droid.Resource.Drawable.design_fab_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.design_ic_visibility = global::Biometric.Droid.Resource.Drawable.design_ic_visibility;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.design_ic_visibility_off = global::Biometric.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.design_password_eye = global::Biometric.Droid.Resource.Drawable.design_password_eye;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.design_snackbar_background = global::Biometric.Droid.Resource.Drawable.design_snackbar_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.ic_mtrl_checked_circle = global::Biometric.Droid.Resource.Drawable.ic_mtrl_checked_circle;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.ic_mtrl_chip_checked_black = global::Biometric.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.ic_mtrl_chip_checked_circle = global::Biometric.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.ic_mtrl_chip_close_circle = global::Biometric.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_dialog_background = global::Biometric.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_dropdown_arrow = global::Biometric.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_ic_arrow_drop_down = global::Biometric.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_ic_arrow_drop_up = global::Biometric.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_ic_cancel = global::Biometric.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_ic_error = global::Biometric.Droid.Resource.Drawable.mtrl_ic_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_popupmenu_background = global::Biometric.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_popupmenu_background_dark = global::Biometric.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.mtrl_tabs_default_indicator = global::Biometric.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.navigation_empty_icon = global::Biometric.Droid.Resource.Drawable.navigation_empty_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_action_background = global::Biometric.Droid.Resource.Drawable.notification_action_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_bg = global::Biometric.Droid.Resource.Drawable.notification_bg;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_bg_low = global::Biometric.Droid.Resource.Drawable.notification_bg_low;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_bg_low_normal = global::Biometric.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_bg_low_pressed = global::Biometric.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_bg_normal = global::Biometric.Droid.Resource.Drawable.notification_bg_normal;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_bg_normal_pressed = global::Biometric.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_icon_background = global::Biometric.Droid.Resource.Drawable.notification_icon_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_template_icon_bg = global::Biometric.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_template_icon_low_bg = global::Biometric.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notification_tile_bg = global::Biometric.Droid.Resource.Drawable.notification_tile_bg;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.notify_panel_notification_icon_bg = global::Biometric.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.test_custom_background = global::Biometric.Droid.Resource.Drawable.test_custom_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.tooltip_frame_dark = global::Biometric.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Drawable.tooltip_frame_light = global::Biometric.Droid.Resource.Drawable.tooltip_frame_light;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_action_clickable_span = global::Biometric.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_0 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_0;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_1 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_1;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_10 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_10;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_11 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_11;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_12 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_12;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_13 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_13;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_14 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_14;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_15 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_15;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_16 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_16;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_17 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_17;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_18 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_18;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_19 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_19;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_2 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_2;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_20 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_20;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_21 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_21;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_22 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_22;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_23 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_23;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_24 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_24;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_25 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_25;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_26 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_26;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_27 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_27;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_28 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_28;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_29 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_29;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_3 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_3;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_30 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_30;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_31 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_31;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_4 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_4;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_5 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_5;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_6 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_6;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_7 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_7;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_8 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_8;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.accessibility_custom_action_9 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_9;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action0 = global::Biometric.Droid.Resource.Id.action0;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.actions = global::Biometric.Droid.Resource.Id.actions;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_bar = global::Biometric.Droid.Resource.Id.action_bar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_bar_activity_content = global::Biometric.Droid.Resource.Id.action_bar_activity_content;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_bar_container = global::Biometric.Droid.Resource.Id.action_bar_container;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_bar_root = global::Biometric.Droid.Resource.Id.action_bar_root;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_bar_spinner = global::Biometric.Droid.Resource.Id.action_bar_spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_bar_subtitle = global::Biometric.Droid.Resource.Id.action_bar_subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_bar_title = global::Biometric.Droid.Resource.Id.action_bar_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_container = global::Biometric.Droid.Resource.Id.action_container;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_context_bar = global::Biometric.Droid.Resource.Id.action_context_bar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_divider = global::Biometric.Droid.Resource.Id.action_divider;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_image = global::Biometric.Droid.Resource.Id.action_image;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_menu_divider = global::Biometric.Droid.Resource.Id.action_menu_divider;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_menu_presenter = global::Biometric.Droid.Resource.Id.action_menu_presenter;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_mode_bar = global::Biometric.Droid.Resource.Id.action_mode_bar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_mode_bar_stub = global::Biometric.Droid.Resource.Id.action_mode_bar_stub;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_mode_close_button = global::Biometric.Droid.Resource.Id.action_mode_close_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.action_text = global::Biometric.Droid.Resource.Id.action_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.activity_chooser_view_content = global::Biometric.Droid.Resource.Id.activity_chooser_view_content;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.add = global::Biometric.Droid.Resource.Id.add;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.alertTitle = global::Biometric.Droid.Resource.Id.alertTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.all = global::Biometric.Droid.Resource.Id.all;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.ALT = global::Biometric.Droid.Resource.Id.ALT;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.always = global::Biometric.Droid.Resource.Id.always;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.async = global::Biometric.Droid.Resource.Id.async;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.auto = global::Biometric.Droid.Resource.Id.auto;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.beginning = global::Biometric.Droid.Resource.Id.beginning;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.blocking = global::Biometric.Droid.Resource.Id.blocking;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.bottom = global::Biometric.Droid.Resource.Id.bottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.bottomtab_navarea = global::Biometric.Droid.Resource.Id.bottomtab_navarea;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.bottomtab_tabbar = global::Biometric.Droid.Resource.Id.bottomtab_tabbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.BOTTOM_END = global::Biometric.Droid.Resource.Id.BOTTOM_END;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.BOTTOM_START = global::Biometric.Droid.Resource.Id.BOTTOM_START;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.browser_actions_header_text = global::Biometric.Droid.Resource.Id.browser_actions_header_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.browser_actions_menu_items = global::Biometric.Droid.Resource.Id.browser_actions_menu_items;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.browser_actions_menu_item_icon = global::Biometric.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.browser_actions_menu_item_text = global::Biometric.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.browser_actions_menu_view = global::Biometric.Droid.Resource.Id.browser_actions_menu_view;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.buttonPanel = global::Biometric.Droid.Resource.Id.buttonPanel;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.cancel_action = global::Biometric.Droid.Resource.Id.cancel_action;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.cancel_button = global::Biometric.Droid.Resource.Id.cancel_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.center = global::Biometric.Droid.Resource.Id.center;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.center_horizontal = global::Biometric.Droid.Resource.Id.center_horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.center_vertical = global::Biometric.Droid.Resource.Id.center_vertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.checkbox = global::Biometric.Droid.Resource.Id.checkbox;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.@checked = global::Biometric.Droid.Resource.Id.@checked;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.chip = global::Biometric.Droid.Resource.Id.chip;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.chip_group = global::Biometric.Droid.Resource.Id.chip_group;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.chronometer = global::Biometric.Droid.Resource.Id.chronometer;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.clear_text = global::Biometric.Droid.Resource.Id.clear_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.clip_horizontal = global::Biometric.Droid.Resource.Id.clip_horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.clip_vertical = global::Biometric.Droid.Resource.Id.clip_vertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.collapseActionView = global::Biometric.Droid.Resource.Id.collapseActionView;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.confirm_button = global::Biometric.Droid.Resource.Id.confirm_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.container = global::Biometric.Droid.Resource.Id.container;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.content = global::Biometric.Droid.Resource.Id.content;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.contentFrame = global::Biometric.Droid.Resource.Id.contentFrame;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.contentPanel = global::Biometric.Droid.Resource.Id.contentPanel;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.coordinator = global::Biometric.Droid.Resource.Id.coordinator;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.CTRL = global::Biometric.Droid.Resource.Id.CTRL;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.custom = global::Biometric.Droid.Resource.Id.custom;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.customPanel = global::Biometric.Droid.Resource.Id.customPanel;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.cut = global::Biometric.Droid.Resource.Id.cut;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.date_picker_actions = global::Biometric.Droid.Resource.Id.date_picker_actions;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.decor_content_parent = global::Biometric.Droid.Resource.Id.decor_content_parent;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.default_activity_button = global::Biometric.Droid.Resource.Id.default_activity_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.design_bottom_sheet = global::Biometric.Droid.Resource.Id.design_bottom_sheet;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.design_menu_item_action_area = global::Biometric.Droid.Resource.Id.design_menu_item_action_area;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.design_menu_item_action_area_stub = global::Biometric.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.design_menu_item_text = global::Biometric.Droid.Resource.Id.design_menu_item_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.design_navigation_view = global::Biometric.Droid.Resource.Id.design_navigation_view;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.dialog_button = global::Biometric.Droid.Resource.Id.dialog_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.disableHome = global::Biometric.Droid.Resource.Id.disableHome;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.dropdown_menu = global::Biometric.Droid.Resource.Id.dropdown_menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.edit_query = global::Biometric.Droid.Resource.Id.edit_query;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.end = global::Biometric.Droid.Resource.Id.end;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.end_padder = global::Biometric.Droid.Resource.Id.end_padder;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.enterAlways = global::Biometric.Droid.Resource.Id.enterAlways;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.enterAlwaysCollapsed = global::Biometric.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.exitUntilCollapsed = global::Biometric.Droid.Resource.Id.exitUntilCollapsed;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.expanded_menu = global::Biometric.Droid.Resource.Id.expanded_menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.expand_activities_button = global::Biometric.Droid.Resource.Id.expand_activities_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.fade = global::Biometric.Droid.Resource.Id.fade;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.fill = global::Biometric.Droid.Resource.Id.fill;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.filled = global::Biometric.Droid.Resource.Id.filled;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.fill_horizontal = global::Biometric.Droid.Resource.Id.fill_horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.fill_vertical = global::Biometric.Droid.Resource.Id.fill_vertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.fitToContents = global::Biometric.Droid.Resource.Id.fitToContents;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.@fixed = global::Biometric.Droid.Resource.Id.@fixed;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.flyoutcontent_appbar = global::Biometric.Droid.Resource.Id.flyoutcontent_appbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.forever = global::Biometric.Droid.Resource.Id.forever;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.fragment_container_view_tag = global::Biometric.Droid.Resource.Id.fragment_container_view_tag;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.FUNCTION = global::Biometric.Droid.Resource.Id.FUNCTION;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.ghost_view = global::Biometric.Droid.Resource.Id.ghost_view;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.ghost_view_holder = global::Biometric.Droid.Resource.Id.ghost_view_holder;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.group_divider = global::Biometric.Droid.Resource.Id.group_divider;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.hideable = global::Biometric.Droid.Resource.Id.hideable;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.home = global::Biometric.Droid.Resource.Id.home;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.homeAsUp = global::Biometric.Droid.Resource.Id.homeAsUp;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.icon = global::Biometric.Droid.Resource.Id.icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.icon_group = global::Biometric.Droid.Resource.Id.icon_group;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.ifRoom = global::Biometric.Droid.Resource.Id.ifRoom;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.image = global::Biometric.Droid.Resource.Id.image;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.info = global::Biometric.Droid.Resource.Id.info;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.italic = global::Biometric.Droid.Resource.Id.italic;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.item_touch_helper_previous_elevation = global::Biometric.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.labeled = global::Biometric.Droid.Resource.Id.labeled;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.left = global::Biometric.Droid.Resource.Id.left;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.line1 = global::Biometric.Droid.Resource.Id.line1;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.line3 = global::Biometric.Droid.Resource.Id.line3;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.listMode = global::Biometric.Droid.Resource.Id.listMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.list_item = global::Biometric.Droid.Resource.Id.list_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.main_appbar = global::Biometric.Droid.Resource.Id.main_appbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.main_tablayout = global::Biometric.Droid.Resource.Id.main_tablayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.main_toolbar = global::Biometric.Droid.Resource.Id.main_toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.main_viewpager = global::Biometric.Droid.Resource.Id.main_viewpager;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.masked = global::Biometric.Droid.Resource.Id.masked;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.media_actions = global::Biometric.Droid.Resource.Id.media_actions;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.media_controller_compat_view_tag = global::Biometric.Droid.Resource.Id.media_controller_compat_view_tag;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.message = global::Biometric.Droid.Resource.Id.message;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.META = global::Biometric.Droid.Resource.Id.META;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.middle = global::Biometric.Droid.Resource.Id.middle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mini = global::Biometric.Droid.Resource.Id.mini;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.month_grid = global::Biometric.Droid.Resource.Id.month_grid;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.month_navigation_bar = global::Biometric.Droid.Resource.Id.month_navigation_bar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.month_navigation_fragment_toggle = global::Biometric.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.month_navigation_next = global::Biometric.Droid.Resource.Id.month_navigation_next;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.month_navigation_previous = global::Biometric.Droid.Resource.Id.month_navigation_previous;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.month_title = global::Biometric.Droid.Resource.Id.month_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_days_of_week = global::Biometric.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_day_selector_frame = global::Biometric.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_frame = global::Biometric.Droid.Resource.Id.mtrl_calendar_frame;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_main_pane = global::Biometric.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_months = global::Biometric.Droid.Resource.Id.mtrl_calendar_months;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_selection_frame = global::Biometric.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_text_input_frame = global::Biometric.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_calendar_year_selector_frame = global::Biometric.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_card_checked_layer_id = global::Biometric.Droid.Resource.Id.mtrl_card_checked_layer_id;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_child_content_container = global::Biometric.Droid.Resource.Id.mtrl_child_content_container;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_internal_children_alpha_tag = global::Biometric.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_fullscreen = global::Biometric.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_header = global::Biometric.Droid.Resource.Id.mtrl_picker_header;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_header_selection_text = global::Biometric.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_header_title_and_selection = global::Biometric.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_header_toggle = global::Biometric.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_text_input_date = global::Biometric.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_text_input_range_end = global::Biometric.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_text_input_range_start = global::Biometric.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.mtrl_picker_title_text = global::Biometric.Droid.Resource.Id.mtrl_picker_title_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.multiply = global::Biometric.Droid.Resource.Id.multiply;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.navigation_header_container = global::Biometric.Droid.Resource.Id.navigation_header_container;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.never = global::Biometric.Droid.Resource.Id.never;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.none = global::Biometric.Droid.Resource.Id.none;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.normal = global::Biometric.Droid.Resource.Id.normal;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.noScroll = global::Biometric.Droid.Resource.Id.noScroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.notification_background = global::Biometric.Droid.Resource.Id.notification_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.notification_main_column = global::Biometric.Droid.Resource.Id.notification_main_column;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.notification_main_column_container = global::Biometric.Droid.Resource.Id.notification_main_column_container;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.off = global::Biometric.Droid.Resource.Id.off;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.on = global::Biometric.Droid.Resource.Id.on;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.outline = global::Biometric.Droid.Resource.Id.outline;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.parallax = global::Biometric.Droid.Resource.Id.parallax;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.parentPanel = global::Biometric.Droid.Resource.Id.parentPanel;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.parent_matrix = global::Biometric.Droid.Resource.Id.parent_matrix;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.password_toggle = global::Biometric.Droid.Resource.Id.password_toggle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.peekHeight = global::Biometric.Droid.Resource.Id.peekHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.pin = global::Biometric.Droid.Resource.Id.pin;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.progress_circular = global::Biometric.Droid.Resource.Id.progress_circular;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.progress_horizontal = global::Biometric.Droid.Resource.Id.progress_horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.radio = global::Biometric.Droid.Resource.Id.radio;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.right = global::Biometric.Droid.Resource.Id.right;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.right_icon = global::Biometric.Droid.Resource.Id.right_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.right_side = global::Biometric.Droid.Resource.Id.right_side;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.rounded = global::Biometric.Droid.Resource.Id.rounded;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.save_non_transition_alpha = global::Biometric.Droid.Resource.Id.save_non_transition_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.save_overlay_view = global::Biometric.Droid.Resource.Id.save_overlay_view;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.scale = global::Biometric.Droid.Resource.Id.scale;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.screen = global::Biometric.Droid.Resource.Id.screen;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.scroll = global::Biometric.Droid.Resource.Id.scroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.scrollable = global::Biometric.Droid.Resource.Id.scrollable;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.scrollIndicatorDown = global::Biometric.Droid.Resource.Id.scrollIndicatorDown;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.scrollIndicatorUp = global::Biometric.Droid.Resource.Id.scrollIndicatorUp;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.scrollView = global::Biometric.Droid.Resource.Id.scrollView;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_badge = global::Biometric.Droid.Resource.Id.search_badge;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_bar = global::Biometric.Droid.Resource.Id.search_bar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_button = global::Biometric.Droid.Resource.Id.search_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_close_btn = global::Biometric.Droid.Resource.Id.search_close_btn;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_edit_frame = global::Biometric.Droid.Resource.Id.search_edit_frame;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_go_btn = global::Biometric.Droid.Resource.Id.search_go_btn;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_mag_icon = global::Biometric.Droid.Resource.Id.search_mag_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_plate = global::Biometric.Droid.Resource.Id.search_plate;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_src_text = global::Biometric.Droid.Resource.Id.search_src_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.search_voice_btn = global::Biometric.Droid.Resource.Id.search_voice_btn;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.selected = global::Biometric.Droid.Resource.Id.selected;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.select_dialog_listview = global::Biometric.Droid.Resource.Id.select_dialog_listview;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.shellcontent_appbar = global::Biometric.Droid.Resource.Id.shellcontent_appbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.shellcontent_toolbar = global::Biometric.Droid.Resource.Id.shellcontent_toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.SHIFT = global::Biometric.Droid.Resource.Id.SHIFT;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.shortcut = global::Biometric.Droid.Resource.Id.shortcut;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.showCustom = global::Biometric.Droid.Resource.Id.showCustom;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.showHome = global::Biometric.Droid.Resource.Id.showHome;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.showTitle = global::Biometric.Droid.Resource.Id.showTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.skipCollapsed = global::Biometric.Droid.Resource.Id.skipCollapsed;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.slide = global::Biometric.Droid.Resource.Id.slide;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.sliding_tabs = global::Biometric.Droid.Resource.Id.sliding_tabs;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.snackbar_action = global::Biometric.Droid.Resource.Id.snackbar_action;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.snackbar_text = global::Biometric.Droid.Resource.Id.snackbar_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.snap = global::Biometric.Droid.Resource.Id.snap;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.snapMargins = global::Biometric.Droid.Resource.Id.snapMargins;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.spacer = global::Biometric.Droid.Resource.Id.spacer;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.split_action_bar = global::Biometric.Droid.Resource.Id.split_action_bar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.src_atop = global::Biometric.Droid.Resource.Id.src_atop;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.src_in = global::Biometric.Droid.Resource.Id.src_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.src_over = global::Biometric.Droid.Resource.Id.src_over;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.start = global::Biometric.Droid.Resource.Id.start;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.status_bar_latest_event_content = global::Biometric.Droid.Resource.Id.status_bar_latest_event_content;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.stretch = global::Biometric.Droid.Resource.Id.stretch;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.submenuarrow = global::Biometric.Droid.Resource.Id.submenuarrow;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.submit_area = global::Biometric.Droid.Resource.Id.submit_area;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.SYM = global::Biometric.Droid.Resource.Id.SYM;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tabMode = global::Biometric.Droid.Resource.Id.tabMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_accessibility_actions = global::Biometric.Droid.Resource.Id.tag_accessibility_actions;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_accessibility_clickable_spans = global::Biometric.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_accessibility_heading = global::Biometric.Droid.Resource.Id.tag_accessibility_heading;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_accessibility_pane_title = global::Biometric.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_screen_reader_focusable = global::Biometric.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_transition_group = global::Biometric.Droid.Resource.Id.tag_transition_group;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_unhandled_key_event_manager = global::Biometric.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.tag_unhandled_key_listeners = global::Biometric.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.test_checkbox_android_button_tint = global::Biometric.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.test_checkbox_app_button_tint = global::Biometric.Droid.Resource.Id.test_checkbox_app_button_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.text = global::Biometric.Droid.Resource.Id.text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.text2 = global::Biometric.Droid.Resource.Id.text2;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.textEnd = global::Biometric.Droid.Resource.Id.textEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.textinput_counter = global::Biometric.Droid.Resource.Id.textinput_counter;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.textinput_error = global::Biometric.Droid.Resource.Id.textinput_error;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.textinput_helper_text = global::Biometric.Droid.Resource.Id.textinput_helper_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.textSpacerNoButtons = global::Biometric.Droid.Resource.Id.textSpacerNoButtons;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.textSpacerNoTitle = global::Biometric.Droid.Resource.Id.textSpacerNoTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.textStart = global::Biometric.Droid.Resource.Id.textStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.text_input_end_icon = global::Biometric.Droid.Resource.Id.text_input_end_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.text_input_start_icon = global::Biometric.Droid.Resource.Id.text_input_start_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.time = global::Biometric.Droid.Resource.Id.time;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.title = global::Biometric.Droid.Resource.Id.title;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.titleDividerNoCustom = global::Biometric.Droid.Resource.Id.titleDividerNoCustom;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.title_template = global::Biometric.Droid.Resource.Id.title_template;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.toolbar = global::Biometric.Droid.Resource.Id.toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.top = global::Biometric.Droid.Resource.Id.top;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.topPanel = global::Biometric.Droid.Resource.Id.topPanel;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.TOP_END = global::Biometric.Droid.Resource.Id.TOP_END;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.TOP_START = global::Biometric.Droid.Resource.Id.TOP_START;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.touch_outside = global::Biometric.Droid.Resource.Id.touch_outside;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.transition_current_scene = global::Biometric.Droid.Resource.Id.transition_current_scene;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.transition_layout_save = global::Biometric.Droid.Resource.Id.transition_layout_save;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.transition_position = global::Biometric.Droid.Resource.Id.transition_position;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.transition_scene_layoutid_cache = global::Biometric.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.transition_transform = global::Biometric.Droid.Resource.Id.transition_transform;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.@unchecked = global::Biometric.Droid.Resource.Id.@unchecked;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.uniform = global::Biometric.Droid.Resource.Id.uniform;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.unlabeled = global::Biometric.Droid.Resource.Id.unlabeled;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.up = global::Biometric.Droid.Resource.Id.up;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.useLogo = global::Biometric.Droid.Resource.Id.useLogo;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.view_offset_helper = global::Biometric.Droid.Resource.Id.view_offset_helper;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.view_tree_saved_state_registry_owner = global::Biometric.Droid.Resource.Id.view_tree_saved_state_registry_owner;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.visible = global::Biometric.Droid.Resource.Id.visible;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.visible_removing_fragment_view_tag = global::Biometric.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.withText = global::Biometric.Droid.Resource.Id.withText;
+			global::ZXing.Net.Mobile.Forms.Resource.Id.wrap_content = global::Biometric.Droid.Resource.Id.wrap_content;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.abc_config_activityDefaultDur = global::Biometric.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.abc_config_activityShortDur = global::Biometric.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.app_bar_elevation_anim_duration = global::Biometric.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.bottom_sheet_slide_duration = global::Biometric.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.cancel_button_image_alpha = global::Biometric.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.config_tooltipAnimTime = global::Biometric.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.design_snackbar_text_max_lines = global::Biometric.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.design_tab_indicator_anim_duration_ms = global::Biometric.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.hide_password_duration = global::Biometric.Droid.Resource.Integer.hide_password_duration;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_badge_max_character_count = global::Biometric.Droid.Resource.Integer.mtrl_badge_max_character_count;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_btn_anim_delay_ms = global::Biometric.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_btn_anim_duration_ms = global::Biometric.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_calendar_header_orientation = global::Biometric.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_calendar_selection_text_lines = global::Biometric.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_calendar_year_selector_span = global::Biometric.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_card_anim_delay_ms = global::Biometric.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_card_anim_duration_ms = global::Biometric.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_chip_anim_duration = global::Biometric.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::Biometric.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.show_password_duration = global::Biometric.Droid.Resource.Integer.show_password_duration;
+			global::ZXing.Net.Mobile.Forms.Resource.Integer.status_bar_notification_info_maxnum = global::Biometric.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.fast_out_slow_in = global::Biometric.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.mtrl_fast_out_linear_in = global::Biometric.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.mtrl_fast_out_slow_in = global::Biometric.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.mtrl_linear = global::Biometric.Droid.Resource.Interpolator.mtrl_linear;
+			global::ZXing.Net.Mobile.Forms.Resource.Interpolator.mtrl_linear_out_slow_in = global::Biometric.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_action_bar_title_item = global::Biometric.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_action_bar_up_container = global::Biometric.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_action_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_action_menu_layout = global::Biometric.Droid.Resource.Layout.abc_action_menu_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_action_mode_bar = global::Biometric.Droid.Resource.Layout.abc_action_mode_bar;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_action_mode_close_item_material = global::Biometric.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_activity_chooser_view = global::Biometric.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_activity_chooser_view_list_item = global::Biometric.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_alert_dialog_button_bar_material = global::Biometric.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_alert_dialog_material = global::Biometric.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_alert_dialog_title_material = global::Biometric.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_cascading_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_dialog_title_material = global::Biometric.Droid.Resource.Layout.abc_dialog_title_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_expanded_menu_layout = global::Biometric.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_list_menu_item_checkbox = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_list_menu_item_icon = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_list_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_list_menu_item_radio = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_popup_menu_header_item_layout = global::Biometric.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_popup_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_screen_content_include = global::Biometric.Droid.Resource.Layout.abc_screen_content_include;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_screen_simple = global::Biometric.Droid.Resource.Layout.abc_screen_simple;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Biometric.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_screen_toolbar = global::Biometric.Droid.Resource.Layout.abc_screen_toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Biometric.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_search_view = global::Biometric.Droid.Resource.Layout.abc_search_view;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_select_dialog_material = global::Biometric.Droid.Resource.Layout.abc_select_dialog_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.abc_tooltip = global::Biometric.Droid.Resource.Layout.abc_tooltip;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.BottomTabLayout = global::Biometric.Droid.Resource.Layout.BottomTabLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.browser_actions_context_menu_page = global::Biometric.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.browser_actions_context_menu_row = global::Biometric.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.custom_dialog = global::Biometric.Droid.Resource.Layout.custom_dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_bottom_navigation_item = global::Biometric.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_bottom_sheet_dialog = global::Biometric.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_layout_snackbar = global::Biometric.Droid.Resource.Layout.design_layout_snackbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_layout_snackbar_include = global::Biometric.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_layout_tab_icon = global::Biometric.Droid.Resource.Layout.design_layout_tab_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_layout_tab_text = global::Biometric.Droid.Resource.Layout.design_layout_tab_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_menu_item_action_area = global::Biometric.Droid.Resource.Layout.design_menu_item_action_area;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_navigation_item = global::Biometric.Droid.Resource.Layout.design_navigation_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_navigation_item_header = global::Biometric.Droid.Resource.Layout.design_navigation_item_header;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_navigation_item_separator = global::Biometric.Droid.Resource.Layout.design_navigation_item_separator;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_navigation_item_subheader = global::Biometric.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_navigation_menu = global::Biometric.Droid.Resource.Layout.design_navigation_menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_navigation_menu_item = global::Biometric.Droid.Resource.Layout.design_navigation_menu_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_text_input_end_icon = global::Biometric.Droid.Resource.Layout.design_text_input_end_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.design_text_input_start_icon = global::Biometric.Droid.Resource.Layout.design_text_input_start_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.FallbackTabbarDoNotUse = global::Biometric.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.FallbackToolbarDoNotUse = global::Biometric.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.FlyoutContent = global::Biometric.Droid.Resource.Layout.FlyoutContent;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_alert_dialog = global::Biometric.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_alert_dialog_actions = global::Biometric.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_alert_dialog_title = global::Biometric.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_alert_select_dialog_item = global::Biometric.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::Biometric.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::Biometric.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_day = global::Biometric.Droid.Resource.Layout.mtrl_calendar_day;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_days_of_week = global::Biometric.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_day_of_week = global::Biometric.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_horizontal = global::Biometric.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_month = global::Biometric.Droid.Resource.Layout.mtrl_calendar_month;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_months = global::Biometric.Droid.Resource.Layout.mtrl_calendar_months;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_month_labeled = global::Biometric.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_month_navigation = global::Biometric.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_vertical = global::Biometric.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_calendar_year = global::Biometric.Droid.Resource.Layout.mtrl_calendar_year;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_layout_snackbar = global::Biometric.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_layout_snackbar_include = global::Biometric.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_actions = global::Biometric.Droid.Resource.Layout.mtrl_picker_actions;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_dialog = global::Biometric.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_fullscreen = global::Biometric.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_header_dialog = global::Biometric.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_header_fullscreen = global::Biometric.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_header_selection_text = global::Biometric.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_header_title_text = global::Biometric.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_header_toggle = global::Biometric.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_text_input_date = global::Biometric.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.mtrl_picker_text_input_date_range = global::Biometric.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_action = global::Biometric.Droid.Resource.Layout.notification_action;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_action_tombstone = global::Biometric.Droid.Resource.Layout.notification_action_tombstone;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_media_action = global::Biometric.Droid.Resource.Layout.notification_media_action;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_media_cancel_action = global::Biometric.Droid.Resource.Layout.notification_media_cancel_action;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_big_media = global::Biometric.Droid.Resource.Layout.notification_template_big_media;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_big_media_custom = global::Biometric.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_big_media_narrow = global::Biometric.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_big_media_narrow_custom = global::Biometric.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_custom_big = global::Biometric.Droid.Resource.Layout.notification_template_custom_big;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_icon_group = global::Biometric.Droid.Resource.Layout.notification_template_icon_group;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_lines_media = global::Biometric.Droid.Resource.Layout.notification_template_lines_media;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_media = global::Biometric.Droid.Resource.Layout.notification_template_media;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_media_custom = global::Biometric.Droid.Resource.Layout.notification_template_media_custom;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_part_chronometer = global::Biometric.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.notification_template_part_time = global::Biometric.Droid.Resource.Layout.notification_template_part_time;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.RootLayout = global::Biometric.Droid.Resource.Layout.RootLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.select_dialog_item_material = global::Biometric.Droid.Resource.Layout.select_dialog_item_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.select_dialog_multichoice_material = global::Biometric.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.select_dialog_singlechoice_material = global::Biometric.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.ShellContent = global::Biometric.Droid.Resource.Layout.ShellContent;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.support_simple_spinner_dropdown_item = global::Biometric.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.Tabbar = global::Biometric.Droid.Resource.Layout.Tabbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.test_action_chip = global::Biometric.Droid.Resource.Layout.test_action_chip;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.test_design_checkbox = global::Biometric.Droid.Resource.Layout.test_design_checkbox;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.test_reflow_chipgroup = global::Biometric.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.test_toolbar = global::Biometric.Droid.Resource.Layout.test_toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.test_toolbar_custom_background = global::Biometric.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.test_toolbar_elevation = global::Biometric.Droid.Resource.Layout.test_toolbar_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.test_toolbar_surface = global::Biometric.Droid.Resource.Layout.test_toolbar_surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.text_view_without_line_height = global::Biometric.Droid.Resource.Layout.text_view_without_line_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.text_view_with_line_height_from_appearance = global::Biometric.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.text_view_with_line_height_from_layout = global::Biometric.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.text_view_with_line_height_from_style = global::Biometric.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.text_view_with_theme_line_height = global::Biometric.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.Toolbar = global::Biometric.Droid.Resource.Layout.Toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.zxingscanneractivitylayout = global::Biometric.Droid.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Layout.zxingscannerfragmentlayout = global::Biometric.Droid.Resource.Layout.zxingscannerfragmentlayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Plurals.mtrl_badge_content_description = global::Biometric.Droid.Resource.Plurals.mtrl_badge_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_action_bar_home_description = global::Biometric.Droid.Resource.String.abc_action_bar_home_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_action_bar_up_description = global::Biometric.Droid.Resource.String.abc_action_bar_up_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_action_menu_overflow_description = global::Biometric.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_action_mode_done = global::Biometric.Droid.Resource.String.abc_action_mode_done;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_activitychooserview_choose_application = global::Biometric.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_activity_chooser_view_see_all = global::Biometric.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_capital_off = global::Biometric.Droid.Resource.String.abc_capital_off;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_capital_on = global::Biometric.Droid.Resource.String.abc_capital_on;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_alt_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_ctrl_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_delete_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_enter_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_function_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_meta_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_shift_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_space_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_menu_sym_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_prepend_shortcut_label = global::Biometric.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_searchview_description_clear = global::Biometric.Droid.Resource.String.abc_searchview_description_clear;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_searchview_description_query = global::Biometric.Droid.Resource.String.abc_searchview_description_query;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_searchview_description_search = global::Biometric.Droid.Resource.String.abc_searchview_description_search;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_searchview_description_submit = global::Biometric.Droid.Resource.String.abc_searchview_description_submit;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_searchview_description_voice = global::Biometric.Droid.Resource.String.abc_searchview_description_voice;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_search_hint = global::Biometric.Droid.Resource.String.abc_search_hint;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_shareactionprovider_share_with = global::Biometric.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_shareactionprovider_share_with_application = global::Biometric.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::ZXing.Net.Mobile.Forms.Resource.String.abc_toolbar_collapse_description = global::Biometric.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.appbar_scrolling_view_behavior = global::Biometric.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::ZXing.Net.Mobile.Forms.Resource.String.bottom_sheet_behavior = global::Biometric.Droid.Resource.String.bottom_sheet_behavior;
+			global::ZXing.Net.Mobile.Forms.Resource.String.character_counter_content_description = global::Biometric.Droid.Resource.String.character_counter_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.character_counter_overflowed_content_description = global::Biometric.Droid.Resource.String.character_counter_overflowed_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.character_counter_pattern = global::Biometric.Droid.Resource.String.character_counter_pattern;
+			global::ZXing.Net.Mobile.Forms.Resource.String.chip_text = global::Biometric.Droid.Resource.String.chip_text;
+			global::ZXing.Net.Mobile.Forms.Resource.String.clear_text_end_icon_content_description = global::Biometric.Droid.Resource.String.clear_text_end_icon_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.copy_toast_msg = global::Biometric.Droid.Resource.String.copy_toast_msg;
+			global::ZXing.Net.Mobile.Forms.Resource.String.error_icon_content_description = global::Biometric.Droid.Resource.String.error_icon_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.exposed_dropdown_menu_content_description = global::Biometric.Droid.Resource.String.exposed_dropdown_menu_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.fab_transformation_scrim_behavior = global::Biometric.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::ZXing.Net.Mobile.Forms.Resource.String.fab_transformation_sheet_behavior = global::Biometric.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::ZXing.Net.Mobile.Forms.Resource.String.fallback_menu_item_copy_link = global::Biometric.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::ZXing.Net.Mobile.Forms.Resource.String.fallback_menu_item_open_in_browser = global::Biometric.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::ZXing.Net.Mobile.Forms.Resource.String.fallback_menu_item_share_link = global::Biometric.Droid.Resource.String.fallback_menu_item_share_link;
+			global::ZXing.Net.Mobile.Forms.Resource.String.hide_bottom_view_on_scroll_behavior = global::Biometric.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::ZXing.Net.Mobile.Forms.Resource.String.icon_content_description = global::Biometric.Droid.Resource.String.icon_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_badge_numberless_content_description = global::Biometric.Droid.Resource.String.mtrl_badge_numberless_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_chip_close_icon_content_description = global::Biometric.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_exceed_max_badge_number_suffix = global::Biometric.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_a11y_next_month = global::Biometric.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_a11y_prev_month = global::Biometric.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_announce_current_selection = global::Biometric.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_cancel = global::Biometric.Droid.Resource.String.mtrl_picker_cancel;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_confirm = global::Biometric.Droid.Resource.String.mtrl_picker_confirm;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_date_header_selected = global::Biometric.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_date_header_title = global::Biometric.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_date_header_unselected = global::Biometric.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_day_of_week_column_header = global::Biometric.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_invalid_format = global::Biometric.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_invalid_format_example = global::Biometric.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_invalid_format_use = global::Biometric.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_invalid_range = global::Biometric.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_navigate_to_year_description = global::Biometric.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_out_of_range = global::Biometric.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_range_header_only_end_selected = global::Biometric.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_range_header_only_start_selected = global::Biometric.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_range_header_selected = global::Biometric.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_range_header_title = global::Biometric.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_range_header_unselected = global::Biometric.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_save = global::Biometric.Droid.Resource.String.mtrl_picker_save;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_text_input_date_hint = global::Biometric.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::Biometric.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::Biometric.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_text_input_day_abbr = global::Biometric.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_text_input_month_abbr = global::Biometric.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_text_input_year_abbr = global::Biometric.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::Biometric.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_toggle_to_day_selection = global::Biometric.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::Biometric.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::ZXing.Net.Mobile.Forms.Resource.String.mtrl_picker_toggle_to_year_selection = global::Biometric.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::ZXing.Net.Mobile.Forms.Resource.String.overflow_tab_title = global::Biometric.Droid.Resource.String.overflow_tab_title;
+			global::ZXing.Net.Mobile.Forms.Resource.String.password_toggle_content_description = global::Biometric.Droid.Resource.String.password_toggle_content_description;
+			global::ZXing.Net.Mobile.Forms.Resource.String.path_password_eye = global::Biometric.Droid.Resource.String.path_password_eye;
+			global::ZXing.Net.Mobile.Forms.Resource.String.path_password_eye_mask_strike_through = global::Biometric.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::ZXing.Net.Mobile.Forms.Resource.String.path_password_eye_mask_visible = global::Biometric.Droid.Resource.String.path_password_eye_mask_visible;
+			global::ZXing.Net.Mobile.Forms.Resource.String.path_password_strike_through = global::Biometric.Droid.Resource.String.path_password_strike_through;
+			global::ZXing.Net.Mobile.Forms.Resource.String.search_menu_title = global::Biometric.Droid.Resource.String.search_menu_title;
+			global::ZXing.Net.Mobile.Forms.Resource.String.status_bar_notification_info_overflow = global::Biometric.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.AlertDialog_AppCompat = global::Biometric.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.AlertDialog_AppCompat_Light = global::Biometric.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Animation_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Animation_AppCompat_DropDownUp = global::Biometric.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Animation_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Animation_Design_BottomSheetDialog = global::Biometric.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::Biometric.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.AppCompatDialogStyle = global::Biometric.Droid.Resource.Style.AppCompatDialogStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_AlertDialog_AppCompat = global::Biometric.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Animation_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Biometric.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_CardView = global::Biometric.Droid.Resource.Style.Base_CardView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Biometric.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Biometric.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::Biometric.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::Biometric.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::Biometric.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::Biometric.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::Biometric.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Biometric.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_AppCompat = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::Biometric.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::Biometric.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::Biometric.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V21_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V22_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V23_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V26_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V28_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V28_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Biometric.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Button = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_EditText = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ListView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_SearchView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Spinner = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_TextView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_Design_TabLayout = global::Biometric.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_Chip = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Base_Widget_MaterialComponents_TextView = global::Biometric.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.CardView = global::Biometric.Droid.Resource.Style.CardView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.CardView_Dark = global::Biometric.Droid.Resource.Style.CardView_Dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.CardView_Light = global::Biometric.Droid.Resource.Style.CardView_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.collectionViewTheme = global::Biometric.Droid.Resource.Style.collectionViewTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.EmptyTheme = global::Biometric.Droid.Resource.Style.EmptyTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MainTheme = global::Biometric.Droid.Resource.Style.MainTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MainTheme_Base = global::Biometric.Droid.Resource.Style.MainTheme_Base;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::Biometric.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_AppCompat = global::Biometric.Droid.Resource.Style.Platform_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_MaterialComponents = global::Biometric.Droid.Resource.Style.Platform_MaterialComponents;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_MaterialComponents_Dialog = global::Biometric.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_MaterialComponents_Light = global::Biometric.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::Biometric.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Biometric.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Biometric.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_V21_AppCompat = global::Biometric.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_V21_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_V25_AppCompat = global::Biometric.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_V25_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Biometric.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Biometric.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Biometric.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.scrollViewScrollBars = global::Biometric.Droid.Resource.Style.scrollViewScrollBars;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.scrollViewTheme = global::Biometric.Droid.Resource.Style.scrollViewTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_Cut = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::Biometric.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearance_MaterialComponents = global::Biometric.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::Biometric.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::Biometric.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::Biometric.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::Biometric.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TestStyleWithLineHeight = global::Biometric.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TestStyleWithLineHeightAppearance = global::Biometric.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TestStyleWithoutLineHeight = global::Biometric.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::Biometric.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TestThemeWithLineHeight = global::Biometric.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TestThemeWithLineHeightDisabled = global::Biometric.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::Biometric.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::Biometric.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::Biometric.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::Biometric.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::Biometric.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Body1 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Body2 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Button = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Caption = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Display1 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Display2 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Display3 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Display4 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Headline = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Large = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Medium = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Menu = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Small = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Subhead = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Info = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Media = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Time = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Title = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Biometric.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_Counter = global::Biometric.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Biometric.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_Error = global::Biometric.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_HelperText = global::Biometric.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_Hint = global::Biometric.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Biometric.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Design_Tab = global::Biometric.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Badge = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Button = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Caption = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Chip = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Overline = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::Biometric.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Biometric.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Biometric.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_AppCompat_Light = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::Biometric.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::Biometric.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat = global::Biometric.Droid.Resource.Style.Theme_AppCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_CompactMenu = global::Biometric.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DayNight = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Empty = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Empty;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_AppCompat_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_Design = global::Biometric.Droid.Resource.Style.Theme_Design;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_Design_BottomSheetDialog = global::Biometric.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_Design_Light = global::Biometric.Droid.Resource.Style.Theme_Design_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Biometric.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_Design_Light_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_Design_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_CompactMenu = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::Biometric.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActionMode = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Button = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ButtonBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Button_Borderless = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Button_Colored = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Button_Small = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Biometric.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Biometric.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Biometric.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Biometric.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_EditText = global::Biometric.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ImageButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_SearchView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ListMenuView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ListView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ListView_Menu = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_PopupMenu = global::Biometric.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_PopupWindow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ProgressBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_RatingBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Biometric.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Biometric.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_SearchView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_SeekBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Spinner = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_TextView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Compat_NotificationActionContainer = global::Biometric.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Compat_NotificationActionText = global::Biometric.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_AppBarLayout = global::Biometric.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_BottomNavigationView = global::Biometric.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_BottomSheet_Modal = global::Biometric.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_CollapsingToolbar = global::Biometric.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_FloatingActionButton = global::Biometric.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_NavigationView = global::Biometric.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Biometric.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_Snackbar = global::Biometric.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_TabLayout = global::Biometric.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Design_TextInputLayout = global::Biometric.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Badge = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Badge;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomSheet = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_Icon = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_CardView = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_ChipGroup = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Chip_Action = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_NavigationView = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_PopupMenu = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Snackbar = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TabLayout = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_TextView = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_TextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Toolbar = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::Biometric.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
+			global::ZXing.Net.Mobile.Forms.Resource.Style.Widget_Support_CoordinatorLayout = global::Biometric.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar = global::Biometric.Droid.Resource.Styleable.ActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBarLayout = global::Biometric.Droid.Resource.Styleable.ActionBarLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Biometric.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_background = global::Biometric.Droid.Resource.Styleable.ActionBar_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_backgroundSplit = global::Biometric.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_backgroundStacked = global::Biometric.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_contentInsetEnd = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_contentInsetLeft = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_contentInsetRight = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_contentInsetStart = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_customNavigationLayout = global::Biometric.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_displayOptions = global::Biometric.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_divider = global::Biometric.Droid.Resource.Styleable.ActionBar_divider;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_elevation = global::Biometric.Droid.Resource.Styleable.ActionBar_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_height = global::Biometric.Droid.Resource.Styleable.ActionBar_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_hideOnContentScroll = global::Biometric.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Biometric.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_homeLayout = global::Biometric.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_icon = global::Biometric.Droid.Resource.Styleable.ActionBar_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_itemPadding = global::Biometric.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_logo = global::Biometric.Droid.Resource.Styleable.ActionBar_logo;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_navigationMode = global::Biometric.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_popupTheme = global::Biometric.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_progressBarPadding = global::Biometric.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_progressBarStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_subtitle = global::Biometric.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_subtitleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_title = global::Biometric.Droid.Resource.Styleable.ActionBar_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionBar_titleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMenuItemView = global::Biometric.Droid.Resource.Styleable.ActionMenuItemView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Biometric.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMenuView = global::Biometric.Droid.Resource.Styleable.ActionMenuView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMode = global::Biometric.Droid.Resource.Styleable.ActionMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMode_background = global::Biometric.Droid.Resource.Styleable.ActionMode_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMode_backgroundSplit = global::Biometric.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMode_closeItemLayout = global::Biometric.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMode_height = global::Biometric.Droid.Resource.Styleable.ActionMode_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMode_subtitleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActionMode_titleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActivityChooserView = global::Biometric.Droid.Resource.Styleable.ActivityChooserView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Biometric.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Biometric.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog = global::Biometric.Droid.Resource.Styleable.AlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_android_layout = global::Biometric.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_buttonIconDimen = global::Biometric.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_listItemLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_listLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_showTitle = global::Biometric.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableCompat = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableItem = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableTransition = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout = global::Biometric.Droid.Resource.Styleable.AppBarLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayoutStates = global::Biometric.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Biometric.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Biometric.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayoutStates_state_liftable = global::Biometric.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayoutStates_state_lifted = global::Biometric.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_android_background = global::Biometric.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Biometric.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Biometric.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_elevation = global::Biometric.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_expanded = global::Biometric.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_Layout = global::Biometric.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Biometric.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Biometric.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_liftOnScroll = global::Biometric.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::Biometric.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppBarLayout_statusBarForeground = global::Biometric.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatImageView = global::Biometric.Droid.Resource.Styleable.AppCompatImageView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatImageView_android_src = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatImageView_srcCompat = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatImageView_tint = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatImageView_tintMode = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatSeekBar = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatSeekBar_tickMark = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView = global::Biometric.Droid.Resource.Styleable.AppCompatTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableTint = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableTintMode = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_fontFamily = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_lineHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_textAllCaps = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTextView_textLocale = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarSize = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_buttonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorAccent = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorError = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorPrimary = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_controlBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_dialogTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_dividerVertical = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_editTextBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_editTextColor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_editTextStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_panelBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_switchStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowActionBar = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Badge = global::Biometric.Droid.Resource.Styleable.Badge;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Badge_backgroundColor = global::Biometric.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Badge_badgeGravity = global::Biometric.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Badge_badgeTextColor = global::Biometric.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Badge_maxCharacterCount = global::Biometric.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Badge_number = global::Biometric.Droid.Resource.Styleable.Badge_number;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar = global::Biometric.Droid.Resource.Styleable.BottomAppBar;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_backgroundTint = global::Biometric.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_elevation = global::Biometric.Droid.Resource.Styleable.BottomAppBar_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::Biometric.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_fabAnimationMode = global::Biometric.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_fabCradleMargin = global::Biometric.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::Biometric.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::Biometric.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomAppBar_hideOnScroll = global::Biometric.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomNavigationView = global::Biometric.Droid.Resource.Styleable.BottomNavigationView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::Biometric.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ButtonBarLayout = global::Biometric.Droid.Resource.Styleable.ButtonBarLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ButtonBarLayout_allowStacking = global::Biometric.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView = global::Biometric.Droid.Resource.Styleable.CardView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_android_minHeight = global::Biometric.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_android_minWidth = global::Biometric.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_cardBackgroundColor = global::Biometric.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_cardCornerRadius = global::Biometric.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_cardElevation = global::Biometric.Droid.Resource.Styleable.CardView_cardElevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_cardMaxElevation = global::Biometric.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Biometric.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_cardUseCompatPadding = global::Biometric.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_contentPadding = global::Biometric.Droid.Resource.Styleable.CardView_contentPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_contentPaddingBottom = global::Biometric.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_contentPaddingLeft = global::Biometric.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_contentPaddingRight = global::Biometric.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CardView_contentPaddingTop = global::Biometric.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip = global::Biometric.Droid.Resource.Styleable.Chip;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ChipGroup = global::Biometric.Droid.Resource.Styleable.ChipGroup;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ChipGroup_checkedChip = global::Biometric.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ChipGroup_chipSpacing = global::Biometric.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::Biometric.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ChipGroup_chipSpacingVertical = global::Biometric.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ChipGroup_singleLine = global::Biometric.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ChipGroup_singleSelection = global::Biometric.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_android_checkable = global::Biometric.Droid.Resource.Styleable.Chip_android_checkable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_android_ellipsize = global::Biometric.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_android_maxWidth = global::Biometric.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_android_text = global::Biometric.Droid.Resource.Styleable.Chip_android_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_android_textAppearance = global::Biometric.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_android_textColor = global::Biometric.Droid.Resource.Styleable.Chip_android_textColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_checkedIcon = global::Biometric.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_checkedIconEnabled = global::Biometric.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_checkedIconVisible = global::Biometric.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipBackgroundColor = global::Biometric.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipCornerRadius = global::Biometric.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipEndPadding = global::Biometric.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipIcon = global::Biometric.Droid.Resource.Styleable.Chip_chipIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipIconEnabled = global::Biometric.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipIconSize = global::Biometric.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipIconTint = global::Biometric.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipIconVisible = global::Biometric.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipMinHeight = global::Biometric.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipMinTouchTargetSize = global::Biometric.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipStartPadding = global::Biometric.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipStrokeColor = global::Biometric.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipStrokeWidth = global::Biometric.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_chipSurfaceColor = global::Biometric.Droid.Resource.Styleable.Chip_chipSurfaceColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_closeIcon = global::Biometric.Droid.Resource.Styleable.Chip_closeIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_closeIconEnabled = global::Biometric.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_closeIconEndPadding = global::Biometric.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_closeIconSize = global::Biometric.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_closeIconStartPadding = global::Biometric.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_closeIconTint = global::Biometric.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_closeIconVisible = global::Biometric.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::Biometric.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_hideMotionSpec = global::Biometric.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_iconEndPadding = global::Biometric.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_iconStartPadding = global::Biometric.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_rippleColor = global::Biometric.Droid.Resource.Styleable.Chip_rippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_shapeAppearance = global::Biometric.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_shapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_showMotionSpec = global::Biometric.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_textEndPadding = global::Biometric.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Chip_textStartPadding = global::Biometric.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_title = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Biometric.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ColorStateListItem = global::Biometric.Droid.Resource.Styleable.ColorStateListItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ColorStateListItem_alpha = global::Biometric.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ColorStateListItem_android_alpha = global::Biometric.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ColorStateListItem_android_color = global::Biometric.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CompoundButton = global::Biometric.Droid.Resource.Styleable.CompoundButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CompoundButton_android_button = global::Biometric.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CompoundButton_buttonCompat = global::Biometric.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CompoundButton_buttonTint = global::Biometric.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CompoundButton_buttonTintMode = global::Biometric.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_keylines = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Biometric.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_barLength = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_color = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_spinBars = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerArrowToggle_thickness = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerLayout = global::Biometric.Droid.Resource.Styleable.DrawerLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.DrawerLayout_elevation = global::Biometric.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::Biometric.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton = global::Biometric.Droid.Resource.Styleable.FloatingActionButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_backgroundTint = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_borderWidth = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_elevation = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_fabCustomSize = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_fabSize = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_maxImageSize = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_rippleColor = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_shapeAppearance = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_showMotionSpec = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Biometric.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FlowLayout = global::Biometric.Droid.Resource.Styleable.FlowLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FlowLayout_itemSpacing = global::Biometric.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FlowLayout_lineSpacing = global::Biometric.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamily = global::Biometric.Droid.Resource.Styleable.FontFamily;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont = global::Biometric.Droid.Resource.Styleable.FontFamilyFont;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_android_font = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_font = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_fontStyle = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_fontWeight = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamilyFont_ttcIndex = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamily_fontProviderAuthority = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamily_fontProviderCerts = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamily_fontProviderPackage = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FontFamily_fontProviderQuery = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ForegroundLinearLayout = global::Biometric.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Biometric.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Biometric.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Biometric.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Fragment = global::Biometric.Droid.Resource.Styleable.Fragment;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FragmentContainerView = global::Biometric.Droid.Resource.Styleable.FragmentContainerView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FragmentContainerView_android_name = global::Biometric.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.FragmentContainerView_android_tag = global::Biometric.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Fragment_android_id = global::Biometric.Droid.Resource.Styleable.Fragment_android_id;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Fragment_android_name = global::Biometric.Droid.Resource.Styleable.Fragment_android_name;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Fragment_android_tag = global::Biometric.Droid.Resource.Styleable.Fragment_android_tag;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor = global::Biometric.Droid.Resource.Styleable.GradientColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColorItem = global::Biometric.Droid.Resource.Styleable.GradientColorItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColorItem_android_color = global::Biometric.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColorItem_android_offset = global::Biometric.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_centerColor = global::Biometric.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_centerX = global::Biometric.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_centerY = global::Biometric.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_endColor = global::Biometric.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_endX = global::Biometric.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_endY = global::Biometric.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_gradientRadius = global::Biometric.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_startColor = global::Biometric.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_startX = global::Biometric.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_startY = global::Biometric.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_tileMode = global::Biometric.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.GradientColor_android_type = global::Biometric.Droid.Resource.Styleable.GradientColor_android_type;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ItemsViewRendererTheme = global::Biometric.Droid.Resource.Styleable.ItemsViewRendererTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::Biometric.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_divider = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_Layout = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.LinearLayoutCompat_showDividers = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ListPopupWindow = global::Biometric.Droid.Resource.Styleable.ListPopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Biometric.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Biometric.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialog = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialogTheme = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::Biometric.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton = global::Biometric.Droid.Resource.Styleable.MaterialButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButtonToggleGroup = global::Biometric.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::Biometric.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::Biometric.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_android_checkable = global::Biometric.Droid.Resource.Styleable.MaterialButton_android_checkable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_android_insetBottom = global::Biometric.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_android_insetLeft = global::Biometric.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_android_insetRight = global::Biometric.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_android_insetTop = global::Biometric.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_backgroundTint = global::Biometric.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_backgroundTintMode = global::Biometric.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_cornerRadius = global::Biometric.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_elevation = global::Biometric.Droid.Resource.Styleable.MaterialButton_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_icon = global::Biometric.Droid.Resource.Styleable.MaterialButton_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_iconGravity = global::Biometric.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_iconPadding = global::Biometric.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_iconSize = global::Biometric.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_iconTint = global::Biometric.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_iconTintMode = global::Biometric.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_rippleColor = global::Biometric.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_shapeAppearance = global::Biometric.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_strokeColor = global::Biometric.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialButton_strokeWidth = global::Biometric.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar = global::Biometric.Droid.Resource.Styleable.MaterialCalendar;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::Biometric.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_dayStyle = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_rangeFillColor = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_yearStyle = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::Biometric.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView = global::Biometric.Droid.Resource.Styleable.MaterialCardView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_android_checkable = global::Biometric.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_cardForegroundColor = global::Biometric.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_checkedIcon = global::Biometric.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_checkedIconTint = global::Biometric.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_rippleColor = global::Biometric.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_shapeAppearance = global::Biometric.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_state_dragged = global::Biometric.Droid.Resource.Styleable.MaterialCardView_state_dragged;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_strokeColor = global::Biometric.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCardView_strokeWidth = global::Biometric.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCheckBox = global::Biometric.Droid.Resource.Styleable.MaterialCheckBox;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCheckBox_buttonTint = global::Biometric.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::Biometric.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialRadioButton = global::Biometric.Droid.Resource.Styleable.MaterialRadioButton;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::Biometric.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialShape = global::Biometric.Droid.Resource.Styleable.MaterialShape;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialShape_shapeAppearance = global::Biometric.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialTextAppearance = global::Biometric.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::Biometric.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialTextAppearance_lineHeight = global::Biometric.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialTextView = global::Biometric.Droid.Resource.Styleable.MaterialTextView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialTextView_android_lineHeight = global::Biometric.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialTextView_android_textAppearance = global::Biometric.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MaterialTextView_lineHeight = global::Biometric.Droid.Resource.Styleable.MaterialTextView_lineHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuGroup = global::Biometric.Droid.Resource.Styleable.MenuGroup;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuGroup_android_enabled = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuGroup_android_id = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuGroup_android_menuCategory = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuGroup_android_orderInCategory = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuGroup_android_visible = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem = global::Biometric.Droid.Resource.Styleable.MenuItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_actionLayout = global::Biometric.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_actionProviderClass = global::Biometric.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_actionViewClass = global::Biometric.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_alphabeticModifiers = global::Biometric.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Biometric.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_checkable = global::Biometric.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_checked = global::Biometric.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_enabled = global::Biometric.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_icon = global::Biometric.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_id = global::Biometric.Droid.Resource.Styleable.MenuItem_android_id;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_menuCategory = global::Biometric.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_numericShortcut = global::Biometric.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_onClick = global::Biometric.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_orderInCategory = global::Biometric.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_title = global::Biometric.Droid.Resource.Styleable.MenuItem_android_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_titleCondensed = global::Biometric.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_android_visible = global::Biometric.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_contentDescription = global::Biometric.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_iconTint = global::Biometric.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_iconTintMode = global::Biometric.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_numericModifiers = global::Biometric.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_showAsAction = global::Biometric.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuItem_tooltipText = global::Biometric.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView = global::Biometric.Droid.Resource.Styleable.MenuView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_android_headerBackground = global::Biometric.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_android_horizontalDivider = global::Biometric.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_android_itemBackground = global::Biometric.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Biometric.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_android_itemTextAppearance = global::Biometric.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_android_verticalDivider = global::Biometric.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Biometric.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_preserveIconSpacing = global::Biometric.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.MenuView_subMenuArrow = global::Biometric.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView = global::Biometric.Droid.Resource.Styleable.NavigationView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_android_background = global::Biometric.Droid.Resource.Styleable.NavigationView_android_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Biometric.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_android_maxWidth = global::Biometric.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_elevation = global::Biometric.Droid.Resource.Styleable.NavigationView_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_headerLayout = global::Biometric.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemBackground = global::Biometric.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemHorizontalPadding = global::Biometric.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemIconPadding = global::Biometric.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemIconSize = global::Biometric.Droid.Resource.Styleable.NavigationView_itemIconSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemIconTint = global::Biometric.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemMaxLines = global::Biometric.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemShapeAppearance = global::Biometric.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemShapeFillColor = global::Biometric.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::Biometric.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::Biometric.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemShapeInsetStart = global::Biometric.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemShapeInsetTop = global::Biometric.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemTextAppearance = global::Biometric.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_itemTextColor = global::Biometric.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.NavigationView_menu = global::Biometric.Droid.Resource.Styleable.NavigationView_menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.PopupWindow = global::Biometric.Droid.Resource.Styleable.PopupWindow;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.PopupWindowBackgroundState = global::Biometric.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Biometric.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Biometric.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.PopupWindow_android_popupBackground = global::Biometric.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.PopupWindow_overlapAnchor = global::Biometric.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecycleListView = global::Biometric.Droid.Resource.Styleable.RecycleListView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Biometric.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Biometric.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView = global::Biometric.Droid.Resource.Styleable.RecyclerView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_android_clipToPadding = global::Biometric.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Biometric.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_android_orientation = global::Biometric.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Biometric.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Biometric.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Biometric.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Biometric.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Biometric.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_layoutManager = global::Biometric.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_reverseLayout = global::Biometric.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_spanCount = global::Biometric.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.RecyclerView_stackFromEnd = global::Biometric.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ScrimInsetsFrameLayout = global::Biometric.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Biometric.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ScrollingViewBehavior_Layout = global::Biometric.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Biometric.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ScrollViewRendererTheme = global::Biometric.Droid.Resource.Styleable.ScrollViewRendererTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle = global::Biometric.Droid.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView = global::Biometric.Droid.Resource.Styleable.SearchView;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_android_focusable = global::Biometric.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_android_imeOptions = global::Biometric.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_android_inputType = global::Biometric.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_android_maxWidth = global::Biometric.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_closeIcon = global::Biometric.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_commitIcon = global::Biometric.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_defaultQueryHint = global::Biometric.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_goIcon = global::Biometric.Droid.Resource.Styleable.SearchView_goIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_iconifiedByDefault = global::Biometric.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_layout = global::Biometric.Droid.Resource.Styleable.SearchView_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_queryBackground = global::Biometric.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_queryHint = global::Biometric.Droid.Resource.Styleable.SearchView_queryHint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_searchHintIcon = global::Biometric.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_searchIcon = global::Biometric.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_submitBackground = global::Biometric.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_suggestionRowLayout = global::Biometric.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SearchView_voiceIcon = global::Biometric.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance = global::Biometric.Droid.Resource.Styleable.ShapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerFamily = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerSize = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::Biometric.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Snackbar = global::Biometric.Droid.Resource.Styleable.Snackbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SnackbarLayout = global::Biometric.Droid.Resource.Styleable.SnackbarLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::Biometric.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Biometric.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SnackbarLayout_animationMode = global::Biometric.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::Biometric.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SnackbarLayout_elevation = global::Biometric.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Biometric.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Snackbar_snackbarButtonStyle = global::Biometric.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Snackbar_snackbarStyle = global::Biometric.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Spinner = global::Biometric.Droid.Resource.Styleable.Spinner;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Spinner_android_dropDownWidth = global::Biometric.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Spinner_android_entries = global::Biometric.Droid.Resource.Styleable.Spinner_android_entries;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Spinner_android_popupBackground = global::Biometric.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Spinner_android_prompt = global::Biometric.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Spinner_popupTheme = global::Biometric.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawable = global::Biometric.Droid.Resource.Styleable.StateListDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawableItem = global::Biometric.Droid.Resource.Styleable.StateListDrawableItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawableItem_android_drawable = global::Biometric.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawable_android_constantSize = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawable_android_dither = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawable_android_variablePadding = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.StateListDrawable_android_visible = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwipeRefreshLayout = global::Biometric.Droid.Resource.Styleable.SwipeRefreshLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor = global::Biometric.Droid.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat = global::Biometric.Droid.Resource.Styleable.SwitchCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_android_textOff = global::Biometric.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_android_textOn = global::Biometric.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_android_thumb = global::Biometric.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_showText = global::Biometric.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_splitTrack = global::Biometric.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_switchMinWidth = global::Biometric.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_switchPadding = global::Biometric.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Biometric.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Biometric.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_thumbTint = global::Biometric.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_thumbTintMode = global::Biometric.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_track = global::Biometric.Droid.Resource.Styleable.SwitchCompat_track;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_trackTint = global::Biometric.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchCompat_trackTintMode = global::Biometric.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchMaterial = global::Biometric.Droid.Resource.Styleable.SwitchMaterial;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::Biometric.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabItem = global::Biometric.Droid.Resource.Styleable.TabItem;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabItem_android_icon = global::Biometric.Droid.Resource.Styleable.TabItem_android_icon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabItem_android_layout = global::Biometric.Droid.Resource.Styleable.TabItem_android_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabItem_android_text = global::Biometric.Droid.Resource.Styleable.TabItem_android_text;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout = global::Biometric.Droid.Resource.Styleable.TabLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabBackground = global::Biometric.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabContentStart = global::Biometric.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabGravity = global::Biometric.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIconTint = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIconTintMode = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIndicator = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIndicatorColor = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIndicatorGravity = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Biometric.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabInlineLabel = global::Biometric.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabMaxWidth = global::Biometric.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabMinWidth = global::Biometric.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabMode = global::Biometric.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabPadding = global::Biometric.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabPaddingBottom = global::Biometric.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabPaddingEnd = global::Biometric.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabPaddingStart = global::Biometric.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabPaddingTop = global::Biometric.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabRippleColor = global::Biometric.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Biometric.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabTextAppearance = global::Biometric.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabTextColor = global::Biometric.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TabLayout_tabUnboundedRipple = global::Biometric.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance = global::Biometric.Droid.Resource.Styleable.TextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_fontFamily = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_shadowColor = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_shadowDx = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_shadowDy = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_shadowRadius = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_textColor = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_textColorHint = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_textColorLink = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_textFontWeight = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_textSize = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_textStyle = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_android_typeface = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_fontFamily = global::Biometric.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_textAllCaps = global::Biometric.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextAppearance_textLocale = global::Biometric.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout = global::Biometric.Droid.Resource.Styleable.TextInputLayout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_android_hint = global::Biometric.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_android_textColorHint = global::Biometric.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxStrokeColor = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::Biometric.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_counterEnabled = global::Biometric.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_counterMaxLength = global::Biometric.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Biometric.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::Biometric.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Biometric.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_counterTextColor = global::Biometric.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_endIconCheckable = global::Biometric.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_endIconContentDescription = global::Biometric.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_endIconDrawable = global::Biometric.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_endIconMode = global::Biometric.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_endIconTint = global::Biometric.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_endIconTintMode = global::Biometric.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_errorEnabled = global::Biometric.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_errorIconDrawable = global::Biometric.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_errorIconTint = global::Biometric.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_errorIconTintMode = global::Biometric.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Biometric.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_errorTextColor = global::Biometric.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_helperText = global::Biometric.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_helperTextEnabled = global::Biometric.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::Biometric.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_helperTextTextColor = global::Biometric.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Biometric.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_hintEnabled = global::Biometric.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Biometric.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_hintTextColor = global::Biometric.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Biometric.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Biometric.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Biometric.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Biometric.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Biometric.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_shapeAppearance = global::Biometric.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::Biometric.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_startIconCheckable = global::Biometric.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_startIconContentDescription = global::Biometric.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_startIconDrawable = global::Biometric.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_startIconTint = global::Biometric.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.TextInputLayout_startIconTintMode = global::Biometric.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ThemeEnforcement = global::Biometric.Droid.Resource.Styleable.ThemeEnforcement;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::Biometric.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::Biometric.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::Biometric.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar = global::Biometric.Droid.Resource.Styleable.Toolbar;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_android_gravity = global::Biometric.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_android_minHeight = global::Biometric.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_buttonGravity = global::Biometric.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_collapseContentDescription = global::Biometric.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_collapseIcon = global::Biometric.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_contentInsetEnd = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_contentInsetLeft = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_contentInsetRight = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_contentInsetStart = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_logo = global::Biometric.Droid.Resource.Styleable.Toolbar_logo;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_logoDescription = global::Biometric.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_maxButtonHeight = global::Biometric.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_menu = global::Biometric.Droid.Resource.Styleable.Toolbar_menu;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_navigationContentDescription = global::Biometric.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_navigationIcon = global::Biometric.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_popupTheme = global::Biometric.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_subtitle = global::Biometric.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Biometric.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_subtitleTextColor = global::Biometric.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_title = global::Biometric.Droid.Resource.Styleable.Toolbar_title;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleMargin = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleMarginBottom = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleMarginEnd = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleMargins = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleMarginStart = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleMarginTop = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleTextAppearance = global::Biometric.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.Toolbar_titleTextColor = global::Biometric.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.View = global::Biometric.Droid.Resource.Styleable.View;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewBackgroundHelper = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewBackgroundHelper_android_background = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewPager2 = global::Biometric.Droid.Resource.Styleable.ViewPager2;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewPager2_android_orientation = global::Biometric.Droid.Resource.Styleable.ViewPager2_android_orientation;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewStubCompat = global::Biometric.Droid.Resource.Styleable.ViewStubCompat;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewStubCompat_android_id = global::Biometric.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Biometric.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.ViewStubCompat_android_layout = global::Biometric.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.View_android_focusable = global::Biometric.Droid.Resource.Styleable.View_android_focusable;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.View_android_theme = global::Biometric.Droid.Resource.Styleable.View_android_theme;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.View_paddingEnd = global::Biometric.Droid.Resource.Styleable.View_paddingEnd;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.View_paddingStart = global::Biometric.Droid.Resource.Styleable.View_paddingStart;
+			global::ZXing.Net.Mobile.Forms.Resource.Styleable.View_theme = global::Biometric.Droid.Resource.Styleable.View_theme;
+			global::ZXing.Net.Mobile.Forms.Resource.Xml.image_share_filepaths = global::Biometric.Droid.Resource.Xml.image_share_filepaths;
+			global::ZXing.Net.Mobile.Forms.Resource.Xml.standalone_badge = global::Biometric.Droid.Resource.Xml.standalone_badge;
+			global::ZXing.Net.Mobile.Forms.Resource.Xml.standalone_badge_gravity_bottom_end = global::Biometric.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::ZXing.Net.Mobile.Forms.Resource.Xml.standalone_badge_gravity_bottom_start = global::Biometric.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::ZXing.Net.Mobile.Forms.Resource.Xml.standalone_badge_gravity_top_start = global::Biometric.Droid.Resource.Xml.standalone_badge_gravity_top_start;
+			global::ZXing.Net.Mobile.Forms.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Biometric.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_fade_in = global::Biometric.Droid.Resource.Animation.abc_fade_in;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_fade_out = global::Biometric.Droid.Resource.Animation.abc_fade_out;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_grow_fade_in_from_bottom = global::Biometric.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_popup_enter = global::Biometric.Droid.Resource.Animation.abc_popup_enter;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_popup_exit = global::Biometric.Droid.Resource.Animation.abc_popup_exit;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Biometric.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_slide_in_bottom = global::Biometric.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_slide_in_top = global::Biometric.Droid.Resource.Animation.abc_slide_in_top;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_slide_out_bottom = global::Biometric.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_slide_out_top = global::Biometric.Droid.Resource.Animation.abc_slide_out_top;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_tooltip_enter = global::Biometric.Droid.Resource.Animation.abc_tooltip_enter;
+			global::ZXing.Net.Mobile.Resource.Animation.abc_tooltip_exit = global::Biometric.Droid.Resource.Animation.abc_tooltip_exit;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::Biometric.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::Biometric.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::ZXing.Net.Mobile.Resource.Animation.fragment_fast_out_extra_slow_in = global::Biometric.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarDivider = global::Biometric.Droid.Resource.Attribute.actionBarDivider;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarItemBackground = global::Biometric.Droid.Resource.Attribute.actionBarItemBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarPopupTheme = global::Biometric.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarSize = global::Biometric.Droid.Resource.Attribute.actionBarSize;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarSplitStyle = global::Biometric.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarStyle = global::Biometric.Droid.Resource.Attribute.actionBarStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarTabBarStyle = global::Biometric.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarTabStyle = global::Biometric.Droid.Resource.Attribute.actionBarTabStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarTabTextStyle = global::Biometric.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarTheme = global::Biometric.Droid.Resource.Attribute.actionBarTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionBarWidgetTheme = global::Biometric.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionButtonStyle = global::Biometric.Droid.Resource.Attribute.actionButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionDropDownStyle = global::Biometric.Droid.Resource.Attribute.actionDropDownStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionLayout = global::Biometric.Droid.Resource.Attribute.actionLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionMenuTextAppearance = global::Biometric.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionMenuTextColor = global::Biometric.Droid.Resource.Attribute.actionMenuTextColor;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeBackground = global::Biometric.Droid.Resource.Attribute.actionModeBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeCloseButtonStyle = global::Biometric.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeCloseDrawable = global::Biometric.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeCopyDrawable = global::Biometric.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeCutDrawable = global::Biometric.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeFindDrawable = global::Biometric.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModePasteDrawable = global::Biometric.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModePopupWindowStyle = global::Biometric.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeSelectAllDrawable = global::Biometric.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeShareDrawable = global::Biometric.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeSplitBackground = global::Biometric.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeStyle = global::Biometric.Droid.Resource.Attribute.actionModeStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionModeWebSearchDrawable = global::Biometric.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionOverflowButtonStyle = global::Biometric.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionOverflowMenuStyle = global::Biometric.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionProviderClass = global::Biometric.Droid.Resource.Attribute.actionProviderClass;
+			global::ZXing.Net.Mobile.Resource.Attribute.actionViewClass = global::Biometric.Droid.Resource.Attribute.actionViewClass;
+			global::ZXing.Net.Mobile.Resource.Attribute.activityChooserViewStyle = global::Biometric.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.alertDialogButtonGroupStyle = global::Biometric.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.alertDialogCenterButtons = global::Biometric.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::ZXing.Net.Mobile.Resource.Attribute.alertDialogStyle = global::Biometric.Droid.Resource.Attribute.alertDialogStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.alertDialogTheme = global::Biometric.Droid.Resource.Attribute.alertDialogTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.allowStacking = global::Biometric.Droid.Resource.Attribute.allowStacking;
+			global::ZXing.Net.Mobile.Resource.Attribute.alpha = global::Biometric.Droid.Resource.Attribute.alpha;
+			global::ZXing.Net.Mobile.Resource.Attribute.alphabeticModifiers = global::Biometric.Droid.Resource.Attribute.alphabeticModifiers;
+			global::ZXing.Net.Mobile.Resource.Attribute.arrowHeadLength = global::Biometric.Droid.Resource.Attribute.arrowHeadLength;
+			global::ZXing.Net.Mobile.Resource.Attribute.arrowShaftLength = global::Biometric.Droid.Resource.Attribute.arrowShaftLength;
+			global::ZXing.Net.Mobile.Resource.Attribute.autoCompleteTextViewStyle = global::Biometric.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.autoSizeMaxTextSize = global::Biometric.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::ZXing.Net.Mobile.Resource.Attribute.autoSizeMinTextSize = global::Biometric.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::ZXing.Net.Mobile.Resource.Attribute.autoSizePresetSizes = global::Biometric.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::ZXing.Net.Mobile.Resource.Attribute.autoSizeStepGranularity = global::Biometric.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::ZXing.Net.Mobile.Resource.Attribute.autoSizeTextType = global::Biometric.Droid.Resource.Attribute.autoSizeTextType;
+			global::ZXing.Net.Mobile.Resource.Attribute.background = global::Biometric.Droid.Resource.Attribute.background;
+			global::ZXing.Net.Mobile.Resource.Attribute.backgroundSplit = global::Biometric.Droid.Resource.Attribute.backgroundSplit;
+			global::ZXing.Net.Mobile.Resource.Attribute.backgroundStacked = global::Biometric.Droid.Resource.Attribute.backgroundStacked;
+			global::ZXing.Net.Mobile.Resource.Attribute.backgroundTint = global::Biometric.Droid.Resource.Attribute.backgroundTint;
+			global::ZXing.Net.Mobile.Resource.Attribute.backgroundTintMode = global::Biometric.Droid.Resource.Attribute.backgroundTintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.barLength = global::Biometric.Droid.Resource.Attribute.barLength;
+			global::ZXing.Net.Mobile.Resource.Attribute.borderlessButtonStyle = global::Biometric.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonBarButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonBarNegativeButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonBarNeutralButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonBarPositiveButtonStyle = global::Biometric.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonBarStyle = global::Biometric.Droid.Resource.Attribute.buttonBarStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonCompat = global::Biometric.Droid.Resource.Attribute.buttonCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonGravity = global::Biometric.Droid.Resource.Attribute.buttonGravity;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonIconDimen = global::Biometric.Droid.Resource.Attribute.buttonIconDimen;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonPanelSideLayout = global::Biometric.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonStyle = global::Biometric.Droid.Resource.Attribute.buttonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonStyleSmall = global::Biometric.Droid.Resource.Attribute.buttonStyleSmall;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonTint = global::Biometric.Droid.Resource.Attribute.buttonTint;
+			global::ZXing.Net.Mobile.Resource.Attribute.buttonTintMode = global::Biometric.Droid.Resource.Attribute.buttonTintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.checkboxStyle = global::Biometric.Droid.Resource.Attribute.checkboxStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.checkedTextViewStyle = global::Biometric.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.closeIcon = global::Biometric.Droid.Resource.Attribute.closeIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.closeItemLayout = global::Biometric.Droid.Resource.Attribute.closeItemLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.collapseContentDescription = global::Biometric.Droid.Resource.Attribute.collapseContentDescription;
+			global::ZXing.Net.Mobile.Resource.Attribute.collapseIcon = global::Biometric.Droid.Resource.Attribute.collapseIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.color = global::Biometric.Droid.Resource.Attribute.color;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorAccent = global::Biometric.Droid.Resource.Attribute.colorAccent;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorBackgroundFloating = global::Biometric.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorButtonNormal = global::Biometric.Droid.Resource.Attribute.colorButtonNormal;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorControlActivated = global::Biometric.Droid.Resource.Attribute.colorControlActivated;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorControlHighlight = global::Biometric.Droid.Resource.Attribute.colorControlHighlight;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorControlNormal = global::Biometric.Droid.Resource.Attribute.colorControlNormal;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorError = global::Biometric.Droid.Resource.Attribute.colorError;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorPrimary = global::Biometric.Droid.Resource.Attribute.colorPrimary;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorPrimaryDark = global::Biometric.Droid.Resource.Attribute.colorPrimaryDark;
+			global::ZXing.Net.Mobile.Resource.Attribute.colorSwitchThumbNormal = global::Biometric.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::ZXing.Net.Mobile.Resource.Attribute.commitIcon = global::Biometric.Droid.Resource.Attribute.commitIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.contentDescription = global::Biometric.Droid.Resource.Attribute.contentDescription;
+			global::ZXing.Net.Mobile.Resource.Attribute.contentInsetEnd = global::Biometric.Droid.Resource.Attribute.contentInsetEnd;
+			global::ZXing.Net.Mobile.Resource.Attribute.contentInsetEndWithActions = global::Biometric.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::ZXing.Net.Mobile.Resource.Attribute.contentInsetLeft = global::Biometric.Droid.Resource.Attribute.contentInsetLeft;
+			global::ZXing.Net.Mobile.Resource.Attribute.contentInsetRight = global::Biometric.Droid.Resource.Attribute.contentInsetRight;
+			global::ZXing.Net.Mobile.Resource.Attribute.contentInsetStart = global::Biometric.Droid.Resource.Attribute.contentInsetStart;
+			global::ZXing.Net.Mobile.Resource.Attribute.contentInsetStartWithNavigation = global::Biometric.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::ZXing.Net.Mobile.Resource.Attribute.controlBackground = global::Biometric.Droid.Resource.Attribute.controlBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.customNavigationLayout = global::Biometric.Droid.Resource.Attribute.customNavigationLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.defaultQueryHint = global::Biometric.Droid.Resource.Attribute.defaultQueryHint;
+			global::ZXing.Net.Mobile.Resource.Attribute.dialogCornerRadius = global::Biometric.Droid.Resource.Attribute.dialogCornerRadius;
+			global::ZXing.Net.Mobile.Resource.Attribute.dialogPreferredPadding = global::Biometric.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::ZXing.Net.Mobile.Resource.Attribute.dialogTheme = global::Biometric.Droid.Resource.Attribute.dialogTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.displayOptions = global::Biometric.Droid.Resource.Attribute.displayOptions;
+			global::ZXing.Net.Mobile.Resource.Attribute.divider = global::Biometric.Droid.Resource.Attribute.divider;
+			global::ZXing.Net.Mobile.Resource.Attribute.dividerHorizontal = global::Biometric.Droid.Resource.Attribute.dividerHorizontal;
+			global::ZXing.Net.Mobile.Resource.Attribute.dividerPadding = global::Biometric.Droid.Resource.Attribute.dividerPadding;
+			global::ZXing.Net.Mobile.Resource.Attribute.dividerVertical = global::Biometric.Droid.Resource.Attribute.dividerVertical;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableBottomCompat = global::Biometric.Droid.Resource.Attribute.drawableBottomCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableEndCompat = global::Biometric.Droid.Resource.Attribute.drawableEndCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableLeftCompat = global::Biometric.Droid.Resource.Attribute.drawableLeftCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableRightCompat = global::Biometric.Droid.Resource.Attribute.drawableRightCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableSize = global::Biometric.Droid.Resource.Attribute.drawableSize;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableStartCompat = global::Biometric.Droid.Resource.Attribute.drawableStartCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableTint = global::Biometric.Droid.Resource.Attribute.drawableTint;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableTintMode = global::Biometric.Droid.Resource.Attribute.drawableTintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawableTopCompat = global::Biometric.Droid.Resource.Attribute.drawableTopCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawerArrowStyle = global::Biometric.Droid.Resource.Attribute.drawerArrowStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.drawerLayoutStyle = global::Biometric.Droid.Resource.Attribute.drawerLayoutStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.dropdownListPreferredItemHeight = global::Biometric.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::ZXing.Net.Mobile.Resource.Attribute.dropDownListViewStyle = global::Biometric.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.editTextBackground = global::Biometric.Droid.Resource.Attribute.editTextBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.editTextColor = global::Biometric.Droid.Resource.Attribute.editTextColor;
+			global::ZXing.Net.Mobile.Resource.Attribute.editTextStyle = global::Biometric.Droid.Resource.Attribute.editTextStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.elevation = global::Biometric.Droid.Resource.Attribute.elevation;
+			global::ZXing.Net.Mobile.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Biometric.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::ZXing.Net.Mobile.Resource.Attribute.firstBaselineToTopHeight = global::Biometric.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::ZXing.Net.Mobile.Resource.Attribute.font = global::Biometric.Droid.Resource.Attribute.font;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontFamily = global::Biometric.Droid.Resource.Attribute.fontFamily;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontProviderAuthority = global::Biometric.Droid.Resource.Attribute.fontProviderAuthority;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontProviderCerts = global::Biometric.Droid.Resource.Attribute.fontProviderCerts;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontProviderFetchStrategy = global::Biometric.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontProviderFetchTimeout = global::Biometric.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontProviderPackage = global::Biometric.Droid.Resource.Attribute.fontProviderPackage;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontProviderQuery = global::Biometric.Droid.Resource.Attribute.fontProviderQuery;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontStyle = global::Biometric.Droid.Resource.Attribute.fontStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontVariationSettings = global::Biometric.Droid.Resource.Attribute.fontVariationSettings;
+			global::ZXing.Net.Mobile.Resource.Attribute.fontWeight = global::Biometric.Droid.Resource.Attribute.fontWeight;
+			global::ZXing.Net.Mobile.Resource.Attribute.gapBetweenBars = global::Biometric.Droid.Resource.Attribute.gapBetweenBars;
+			global::ZXing.Net.Mobile.Resource.Attribute.goIcon = global::Biometric.Droid.Resource.Attribute.goIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.height = global::Biometric.Droid.Resource.Attribute.height;
+			global::ZXing.Net.Mobile.Resource.Attribute.hideOnContentScroll = global::Biometric.Droid.Resource.Attribute.hideOnContentScroll;
+			global::ZXing.Net.Mobile.Resource.Attribute.homeAsUpIndicator = global::Biometric.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::ZXing.Net.Mobile.Resource.Attribute.homeLayout = global::Biometric.Droid.Resource.Attribute.homeLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.icon = global::Biometric.Droid.Resource.Attribute.icon;
+			global::ZXing.Net.Mobile.Resource.Attribute.iconifiedByDefault = global::Biometric.Droid.Resource.Attribute.iconifiedByDefault;
+			global::ZXing.Net.Mobile.Resource.Attribute.iconTint = global::Biometric.Droid.Resource.Attribute.iconTint;
+			global::ZXing.Net.Mobile.Resource.Attribute.iconTintMode = global::Biometric.Droid.Resource.Attribute.iconTintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.imageButtonStyle = global::Biometric.Droid.Resource.Attribute.imageButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.indeterminateProgressStyle = global::Biometric.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.initialActivityCount = global::Biometric.Droid.Resource.Attribute.initialActivityCount;
+			global::ZXing.Net.Mobile.Resource.Attribute.isLightTheme = global::Biometric.Droid.Resource.Attribute.isLightTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.itemPadding = global::Biometric.Droid.Resource.Attribute.itemPadding;
+			global::ZXing.Net.Mobile.Resource.Attribute.lastBaselineToBottomHeight = global::Biometric.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::ZXing.Net.Mobile.Resource.Attribute.layout = global::Biometric.Droid.Resource.Attribute.layout;
+			global::ZXing.Net.Mobile.Resource.Attribute.lineHeight = global::Biometric.Droid.Resource.Attribute.lineHeight;
+			global::ZXing.Net.Mobile.Resource.Attribute.listChoiceBackgroundIndicator = global::Biometric.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::ZXing.Net.Mobile.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::Biometric.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::ZXing.Net.Mobile.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::Biometric.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::ZXing.Net.Mobile.Resource.Attribute.listDividerAlertDialog = global::Biometric.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::ZXing.Net.Mobile.Resource.Attribute.listItemLayout = global::Biometric.Droid.Resource.Attribute.listItemLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.listLayout = global::Biometric.Droid.Resource.Attribute.listLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.listMenuViewStyle = global::Biometric.Droid.Resource.Attribute.listMenuViewStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPopupWindowStyle = global::Biometric.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPreferredItemHeight = global::Biometric.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPreferredItemHeightLarge = global::Biometric.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPreferredItemHeightSmall = global::Biometric.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPreferredItemPaddingEnd = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPreferredItemPaddingLeft = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPreferredItemPaddingRight = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::ZXing.Net.Mobile.Resource.Attribute.listPreferredItemPaddingStart = global::Biometric.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::ZXing.Net.Mobile.Resource.Attribute.logo = global::Biometric.Droid.Resource.Attribute.logo;
+			global::ZXing.Net.Mobile.Resource.Attribute.logoDescription = global::Biometric.Droid.Resource.Attribute.logoDescription;
+			global::ZXing.Net.Mobile.Resource.Attribute.maxButtonHeight = global::Biometric.Droid.Resource.Attribute.maxButtonHeight;
+			global::ZXing.Net.Mobile.Resource.Attribute.measureWithLargestChild = global::Biometric.Droid.Resource.Attribute.measureWithLargestChild;
+			global::ZXing.Net.Mobile.Resource.Attribute.menu = global::Biometric.Droid.Resource.Attribute.menu;
+			global::ZXing.Net.Mobile.Resource.Attribute.multiChoiceItemLayout = global::Biometric.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.navigationContentDescription = global::Biometric.Droid.Resource.Attribute.navigationContentDescription;
+			global::ZXing.Net.Mobile.Resource.Attribute.navigationIcon = global::Biometric.Droid.Resource.Attribute.navigationIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.navigationMode = global::Biometric.Droid.Resource.Attribute.navigationMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.numericModifiers = global::Biometric.Droid.Resource.Attribute.numericModifiers;
+			global::ZXing.Net.Mobile.Resource.Attribute.overlapAnchor = global::Biometric.Droid.Resource.Attribute.overlapAnchor;
+			global::ZXing.Net.Mobile.Resource.Attribute.paddingBottomNoButtons = global::Biometric.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::ZXing.Net.Mobile.Resource.Attribute.paddingEnd = global::Biometric.Droid.Resource.Attribute.paddingEnd;
+			global::ZXing.Net.Mobile.Resource.Attribute.paddingStart = global::Biometric.Droid.Resource.Attribute.paddingStart;
+			global::ZXing.Net.Mobile.Resource.Attribute.paddingTopNoTitle = global::Biometric.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::ZXing.Net.Mobile.Resource.Attribute.panelBackground = global::Biometric.Droid.Resource.Attribute.panelBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.panelMenuListTheme = global::Biometric.Droid.Resource.Attribute.panelMenuListTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.panelMenuListWidth = global::Biometric.Droid.Resource.Attribute.panelMenuListWidth;
+			global::ZXing.Net.Mobile.Resource.Attribute.popupMenuStyle = global::Biometric.Droid.Resource.Attribute.popupMenuStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.popupTheme = global::Biometric.Droid.Resource.Attribute.popupTheme;
+			global::ZXing.Net.Mobile.Resource.Attribute.popupWindowStyle = global::Biometric.Droid.Resource.Attribute.popupWindowStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.preserveIconSpacing = global::Biometric.Droid.Resource.Attribute.preserveIconSpacing;
+			global::ZXing.Net.Mobile.Resource.Attribute.progressBarPadding = global::Biometric.Droid.Resource.Attribute.progressBarPadding;
+			global::ZXing.Net.Mobile.Resource.Attribute.progressBarStyle = global::Biometric.Droid.Resource.Attribute.progressBarStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.queryBackground = global::Biometric.Droid.Resource.Attribute.queryBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.queryHint = global::Biometric.Droid.Resource.Attribute.queryHint;
+			global::ZXing.Net.Mobile.Resource.Attribute.radioButtonStyle = global::Biometric.Droid.Resource.Attribute.radioButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.ratingBarStyle = global::Biometric.Droid.Resource.Attribute.ratingBarStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.ratingBarStyleIndicator = global::Biometric.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::ZXing.Net.Mobile.Resource.Attribute.ratingBarStyleSmall = global::Biometric.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::ZXing.Net.Mobile.Resource.Attribute.searchHintIcon = global::Biometric.Droid.Resource.Attribute.searchHintIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.searchIcon = global::Biometric.Droid.Resource.Attribute.searchIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.searchViewStyle = global::Biometric.Droid.Resource.Attribute.searchViewStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.seekBarStyle = global::Biometric.Droid.Resource.Attribute.seekBarStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.selectableItemBackground = global::Biometric.Droid.Resource.Attribute.selectableItemBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.selectableItemBackgroundBorderless = global::Biometric.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::ZXing.Net.Mobile.Resource.Attribute.showAsAction = global::Biometric.Droid.Resource.Attribute.showAsAction;
+			global::ZXing.Net.Mobile.Resource.Attribute.showDividers = global::Biometric.Droid.Resource.Attribute.showDividers;
+			global::ZXing.Net.Mobile.Resource.Attribute.showText = global::Biometric.Droid.Resource.Attribute.showText;
+			global::ZXing.Net.Mobile.Resource.Attribute.showTitle = global::Biometric.Droid.Resource.Attribute.showTitle;
+			global::ZXing.Net.Mobile.Resource.Attribute.singleChoiceItemLayout = global::Biometric.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.spinBars = global::Biometric.Droid.Resource.Attribute.spinBars;
+			global::ZXing.Net.Mobile.Resource.Attribute.spinnerDropDownItemStyle = global::Biometric.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.spinnerStyle = global::Biometric.Droid.Resource.Attribute.spinnerStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.splitTrack = global::Biometric.Droid.Resource.Attribute.splitTrack;
+			global::ZXing.Net.Mobile.Resource.Attribute.srcCompat = global::Biometric.Droid.Resource.Attribute.srcCompat;
+			global::ZXing.Net.Mobile.Resource.Attribute.state_above_anchor = global::Biometric.Droid.Resource.Attribute.state_above_anchor;
+			global::ZXing.Net.Mobile.Resource.Attribute.subMenuArrow = global::Biometric.Droid.Resource.Attribute.subMenuArrow;
+			global::ZXing.Net.Mobile.Resource.Attribute.submitBackground = global::Biometric.Droid.Resource.Attribute.submitBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.subtitle = global::Biometric.Droid.Resource.Attribute.subtitle;
+			global::ZXing.Net.Mobile.Resource.Attribute.subtitleTextAppearance = global::Biometric.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Attribute.subtitleTextColor = global::Biometric.Droid.Resource.Attribute.subtitleTextColor;
+			global::ZXing.Net.Mobile.Resource.Attribute.subtitleTextStyle = global::Biometric.Droid.Resource.Attribute.subtitleTextStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.suggestionRowLayout = global::Biometric.Droid.Resource.Attribute.suggestionRowLayout;
+			global::ZXing.Net.Mobile.Resource.Attribute.switchMinWidth = global::Biometric.Droid.Resource.Attribute.switchMinWidth;
+			global::ZXing.Net.Mobile.Resource.Attribute.switchPadding = global::Biometric.Droid.Resource.Attribute.switchPadding;
+			global::ZXing.Net.Mobile.Resource.Attribute.switchStyle = global::Biometric.Droid.Resource.Attribute.switchStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.switchTextAppearance = global::Biometric.Droid.Resource.Attribute.switchTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAllCaps = global::Biometric.Droid.Resource.Attribute.textAllCaps;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearanceLargePopupMenu = global::Biometric.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearanceListItem = global::Biometric.Droid.Resource.Attribute.textAppearanceListItem;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearanceListItemSecondary = global::Biometric.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearanceListItemSmall = global::Biometric.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearancePopupMenuHeader = global::Biometric.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Biometric.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearanceSearchResultTitle = global::Biometric.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::ZXing.Net.Mobile.Resource.Attribute.textAppearanceSmallPopupMenu = global::Biometric.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::ZXing.Net.Mobile.Resource.Attribute.textColorAlertDialogListItem = global::Biometric.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::ZXing.Net.Mobile.Resource.Attribute.textColorSearchUrl = global::Biometric.Droid.Resource.Attribute.textColorSearchUrl;
+			global::ZXing.Net.Mobile.Resource.Attribute.textLocale = global::Biometric.Droid.Resource.Attribute.textLocale;
+			global::ZXing.Net.Mobile.Resource.Attribute.theme = global::Biometric.Droid.Resource.Attribute.theme;
+			global::ZXing.Net.Mobile.Resource.Attribute.thickness = global::Biometric.Droid.Resource.Attribute.thickness;
+			global::ZXing.Net.Mobile.Resource.Attribute.thumbTextPadding = global::Biometric.Droid.Resource.Attribute.thumbTextPadding;
+			global::ZXing.Net.Mobile.Resource.Attribute.thumbTint = global::Biometric.Droid.Resource.Attribute.thumbTint;
+			global::ZXing.Net.Mobile.Resource.Attribute.thumbTintMode = global::Biometric.Droid.Resource.Attribute.thumbTintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.tickMark = global::Biometric.Droid.Resource.Attribute.tickMark;
+			global::ZXing.Net.Mobile.Resource.Attribute.tickMarkTint = global::Biometric.Droid.Resource.Attribute.tickMarkTint;
+			global::ZXing.Net.Mobile.Resource.Attribute.tickMarkTintMode = global::Biometric.Droid.Resource.Attribute.tickMarkTintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.tint = global::Biometric.Droid.Resource.Attribute.tint;
+			global::ZXing.Net.Mobile.Resource.Attribute.tintMode = global::Biometric.Droid.Resource.Attribute.tintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.title = global::Biometric.Droid.Resource.Attribute.title;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleMargin = global::Biometric.Droid.Resource.Attribute.titleMargin;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleMarginBottom = global::Biometric.Droid.Resource.Attribute.titleMarginBottom;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleMarginEnd = global::Biometric.Droid.Resource.Attribute.titleMarginEnd;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleMargins = global::Biometric.Droid.Resource.Attribute.titleMargins;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleMarginStart = global::Biometric.Droid.Resource.Attribute.titleMarginStart;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleMarginTop = global::Biometric.Droid.Resource.Attribute.titleMarginTop;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleTextAppearance = global::Biometric.Droid.Resource.Attribute.titleTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleTextColor = global::Biometric.Droid.Resource.Attribute.titleTextColor;
+			global::ZXing.Net.Mobile.Resource.Attribute.titleTextStyle = global::Biometric.Droid.Resource.Attribute.titleTextStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.toolbarNavigationButtonStyle = global::Biometric.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.toolbarStyle = global::Biometric.Droid.Resource.Attribute.toolbarStyle;
+			global::ZXing.Net.Mobile.Resource.Attribute.tooltipForegroundColor = global::Biometric.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::ZXing.Net.Mobile.Resource.Attribute.tooltipFrameBackground = global::Biometric.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::ZXing.Net.Mobile.Resource.Attribute.tooltipText = global::Biometric.Droid.Resource.Attribute.tooltipText;
+			global::ZXing.Net.Mobile.Resource.Attribute.track = global::Biometric.Droid.Resource.Attribute.track;
+			global::ZXing.Net.Mobile.Resource.Attribute.trackTint = global::Biometric.Droid.Resource.Attribute.trackTint;
+			global::ZXing.Net.Mobile.Resource.Attribute.trackTintMode = global::Biometric.Droid.Resource.Attribute.trackTintMode;
+			global::ZXing.Net.Mobile.Resource.Attribute.ttcIndex = global::Biometric.Droid.Resource.Attribute.ttcIndex;
+			global::ZXing.Net.Mobile.Resource.Attribute.viewInflaterClass = global::Biometric.Droid.Resource.Attribute.viewInflaterClass;
+			global::ZXing.Net.Mobile.Resource.Attribute.voiceIcon = global::Biometric.Droid.Resource.Attribute.voiceIcon;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowActionBar = global::Biometric.Droid.Resource.Attribute.windowActionBar;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowActionBarOverlay = global::Biometric.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowActionModeOverlay = global::Biometric.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowFixedHeightMajor = global::Biometric.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowFixedHeightMinor = global::Biometric.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowFixedWidthMajor = global::Biometric.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowFixedWidthMinor = global::Biometric.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowMinWidthMajor = global::Biometric.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowMinWidthMinor = global::Biometric.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::ZXing.Net.Mobile.Resource.Attribute.windowNoTitle = global::Biometric.Droid.Resource.Attribute.windowNoTitle;
+			global::ZXing.Net.Mobile.Resource.Boolean.abc_action_bar_embed_tabs = global::Biometric.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::ZXing.Net.Mobile.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Biometric.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::ZXing.Net.Mobile.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Biometric.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.abc_background_cache_hint_selector_material_light = global::Biometric.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.abc_btn_colored_borderless_text_material = global::Biometric.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::ZXing.Net.Mobile.Resource.Color.abc_btn_colored_text_material = global::Biometric.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::ZXing.Net.Mobile.Resource.Color.abc_color_highlight_material = global::Biometric.Droid.Resource.Color.abc_color_highlight_material;
+			global::ZXing.Net.Mobile.Resource.Color.abc_decor_view_status_guard = global::Biometric.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::ZXing.Net.Mobile.Resource.Color.abc_decor_view_status_guard_light = global::Biometric.Droid.Resource.Color.abc_decor_view_status_guard_light;
+			global::ZXing.Net.Mobile.Resource.Color.abc_hint_foreground_material_dark = global::Biometric.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.abc_hint_foreground_material_light = global::Biometric.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.abc_primary_text_disable_only_material_dark = global::Biometric.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.abc_primary_text_disable_only_material_light = global::Biometric.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.abc_primary_text_material_dark = global::Biometric.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.abc_primary_text_material_light = global::Biometric.Droid.Resource.Color.abc_primary_text_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.abc_search_url_text = global::Biometric.Droid.Resource.Color.abc_search_url_text;
+			global::ZXing.Net.Mobile.Resource.Color.abc_search_url_text_normal = global::Biometric.Droid.Resource.Color.abc_search_url_text_normal;
+			global::ZXing.Net.Mobile.Resource.Color.abc_search_url_text_pressed = global::Biometric.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::ZXing.Net.Mobile.Resource.Color.abc_search_url_text_selected = global::Biometric.Droid.Resource.Color.abc_search_url_text_selected;
+			global::ZXing.Net.Mobile.Resource.Color.abc_secondary_text_material_dark = global::Biometric.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.abc_secondary_text_material_light = global::Biometric.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.abc_tint_btn_checkable = global::Biometric.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::ZXing.Net.Mobile.Resource.Color.abc_tint_default = global::Biometric.Droid.Resource.Color.abc_tint_default;
+			global::ZXing.Net.Mobile.Resource.Color.abc_tint_edittext = global::Biometric.Droid.Resource.Color.abc_tint_edittext;
+			global::ZXing.Net.Mobile.Resource.Color.abc_tint_seek_thumb = global::Biometric.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::ZXing.Net.Mobile.Resource.Color.abc_tint_spinner = global::Biometric.Droid.Resource.Color.abc_tint_spinner;
+			global::ZXing.Net.Mobile.Resource.Color.abc_tint_switch_track = global::Biometric.Droid.Resource.Color.abc_tint_switch_track;
+			global::ZXing.Net.Mobile.Resource.Color.accent_material_dark = global::Biometric.Droid.Resource.Color.accent_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.accent_material_light = global::Biometric.Droid.Resource.Color.accent_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.androidx_core_ripple_material_light = global::Biometric.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.androidx_core_secondary_text_default_material_light = global::Biometric.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.background_floating_material_dark = global::Biometric.Droid.Resource.Color.background_floating_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.background_floating_material_light = global::Biometric.Droid.Resource.Color.background_floating_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.background_material_dark = global::Biometric.Droid.Resource.Color.background_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.background_material_light = global::Biometric.Droid.Resource.Color.background_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.bright_foreground_disabled_material_dark = global::Biometric.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.bright_foreground_disabled_material_light = global::Biometric.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.bright_foreground_inverse_material_dark = global::Biometric.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.bright_foreground_inverse_material_light = global::Biometric.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.bright_foreground_material_dark = global::Biometric.Droid.Resource.Color.bright_foreground_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.bright_foreground_material_light = global::Biometric.Droid.Resource.Color.bright_foreground_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.browser_actions_bg_grey = global::Biometric.Droid.Resource.Color.browser_actions_bg_grey;
+			global::ZXing.Net.Mobile.Resource.Color.browser_actions_divider_color = global::Biometric.Droid.Resource.Color.browser_actions_divider_color;
+			global::ZXing.Net.Mobile.Resource.Color.browser_actions_text_color = global::Biometric.Droid.Resource.Color.browser_actions_text_color;
+			global::ZXing.Net.Mobile.Resource.Color.browser_actions_title_color = global::Biometric.Droid.Resource.Color.browser_actions_title_color;
+			global::ZXing.Net.Mobile.Resource.Color.button_material_dark = global::Biometric.Droid.Resource.Color.button_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.button_material_light = global::Biometric.Droid.Resource.Color.button_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.dim_foreground_disabled_material_dark = global::Biometric.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.dim_foreground_disabled_material_light = global::Biometric.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.dim_foreground_material_dark = global::Biometric.Droid.Resource.Color.dim_foreground_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.dim_foreground_material_light = global::Biometric.Droid.Resource.Color.dim_foreground_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.error_color_material_dark = global::Biometric.Droid.Resource.Color.error_color_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.error_color_material_light = global::Biometric.Droid.Resource.Color.error_color_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.foreground_material_dark = global::Biometric.Droid.Resource.Color.foreground_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.foreground_material_light = global::Biometric.Droid.Resource.Color.foreground_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.highlighted_text_material_dark = global::Biometric.Droid.Resource.Color.highlighted_text_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.highlighted_text_material_light = global::Biometric.Droid.Resource.Color.highlighted_text_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.material_blue_grey_800 = global::Biometric.Droid.Resource.Color.material_blue_grey_800;
+			global::ZXing.Net.Mobile.Resource.Color.material_blue_grey_900 = global::Biometric.Droid.Resource.Color.material_blue_grey_900;
+			global::ZXing.Net.Mobile.Resource.Color.material_blue_grey_950 = global::Biometric.Droid.Resource.Color.material_blue_grey_950;
+			global::ZXing.Net.Mobile.Resource.Color.material_deep_teal_200 = global::Biometric.Droid.Resource.Color.material_deep_teal_200;
+			global::ZXing.Net.Mobile.Resource.Color.material_deep_teal_500 = global::Biometric.Droid.Resource.Color.material_deep_teal_500;
+			global::ZXing.Net.Mobile.Resource.Color.material_grey_100 = global::Biometric.Droid.Resource.Color.material_grey_100;
+			global::ZXing.Net.Mobile.Resource.Color.material_grey_300 = global::Biometric.Droid.Resource.Color.material_grey_300;
+			global::ZXing.Net.Mobile.Resource.Color.material_grey_50 = global::Biometric.Droid.Resource.Color.material_grey_50;
+			global::ZXing.Net.Mobile.Resource.Color.material_grey_600 = global::Biometric.Droid.Resource.Color.material_grey_600;
+			global::ZXing.Net.Mobile.Resource.Color.material_grey_800 = global::Biometric.Droid.Resource.Color.material_grey_800;
+			global::ZXing.Net.Mobile.Resource.Color.material_grey_850 = global::Biometric.Droid.Resource.Color.material_grey_850;
+			global::ZXing.Net.Mobile.Resource.Color.material_grey_900 = global::Biometric.Droid.Resource.Color.material_grey_900;
+			global::ZXing.Net.Mobile.Resource.Color.notification_action_color_filter = global::Biometric.Droid.Resource.Color.notification_action_color_filter;
+			global::ZXing.Net.Mobile.Resource.Color.notification_icon_bg_color = global::Biometric.Droid.Resource.Color.notification_icon_bg_color;
+			global::ZXing.Net.Mobile.Resource.Color.primary_dark_material_dark = global::Biometric.Droid.Resource.Color.primary_dark_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.primary_dark_material_light = global::Biometric.Droid.Resource.Color.primary_dark_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.primary_material_dark = global::Biometric.Droid.Resource.Color.primary_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.primary_material_light = global::Biometric.Droid.Resource.Color.primary_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.primary_text_default_material_dark = global::Biometric.Droid.Resource.Color.primary_text_default_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.primary_text_default_material_light = global::Biometric.Droid.Resource.Color.primary_text_default_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.primary_text_disabled_material_dark = global::Biometric.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.primary_text_disabled_material_light = global::Biometric.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.ripple_material_dark = global::Biometric.Droid.Resource.Color.ripple_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.ripple_material_light = global::Biometric.Droid.Resource.Color.ripple_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.secondary_text_default_material_dark = global::Biometric.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.secondary_text_default_material_light = global::Biometric.Droid.Resource.Color.secondary_text_default_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.secondary_text_disabled_material_dark = global::Biometric.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.secondary_text_disabled_material_light = global::Biometric.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.switch_thumb_disabled_material_dark = global::Biometric.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.switch_thumb_disabled_material_light = global::Biometric.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.switch_thumb_material_dark = global::Biometric.Droid.Resource.Color.switch_thumb_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.switch_thumb_material_light = global::Biometric.Droid.Resource.Color.switch_thumb_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.switch_thumb_normal_material_dark = global::Biometric.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::ZXing.Net.Mobile.Resource.Color.switch_thumb_normal_material_light = global::Biometric.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::ZXing.Net.Mobile.Resource.Color.tooltip_background_dark = global::Biometric.Droid.Resource.Color.tooltip_background_dark;
+			global::ZXing.Net.Mobile.Resource.Color.tooltip_background_light = global::Biometric.Droid.Resource.Color.tooltip_background_light;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_content_inset_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Biometric.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_default_height_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_elevation_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_stacked_max_height = global::Biometric.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Biometric.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Biometric.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_button_min_height_material = global::Biometric.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_button_min_width_material = global::Biometric.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Biometric.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Biometric.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_alert_dialog_button_dimen = global::Biometric.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_button_inset_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_button_inset_vertical_material = global::Biometric.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_button_padding_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_button_padding_vertical_material = global::Biometric.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Biometric.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_config_prefDialogWidth = global::Biometric.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_control_corner_material = global::Biometric.Droid.Resource.Dimension.abc_control_corner_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_control_inset_material = global::Biometric.Droid.Resource.Dimension.abc_control_inset_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_control_padding_material = global::Biometric.Droid.Resource.Dimension.abc_control_padding_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_corner_radius_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_fixed_height_major = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_fixed_height_minor = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_fixed_width_major = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_fixed_width_minor = global::Biometric.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Biometric.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Biometric.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_min_width_major = global::Biometric.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_min_width_minor = global::Biometric.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_padding_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_padding_top_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dialog_title_divider_material = global::Biometric.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_disabled_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_disabled_alpha_material_light = global::Biometric.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dropdownitem_icon_width = global::Biometric.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Biometric.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Biometric.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Biometric.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_edit_text_inset_top_material = global::Biometric.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_floating_window_z = global::Biometric.Droid.Resource.Dimension.abc_floating_window_z;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_list_item_height_large_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_list_item_height_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_list_item_height_small_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Biometric.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_panel_menu_list_width = global::Biometric.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_progress_bar_height_material = global::Biometric.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_search_view_preferred_height = global::Biometric.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_search_view_preferred_width = global::Biometric.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_seekbar_track_background_height_material = global::Biometric.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Biometric.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_select_dialog_padding_start_material = global::Biometric.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_switch_padding = global::Biometric.Droid.Resource.Dimension.abc_switch_padding;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_body_1_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_body_2_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_button_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_caption_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_display_1_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_display_2_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_display_3_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_display_4_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_headline_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_large_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_medium_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_menu_header_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_menu_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_small_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_subhead_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Biometric.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_title_material = global::Biometric.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.abc_text_size_title_material_toolbar = global::Biometric.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::ZXing.Net.Mobile.Resource.Dimension.browser_actions_context_menu_max_width = global::Biometric.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.browser_actions_context_menu_min_padding = global::Biometric.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::ZXing.Net.Mobile.Resource.Dimension.compat_button_inset_horizontal_material = global::Biometric.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.compat_button_inset_vertical_material = global::Biometric.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.compat_button_padding_horizontal_material = global::Biometric.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.compat_button_padding_vertical_material = global::Biometric.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.compat_control_corner_material = global::Biometric.Droid.Resource.Dimension.compat_control_corner_material;
+			global::ZXing.Net.Mobile.Resource.Dimension.compat_notification_large_icon_max_height = global::Biometric.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::ZXing.Net.Mobile.Resource.Dimension.compat_notification_large_icon_max_width = global::Biometric.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.def_drawer_elevation = global::Biometric.Droid.Resource.Dimension.def_drawer_elevation;
+			global::ZXing.Net.Mobile.Resource.Dimension.disabled_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::ZXing.Net.Mobile.Resource.Dimension.disabled_alpha_material_light = global::Biometric.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::ZXing.Net.Mobile.Resource.Dimension.highlight_alpha_material_colored = global::Biometric.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::ZXing.Net.Mobile.Resource.Dimension.highlight_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::ZXing.Net.Mobile.Resource.Dimension.highlight_alpha_material_light = global::Biometric.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::ZXing.Net.Mobile.Resource.Dimension.hint_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::ZXing.Net.Mobile.Resource.Dimension.hint_alpha_material_light = global::Biometric.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::ZXing.Net.Mobile.Resource.Dimension.hint_pressed_alpha_material_dark = global::Biometric.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::ZXing.Net.Mobile.Resource.Dimension.hint_pressed_alpha_material_light = global::Biometric.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_action_icon_size = global::Biometric.Droid.Resource.Dimension.notification_action_icon_size;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_action_text_size = global::Biometric.Droid.Resource.Dimension.notification_action_text_size;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_big_circle_margin = global::Biometric.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_content_margin_start = global::Biometric.Droid.Resource.Dimension.notification_content_margin_start;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_large_icon_height = global::Biometric.Droid.Resource.Dimension.notification_large_icon_height;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_large_icon_width = global::Biometric.Droid.Resource.Dimension.notification_large_icon_width;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_main_column_padding_top = global::Biometric.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_media_narrow_margin = global::Biometric.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_right_icon_size = global::Biometric.Droid.Resource.Dimension.notification_right_icon_size;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_right_side_padding_top = global::Biometric.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_small_icon_background_padding = global::Biometric.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_small_icon_size_as_large = global::Biometric.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_subtext_size = global::Biometric.Droid.Resource.Dimension.notification_subtext_size;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_top_pad = global::Biometric.Droid.Resource.Dimension.notification_top_pad;
+			global::ZXing.Net.Mobile.Resource.Dimension.notification_top_pad_large_text = global::Biometric.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_corner_radius = global::Biometric.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_horizontal_padding = global::Biometric.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_margin = global::Biometric.Droid.Resource.Dimension.tooltip_margin;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Biometric.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_precise_anchor_threshold = global::Biometric.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_vertical_padding = global::Biometric.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_y_offset_non_touch = global::Biometric.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::ZXing.Net.Mobile.Resource.Dimension.tooltip_y_offset_touch = global::Biometric.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_action_bar_item_background_material = global::Biometric.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_borderless_material = global::Biometric.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_check_material = global::Biometric.Droid.Resource.Drawable.abc_btn_check_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_check_material_anim = global::Biometric.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Biometric.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Biometric.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_colored_material = global::Biometric.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_default_mtrl_shape = global::Biometric.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_radio_material = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_radio_material_anim = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Biometric.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Biometric.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Biometric.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_cab_background_internal_bg = global::Biometric.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_cab_background_top_material = global::Biometric.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_control_background_material = global::Biometric.Droid.Resource.Drawable.abc_control_background_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_dialog_material_background = global::Biometric.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_edit_text_material = global::Biometric.Droid.Resource.Drawable.abc_edit_text_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_ab_back_material = global::Biometric.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Biometric.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_clear_material = global::Biometric.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_go_search_api_material = global::Biometric.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_menu_overflow_material = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_search_api_material = global::Biometric.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ic_voice_search_api_material = global::Biometric.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_item_background_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_item_background_holo_light = global::Biometric.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_divider_material = global::Biometric.Droid.Resource.Drawable.abc_list_divider_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_focused_holo = global::Biometric.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_longpressed_holo = global::Biometric.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_pressed_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_pressed_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_selector_holo_dark = global::Biometric.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_list_selector_holo_light = global::Biometric.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Biometric.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_popup_background_mtrl_mult = global::Biometric.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ratingbar_indicator_material = global::Biometric.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ratingbar_material = global::Biometric.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_ratingbar_small_material = global::Biometric.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Biometric.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Biometric.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_seekbar_thumb_material = global::Biometric.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_seekbar_tick_mark_material = global::Biometric.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_seekbar_track_material = global::Biometric.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Biometric.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_spinner_textfield_background_material = global::Biometric.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_switch_thumb_material = global::Biometric.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_tab_indicator_material = global::Biometric.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Biometric.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_textfield_search_material = global::Biometric.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_text_cursor_material = global::Biometric.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::ZXing.Net.Mobile.Resource.Drawable.abc_vector_test = global::Biometric.Droid.Resource.Drawable.abc_vector_test;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_checkbox_checked_mtrl = global::Biometric.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::Biometric.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_radio_off_mtrl = global::Biometric.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_radio_on_mtrl = global::Biometric.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::ZXing.Net.Mobile.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::Biometric.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_action_background = global::Biometric.Droid.Resource.Drawable.notification_action_background;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_bg = global::Biometric.Droid.Resource.Drawable.notification_bg;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_bg_low = global::Biometric.Droid.Resource.Drawable.notification_bg_low;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_bg_low_normal = global::Biometric.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_bg_low_pressed = global::Biometric.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_bg_normal = global::Biometric.Droid.Resource.Drawable.notification_bg_normal;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_bg_normal_pressed = global::Biometric.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_icon_background = global::Biometric.Droid.Resource.Drawable.notification_icon_background;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_template_icon_bg = global::Biometric.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_template_icon_low_bg = global::Biometric.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::ZXing.Net.Mobile.Resource.Drawable.notification_tile_bg = global::Biometric.Droid.Resource.Drawable.notification_tile_bg;
+			global::ZXing.Net.Mobile.Resource.Drawable.notify_panel_notification_icon_bg = global::Biometric.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::ZXing.Net.Mobile.Resource.Drawable.tooltip_frame_dark = global::Biometric.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::ZXing.Net.Mobile.Resource.Drawable.tooltip_frame_light = global::Biometric.Droid.Resource.Drawable.tooltip_frame_light;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_action_clickable_span = global::Biometric.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_0 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_0;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_1 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_1;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_10 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_10;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_11 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_11;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_12 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_12;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_13 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_13;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_14 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_14;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_15 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_15;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_16 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_16;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_17 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_17;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_18 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_18;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_19 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_19;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_2 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_2;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_20 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_20;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_21 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_21;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_22 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_22;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_23 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_23;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_24 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_24;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_25 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_25;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_26 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_26;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_27 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_27;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_28 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_28;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_29 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_29;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_3 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_3;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_30 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_30;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_31 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_31;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_4 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_4;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_5 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_5;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_6 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_6;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_7 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_7;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_8 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_8;
+			global::ZXing.Net.Mobile.Resource.Id.accessibility_custom_action_9 = global::Biometric.Droid.Resource.Id.accessibility_custom_action_9;
+			global::ZXing.Net.Mobile.Resource.Id.actions = global::Biometric.Droid.Resource.Id.actions;
+			global::ZXing.Net.Mobile.Resource.Id.action_bar = global::Biometric.Droid.Resource.Id.action_bar;
+			global::ZXing.Net.Mobile.Resource.Id.action_bar_activity_content = global::Biometric.Droid.Resource.Id.action_bar_activity_content;
+			global::ZXing.Net.Mobile.Resource.Id.action_bar_container = global::Biometric.Droid.Resource.Id.action_bar_container;
+			global::ZXing.Net.Mobile.Resource.Id.action_bar_root = global::Biometric.Droid.Resource.Id.action_bar_root;
+			global::ZXing.Net.Mobile.Resource.Id.action_bar_spinner = global::Biometric.Droid.Resource.Id.action_bar_spinner;
+			global::ZXing.Net.Mobile.Resource.Id.action_bar_subtitle = global::Biometric.Droid.Resource.Id.action_bar_subtitle;
+			global::ZXing.Net.Mobile.Resource.Id.action_bar_title = global::Biometric.Droid.Resource.Id.action_bar_title;
+			global::ZXing.Net.Mobile.Resource.Id.action_container = global::Biometric.Droid.Resource.Id.action_container;
+			global::ZXing.Net.Mobile.Resource.Id.action_context_bar = global::Biometric.Droid.Resource.Id.action_context_bar;
+			global::ZXing.Net.Mobile.Resource.Id.action_divider = global::Biometric.Droid.Resource.Id.action_divider;
+			global::ZXing.Net.Mobile.Resource.Id.action_image = global::Biometric.Droid.Resource.Id.action_image;
+			global::ZXing.Net.Mobile.Resource.Id.action_menu_divider = global::Biometric.Droid.Resource.Id.action_menu_divider;
+			global::ZXing.Net.Mobile.Resource.Id.action_menu_presenter = global::Biometric.Droid.Resource.Id.action_menu_presenter;
+			global::ZXing.Net.Mobile.Resource.Id.action_mode_bar = global::Biometric.Droid.Resource.Id.action_mode_bar;
+			global::ZXing.Net.Mobile.Resource.Id.action_mode_bar_stub = global::Biometric.Droid.Resource.Id.action_mode_bar_stub;
+			global::ZXing.Net.Mobile.Resource.Id.action_mode_close_button = global::Biometric.Droid.Resource.Id.action_mode_close_button;
+			global::ZXing.Net.Mobile.Resource.Id.action_text = global::Biometric.Droid.Resource.Id.action_text;
+			global::ZXing.Net.Mobile.Resource.Id.activity_chooser_view_content = global::Biometric.Droid.Resource.Id.activity_chooser_view_content;
+			global::ZXing.Net.Mobile.Resource.Id.add = global::Biometric.Droid.Resource.Id.add;
+			global::ZXing.Net.Mobile.Resource.Id.alertTitle = global::Biometric.Droid.Resource.Id.alertTitle;
+			global::ZXing.Net.Mobile.Resource.Id.ALT = global::Biometric.Droid.Resource.Id.ALT;
+			global::ZXing.Net.Mobile.Resource.Id.always = global::Biometric.Droid.Resource.Id.always;
+			global::ZXing.Net.Mobile.Resource.Id.async = global::Biometric.Droid.Resource.Id.async;
+			global::ZXing.Net.Mobile.Resource.Id.beginning = global::Biometric.Droid.Resource.Id.beginning;
+			global::ZXing.Net.Mobile.Resource.Id.blocking = global::Biometric.Droid.Resource.Id.blocking;
+			global::ZXing.Net.Mobile.Resource.Id.bottom = global::Biometric.Droid.Resource.Id.bottom;
+			global::ZXing.Net.Mobile.Resource.Id.browser_actions_header_text = global::Biometric.Droid.Resource.Id.browser_actions_header_text;
+			global::ZXing.Net.Mobile.Resource.Id.browser_actions_menu_items = global::Biometric.Droid.Resource.Id.browser_actions_menu_items;
+			global::ZXing.Net.Mobile.Resource.Id.browser_actions_menu_item_icon = global::Biometric.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::ZXing.Net.Mobile.Resource.Id.browser_actions_menu_item_text = global::Biometric.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::ZXing.Net.Mobile.Resource.Id.browser_actions_menu_view = global::Biometric.Droid.Resource.Id.browser_actions_menu_view;
+			global::ZXing.Net.Mobile.Resource.Id.buttonPanel = global::Biometric.Droid.Resource.Id.buttonPanel;
+			global::ZXing.Net.Mobile.Resource.Id.center_vertical = global::Biometric.Droid.Resource.Id.center_vertical;
+			global::ZXing.Net.Mobile.Resource.Id.checkbox = global::Biometric.Droid.Resource.Id.checkbox;
+			global::ZXing.Net.Mobile.Resource.Id.@checked = global::Biometric.Droid.Resource.Id.@checked;
+			global::ZXing.Net.Mobile.Resource.Id.chronometer = global::Biometric.Droid.Resource.Id.chronometer;
+			global::ZXing.Net.Mobile.Resource.Id.collapseActionView = global::Biometric.Droid.Resource.Id.collapseActionView;
+			global::ZXing.Net.Mobile.Resource.Id.content = global::Biometric.Droid.Resource.Id.content;
+			global::ZXing.Net.Mobile.Resource.Id.contentFrame = global::Biometric.Droid.Resource.Id.contentFrame;
+			global::ZXing.Net.Mobile.Resource.Id.contentPanel = global::Biometric.Droid.Resource.Id.contentPanel;
+			global::ZXing.Net.Mobile.Resource.Id.CTRL = global::Biometric.Droid.Resource.Id.CTRL;
+			global::ZXing.Net.Mobile.Resource.Id.custom = global::Biometric.Droid.Resource.Id.custom;
+			global::ZXing.Net.Mobile.Resource.Id.customPanel = global::Biometric.Droid.Resource.Id.customPanel;
+			global::ZXing.Net.Mobile.Resource.Id.decor_content_parent = global::Biometric.Droid.Resource.Id.decor_content_parent;
+			global::ZXing.Net.Mobile.Resource.Id.default_activity_button = global::Biometric.Droid.Resource.Id.default_activity_button;
+			global::ZXing.Net.Mobile.Resource.Id.dialog_button = global::Biometric.Droid.Resource.Id.dialog_button;
+			global::ZXing.Net.Mobile.Resource.Id.disableHome = global::Biometric.Droid.Resource.Id.disableHome;
+			global::ZXing.Net.Mobile.Resource.Id.edit_query = global::Biometric.Droid.Resource.Id.edit_query;
+			global::ZXing.Net.Mobile.Resource.Id.end = global::Biometric.Droid.Resource.Id.end;
+			global::ZXing.Net.Mobile.Resource.Id.expanded_menu = global::Biometric.Droid.Resource.Id.expanded_menu;
+			global::ZXing.Net.Mobile.Resource.Id.expand_activities_button = global::Biometric.Droid.Resource.Id.expand_activities_button;
+			global::ZXing.Net.Mobile.Resource.Id.forever = global::Biometric.Droid.Resource.Id.forever;
+			global::ZXing.Net.Mobile.Resource.Id.fragment_container_view_tag = global::Biometric.Droid.Resource.Id.fragment_container_view_tag;
+			global::ZXing.Net.Mobile.Resource.Id.FUNCTION = global::Biometric.Droid.Resource.Id.FUNCTION;
+			global::ZXing.Net.Mobile.Resource.Id.group_divider = global::Biometric.Droid.Resource.Id.group_divider;
+			global::ZXing.Net.Mobile.Resource.Id.home = global::Biometric.Droid.Resource.Id.home;
+			global::ZXing.Net.Mobile.Resource.Id.homeAsUp = global::Biometric.Droid.Resource.Id.homeAsUp;
+			global::ZXing.Net.Mobile.Resource.Id.icon = global::Biometric.Droid.Resource.Id.icon;
+			global::ZXing.Net.Mobile.Resource.Id.icon_group = global::Biometric.Droid.Resource.Id.icon_group;
+			global::ZXing.Net.Mobile.Resource.Id.ifRoom = global::Biometric.Droid.Resource.Id.ifRoom;
+			global::ZXing.Net.Mobile.Resource.Id.image = global::Biometric.Droid.Resource.Id.image;
+			global::ZXing.Net.Mobile.Resource.Id.info = global::Biometric.Droid.Resource.Id.info;
+			global::ZXing.Net.Mobile.Resource.Id.italic = global::Biometric.Droid.Resource.Id.italic;
+			global::ZXing.Net.Mobile.Resource.Id.line1 = global::Biometric.Droid.Resource.Id.line1;
+			global::ZXing.Net.Mobile.Resource.Id.line3 = global::Biometric.Droid.Resource.Id.line3;
+			global::ZXing.Net.Mobile.Resource.Id.listMode = global::Biometric.Droid.Resource.Id.listMode;
+			global::ZXing.Net.Mobile.Resource.Id.list_item = global::Biometric.Droid.Resource.Id.list_item;
+			global::ZXing.Net.Mobile.Resource.Id.message = global::Biometric.Droid.Resource.Id.message;
+			global::ZXing.Net.Mobile.Resource.Id.META = global::Biometric.Droid.Resource.Id.META;
+			global::ZXing.Net.Mobile.Resource.Id.middle = global::Biometric.Droid.Resource.Id.middle;
+			global::ZXing.Net.Mobile.Resource.Id.multiply = global::Biometric.Droid.Resource.Id.multiply;
+			global::ZXing.Net.Mobile.Resource.Id.never = global::Biometric.Droid.Resource.Id.never;
+			global::ZXing.Net.Mobile.Resource.Id.none = global::Biometric.Droid.Resource.Id.none;
+			global::ZXing.Net.Mobile.Resource.Id.normal = global::Biometric.Droid.Resource.Id.normal;
+			global::ZXing.Net.Mobile.Resource.Id.notification_background = global::Biometric.Droid.Resource.Id.notification_background;
+			global::ZXing.Net.Mobile.Resource.Id.notification_main_column = global::Biometric.Droid.Resource.Id.notification_main_column;
+			global::ZXing.Net.Mobile.Resource.Id.notification_main_column_container = global::Biometric.Droid.Resource.Id.notification_main_column_container;
+			global::ZXing.Net.Mobile.Resource.Id.off = global::Biometric.Droid.Resource.Id.off;
+			global::ZXing.Net.Mobile.Resource.Id.on = global::Biometric.Droid.Resource.Id.on;
+			global::ZXing.Net.Mobile.Resource.Id.parentPanel = global::Biometric.Droid.Resource.Id.parentPanel;
+			global::ZXing.Net.Mobile.Resource.Id.progress_circular = global::Biometric.Droid.Resource.Id.progress_circular;
+			global::ZXing.Net.Mobile.Resource.Id.progress_horizontal = global::Biometric.Droid.Resource.Id.progress_horizontal;
+			global::ZXing.Net.Mobile.Resource.Id.radio = global::Biometric.Droid.Resource.Id.radio;
+			global::ZXing.Net.Mobile.Resource.Id.right_icon = global::Biometric.Droid.Resource.Id.right_icon;
+			global::ZXing.Net.Mobile.Resource.Id.right_side = global::Biometric.Droid.Resource.Id.right_side;
+			global::ZXing.Net.Mobile.Resource.Id.screen = global::Biometric.Droid.Resource.Id.screen;
+			global::ZXing.Net.Mobile.Resource.Id.scrollIndicatorDown = global::Biometric.Droid.Resource.Id.scrollIndicatorDown;
+			global::ZXing.Net.Mobile.Resource.Id.scrollIndicatorUp = global::Biometric.Droid.Resource.Id.scrollIndicatorUp;
+			global::ZXing.Net.Mobile.Resource.Id.scrollView = global::Biometric.Droid.Resource.Id.scrollView;
+			global::ZXing.Net.Mobile.Resource.Id.search_badge = global::Biometric.Droid.Resource.Id.search_badge;
+			global::ZXing.Net.Mobile.Resource.Id.search_bar = global::Biometric.Droid.Resource.Id.search_bar;
+			global::ZXing.Net.Mobile.Resource.Id.search_button = global::Biometric.Droid.Resource.Id.search_button;
+			global::ZXing.Net.Mobile.Resource.Id.search_close_btn = global::Biometric.Droid.Resource.Id.search_close_btn;
+			global::ZXing.Net.Mobile.Resource.Id.search_edit_frame = global::Biometric.Droid.Resource.Id.search_edit_frame;
+			global::ZXing.Net.Mobile.Resource.Id.search_go_btn = global::Biometric.Droid.Resource.Id.search_go_btn;
+			global::ZXing.Net.Mobile.Resource.Id.search_mag_icon = global::Biometric.Droid.Resource.Id.search_mag_icon;
+			global::ZXing.Net.Mobile.Resource.Id.search_plate = global::Biometric.Droid.Resource.Id.search_plate;
+			global::ZXing.Net.Mobile.Resource.Id.search_src_text = global::Biometric.Droid.Resource.Id.search_src_text;
+			global::ZXing.Net.Mobile.Resource.Id.search_voice_btn = global::Biometric.Droid.Resource.Id.search_voice_btn;
+			global::ZXing.Net.Mobile.Resource.Id.select_dialog_listview = global::Biometric.Droid.Resource.Id.select_dialog_listview;
+			global::ZXing.Net.Mobile.Resource.Id.SHIFT = global::Biometric.Droid.Resource.Id.SHIFT;
+			global::ZXing.Net.Mobile.Resource.Id.shortcut = global::Biometric.Droid.Resource.Id.shortcut;
+			global::ZXing.Net.Mobile.Resource.Id.showCustom = global::Biometric.Droid.Resource.Id.showCustom;
+			global::ZXing.Net.Mobile.Resource.Id.showHome = global::Biometric.Droid.Resource.Id.showHome;
+			global::ZXing.Net.Mobile.Resource.Id.showTitle = global::Biometric.Droid.Resource.Id.showTitle;
+			global::ZXing.Net.Mobile.Resource.Id.spacer = global::Biometric.Droid.Resource.Id.spacer;
+			global::ZXing.Net.Mobile.Resource.Id.split_action_bar = global::Biometric.Droid.Resource.Id.split_action_bar;
+			global::ZXing.Net.Mobile.Resource.Id.src_atop = global::Biometric.Droid.Resource.Id.src_atop;
+			global::ZXing.Net.Mobile.Resource.Id.src_in = global::Biometric.Droid.Resource.Id.src_in;
+			global::ZXing.Net.Mobile.Resource.Id.src_over = global::Biometric.Droid.Resource.Id.src_over;
+			global::ZXing.Net.Mobile.Resource.Id.submenuarrow = global::Biometric.Droid.Resource.Id.submenuarrow;
+			global::ZXing.Net.Mobile.Resource.Id.submit_area = global::Biometric.Droid.Resource.Id.submit_area;
+			global::ZXing.Net.Mobile.Resource.Id.SYM = global::Biometric.Droid.Resource.Id.SYM;
+			global::ZXing.Net.Mobile.Resource.Id.tabMode = global::Biometric.Droid.Resource.Id.tabMode;
+			global::ZXing.Net.Mobile.Resource.Id.tag_accessibility_actions = global::Biometric.Droid.Resource.Id.tag_accessibility_actions;
+			global::ZXing.Net.Mobile.Resource.Id.tag_accessibility_clickable_spans = global::Biometric.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::ZXing.Net.Mobile.Resource.Id.tag_accessibility_heading = global::Biometric.Droid.Resource.Id.tag_accessibility_heading;
+			global::ZXing.Net.Mobile.Resource.Id.tag_accessibility_pane_title = global::Biometric.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::ZXing.Net.Mobile.Resource.Id.tag_screen_reader_focusable = global::Biometric.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::ZXing.Net.Mobile.Resource.Id.tag_transition_group = global::Biometric.Droid.Resource.Id.tag_transition_group;
+			global::ZXing.Net.Mobile.Resource.Id.tag_unhandled_key_event_manager = global::Biometric.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::ZXing.Net.Mobile.Resource.Id.tag_unhandled_key_listeners = global::Biometric.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::ZXing.Net.Mobile.Resource.Id.text = global::Biometric.Droid.Resource.Id.text;
+			global::ZXing.Net.Mobile.Resource.Id.text2 = global::Biometric.Droid.Resource.Id.text2;
+			global::ZXing.Net.Mobile.Resource.Id.textSpacerNoButtons = global::Biometric.Droid.Resource.Id.textSpacerNoButtons;
+			global::ZXing.Net.Mobile.Resource.Id.textSpacerNoTitle = global::Biometric.Droid.Resource.Id.textSpacerNoTitle;
+			global::ZXing.Net.Mobile.Resource.Id.time = global::Biometric.Droid.Resource.Id.time;
+			global::ZXing.Net.Mobile.Resource.Id.title = global::Biometric.Droid.Resource.Id.title;
+			global::ZXing.Net.Mobile.Resource.Id.titleDividerNoCustom = global::Biometric.Droid.Resource.Id.titleDividerNoCustom;
+			global::ZXing.Net.Mobile.Resource.Id.title_template = global::Biometric.Droid.Resource.Id.title_template;
+			global::ZXing.Net.Mobile.Resource.Id.top = global::Biometric.Droid.Resource.Id.top;
+			global::ZXing.Net.Mobile.Resource.Id.topPanel = global::Biometric.Droid.Resource.Id.topPanel;
+			global::ZXing.Net.Mobile.Resource.Id.@unchecked = global::Biometric.Droid.Resource.Id.@unchecked;
+			global::ZXing.Net.Mobile.Resource.Id.uniform = global::Biometric.Droid.Resource.Id.uniform;
+			global::ZXing.Net.Mobile.Resource.Id.up = global::Biometric.Droid.Resource.Id.up;
+			global::ZXing.Net.Mobile.Resource.Id.useLogo = global::Biometric.Droid.Resource.Id.useLogo;
+			global::ZXing.Net.Mobile.Resource.Id.view_tree_saved_state_registry_owner = global::Biometric.Droid.Resource.Id.view_tree_saved_state_registry_owner;
+			global::ZXing.Net.Mobile.Resource.Id.visible_removing_fragment_view_tag = global::Biometric.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::ZXing.Net.Mobile.Resource.Id.withText = global::Biometric.Droid.Resource.Id.withText;
+			global::ZXing.Net.Mobile.Resource.Id.wrap_content = global::Biometric.Droid.Resource.Id.wrap_content;
+			global::ZXing.Net.Mobile.Resource.Integer.abc_config_activityDefaultDur = global::Biometric.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::ZXing.Net.Mobile.Resource.Integer.abc_config_activityShortDur = global::Biometric.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::ZXing.Net.Mobile.Resource.Integer.cancel_button_image_alpha = global::Biometric.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::ZXing.Net.Mobile.Resource.Integer.config_tooltipAnimTime = global::Biometric.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::ZXing.Net.Mobile.Resource.Integer.status_bar_notification_info_maxnum = global::Biometric.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::ZXing.Net.Mobile.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::ZXing.Net.Mobile.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::Biometric.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::ZXing.Net.Mobile.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::Biometric.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::ZXing.Net.Mobile.Resource.Interpolator.fast_out_slow_in = global::Biometric.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_action_bar_title_item = global::Biometric.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_action_bar_up_container = global::Biometric.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_action_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_action_menu_layout = global::Biometric.Droid.Resource.Layout.abc_action_menu_layout;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_action_mode_bar = global::Biometric.Droid.Resource.Layout.abc_action_mode_bar;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_action_mode_close_item_material = global::Biometric.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_activity_chooser_view = global::Biometric.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_activity_chooser_view_list_item = global::Biometric.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_alert_dialog_button_bar_material = global::Biometric.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_alert_dialog_material = global::Biometric.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_alert_dialog_title_material = global::Biometric.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_cascading_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_dialog_title_material = global::Biometric.Droid.Resource.Layout.abc_dialog_title_material;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_expanded_menu_layout = global::Biometric.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_list_menu_item_checkbox = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_list_menu_item_icon = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_list_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_list_menu_item_radio = global::Biometric.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_popup_menu_header_item_layout = global::Biometric.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_popup_menu_item_layout = global::Biometric.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_screen_content_include = global::Biometric.Droid.Resource.Layout.abc_screen_content_include;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_screen_simple = global::Biometric.Droid.Resource.Layout.abc_screen_simple;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Biometric.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_screen_toolbar = global::Biometric.Droid.Resource.Layout.abc_screen_toolbar;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Biometric.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_search_view = global::Biometric.Droid.Resource.Layout.abc_search_view;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_select_dialog_material = global::Biometric.Droid.Resource.Layout.abc_select_dialog_material;
+			global::ZXing.Net.Mobile.Resource.Layout.abc_tooltip = global::Biometric.Droid.Resource.Layout.abc_tooltip;
+			global::ZXing.Net.Mobile.Resource.Layout.browser_actions_context_menu_page = global::Biometric.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::ZXing.Net.Mobile.Resource.Layout.browser_actions_context_menu_row = global::Biometric.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::ZXing.Net.Mobile.Resource.Layout.custom_dialog = global::Biometric.Droid.Resource.Layout.custom_dialog;
+			global::ZXing.Net.Mobile.Resource.Layout.notification_action = global::Biometric.Droid.Resource.Layout.notification_action;
+			global::ZXing.Net.Mobile.Resource.Layout.notification_action_tombstone = global::Biometric.Droid.Resource.Layout.notification_action_tombstone;
+			global::ZXing.Net.Mobile.Resource.Layout.notification_template_custom_big = global::Biometric.Droid.Resource.Layout.notification_template_custom_big;
+			global::ZXing.Net.Mobile.Resource.Layout.notification_template_icon_group = global::Biometric.Droid.Resource.Layout.notification_template_icon_group;
+			global::ZXing.Net.Mobile.Resource.Layout.notification_template_part_chronometer = global::Biometric.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::ZXing.Net.Mobile.Resource.Layout.notification_template_part_time = global::Biometric.Droid.Resource.Layout.notification_template_part_time;
+			global::ZXing.Net.Mobile.Resource.Layout.select_dialog_item_material = global::Biometric.Droid.Resource.Layout.select_dialog_item_material;
+			global::ZXing.Net.Mobile.Resource.Layout.select_dialog_multichoice_material = global::Biometric.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::ZXing.Net.Mobile.Resource.Layout.select_dialog_singlechoice_material = global::Biometric.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::ZXing.Net.Mobile.Resource.Layout.support_simple_spinner_dropdown_item = global::Biometric.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::ZXing.Net.Mobile.Resource.Layout.zxingscanneractivitylayout = global::Biometric.Droid.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Net.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::Biometric.Droid.Resource.Layout.zxingscannerfragmentlayout;
+			global::ZXing.Net.Mobile.Resource.String.abc_action_bar_home_description = global::Biometric.Droid.Resource.String.abc_action_bar_home_description;
+			global::ZXing.Net.Mobile.Resource.String.abc_action_bar_up_description = global::Biometric.Droid.Resource.String.abc_action_bar_up_description;
+			global::ZXing.Net.Mobile.Resource.String.abc_action_menu_overflow_description = global::Biometric.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::ZXing.Net.Mobile.Resource.String.abc_action_mode_done = global::Biometric.Droid.Resource.String.abc_action_mode_done;
+			global::ZXing.Net.Mobile.Resource.String.abc_activitychooserview_choose_application = global::Biometric.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::ZXing.Net.Mobile.Resource.String.abc_activity_chooser_view_see_all = global::Biometric.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::ZXing.Net.Mobile.Resource.String.abc_capital_off = global::Biometric.Droid.Resource.String.abc_capital_off;
+			global::ZXing.Net.Mobile.Resource.String.abc_capital_on = global::Biometric.Droid.Resource.String.abc_capital_on;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_alt_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_ctrl_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_delete_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_enter_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_function_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_meta_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_shift_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_space_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_menu_sym_shortcut_label = global::Biometric.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_prepend_shortcut_label = global::Biometric.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::ZXing.Net.Mobile.Resource.String.abc_searchview_description_clear = global::Biometric.Droid.Resource.String.abc_searchview_description_clear;
+			global::ZXing.Net.Mobile.Resource.String.abc_searchview_description_query = global::Biometric.Droid.Resource.String.abc_searchview_description_query;
+			global::ZXing.Net.Mobile.Resource.String.abc_searchview_description_search = global::Biometric.Droid.Resource.String.abc_searchview_description_search;
+			global::ZXing.Net.Mobile.Resource.String.abc_searchview_description_submit = global::Biometric.Droid.Resource.String.abc_searchview_description_submit;
+			global::ZXing.Net.Mobile.Resource.String.abc_searchview_description_voice = global::Biometric.Droid.Resource.String.abc_searchview_description_voice;
+			global::ZXing.Net.Mobile.Resource.String.abc_search_hint = global::Biometric.Droid.Resource.String.abc_search_hint;
+			global::ZXing.Net.Mobile.Resource.String.abc_shareactionprovider_share_with = global::Biometric.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::ZXing.Net.Mobile.Resource.String.abc_shareactionprovider_share_with_application = global::Biometric.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::ZXing.Net.Mobile.Resource.String.abc_toolbar_collapse_description = global::Biometric.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::ZXing.Net.Mobile.Resource.String.copy_toast_msg = global::Biometric.Droid.Resource.String.copy_toast_msg;
+			global::ZXing.Net.Mobile.Resource.String.fallback_menu_item_copy_link = global::Biometric.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::ZXing.Net.Mobile.Resource.String.fallback_menu_item_open_in_browser = global::Biometric.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::ZXing.Net.Mobile.Resource.String.fallback_menu_item_share_link = global::Biometric.Droid.Resource.String.fallback_menu_item_share_link;
+			global::ZXing.Net.Mobile.Resource.String.search_menu_title = global::Biometric.Droid.Resource.String.search_menu_title;
+			global::ZXing.Net.Mobile.Resource.String.status_bar_notification_info_overflow = global::Biometric.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::ZXing.Net.Mobile.Resource.Style.AlertDialog_AppCompat = global::Biometric.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.AlertDialog_AppCompat_Light = global::Biometric.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Animation_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Animation_AppCompat_DropDownUp = global::Biometric.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::ZXing.Net.Mobile.Resource.Style.Animation_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Resource.Style.Base_AlertDialog_AppCompat = global::Biometric.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Animation_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Biometric.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Biometric.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Biometric.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Biometric.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Biometric.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Biometric.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ZXing.Net.Mobile.Resource.Style.Base_ThemeOverlay_AppCompat = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::ZXing.Net.Mobile.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V21_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V22_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V23_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V26_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V28_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V28_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_Theme_AppCompat = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Biometric.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::ZXing.Net.Mobile.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Button = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_EditText = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ListView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_SearchView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Spinner = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_TextView = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Biometric.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_AppCompat = global::Biometric.Droid.Resource.Style.Platform_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Biometric.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Biometric.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_V21_AppCompat = global::Biometric.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_V21_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_V25_AppCompat = global::Biometric.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_V25_AppCompat_Light = global::Biometric.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Biometric.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Biometric.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::ZXing.Net.Mobile.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Biometric.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::ZXing.Net.Mobile.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Biometric.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::ZXing.Net.Mobile.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Body1 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Body2 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Button = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Caption = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Display1 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Display2 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Display3 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Display4 = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Headline = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Large = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Medium = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Menu = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Small = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Subhead = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Compat_Notification = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Compat_Notification_Info = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Compat_Notification_Time = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Compat_Notification_Title = global::Biometric.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Biometric.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Biometric.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ZXing.Net.Mobile.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Biometric.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Resource.Style.ThemeOverlay_AppCompat_Light = global::Biometric.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat = global::Biometric.Droid.Resource.Style.Theme_AppCompat;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_CompactMenu = global::Biometric.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DayNight = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Dialog = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Empty = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Empty;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Light = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Light_Dialog = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Theme_AppCompat_NoActionBar = global::Biometric.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActionMode = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Button = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ButtonBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Button_Borderless = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Button_Colored = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Button_Small = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Biometric.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Biometric.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Biometric.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Biometric.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_EditText = global::Biometric.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ImageButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_SearchView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ListMenuView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ListView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ListView_Menu = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_PopupMenu = global::Biometric.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_PopupWindow = global::Biometric.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ProgressBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Biometric.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_RatingBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Biometric.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Biometric.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_SearchView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_SeekBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Biometric.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Spinner = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_TextView = global::Biometric.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Biometric.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Toolbar = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Biometric.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_Compat_NotificationActionContainer = global::Biometric.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::ZXing.Net.Mobile.Resource.Style.Widget_Compat_NotificationActionText = global::Biometric.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar = global::Biometric.Droid.Resource.Styleable.ActionBar;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBarLayout = global::Biometric.Droid.Resource.Styleable.ActionBarLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Biometric.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_background = global::Biometric.Droid.Resource.Styleable.ActionBar_background;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_backgroundSplit = global::Biometric.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_backgroundStacked = global::Biometric.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_contentInsetEnd = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_contentInsetLeft = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_contentInsetRight = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_contentInsetStart = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Biometric.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_customNavigationLayout = global::Biometric.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_displayOptions = global::Biometric.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_divider = global::Biometric.Droid.Resource.Styleable.ActionBar_divider;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_elevation = global::Biometric.Droid.Resource.Styleable.ActionBar_elevation;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_height = global::Biometric.Droid.Resource.Styleable.ActionBar_height;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_hideOnContentScroll = global::Biometric.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Biometric.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_homeLayout = global::Biometric.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_icon = global::Biometric.Droid.Resource.Styleable.ActionBar_icon;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_itemPadding = global::Biometric.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_logo = global::Biometric.Droid.Resource.Styleable.ActionBar_logo;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_navigationMode = global::Biometric.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_popupTheme = global::Biometric.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_progressBarPadding = global::Biometric.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_progressBarStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_subtitle = global::Biometric.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_subtitleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_title = global::Biometric.Droid.Resource.Styleable.ActionBar_title;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionBar_titleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMenuItemView = global::Biometric.Droid.Resource.Styleable.ActionMenuItemView;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Biometric.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMenuView = global::Biometric.Droid.Resource.Styleable.ActionMenuView;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMode = global::Biometric.Droid.Resource.Styleable.ActionMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMode_background = global::Biometric.Droid.Resource.Styleable.ActionMode_background;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMode_backgroundSplit = global::Biometric.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMode_closeItemLayout = global::Biometric.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMode_height = global::Biometric.Droid.Resource.Styleable.ActionMode_height;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMode_subtitleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActionMode_titleTextStyle = global::Biometric.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActivityChooserView = global::Biometric.Droid.Resource.Styleable.ActivityChooserView;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Biometric.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Biometric.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog = global::Biometric.Droid.Resource.Styleable.AlertDialog;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_android_layout = global::Biometric.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_buttonIconDimen = global::Biometric.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_listItemLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_listLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_showTitle = global::Biometric.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Biometric.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableCompat = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableItem = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableTransition = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::ZXing.Net.Mobile.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::Biometric.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatImageView = global::Biometric.Droid.Resource.Styleable.AppCompatImageView;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatImageView_android_src = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatImageView_srcCompat = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatImageView_tint = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatImageView_tintMode = global::Biometric.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatSeekBar = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatSeekBar_tickMark = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Biometric.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Biometric.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView = global::Biometric.Droid.Resource.Styleable.AppCompatTextView;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableTint = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableTintMode = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_fontFamily = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_lineHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_textAllCaps = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTextView_textLocale = global::Biometric.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarSize = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_buttonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorAccent = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorError = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorPrimary = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_controlBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_dialogTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_dividerVertical = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_editTextBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_editTextColor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_editTextStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_panelBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_switchStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowActionBar = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::ZXing.Net.Mobile.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Biometric.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::ZXing.Net.Mobile.Resource.Styleable.ButtonBarLayout = global::Biometric.Droid.Resource.Styleable.ButtonBarLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.ButtonBarLayout_allowStacking = global::Biometric.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::ZXing.Net.Mobile.Resource.Styleable.ColorStateListItem = global::Biometric.Droid.Resource.Styleable.ColorStateListItem;
+			global::ZXing.Net.Mobile.Resource.Styleable.ColorStateListItem_alpha = global::Biometric.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::ZXing.Net.Mobile.Resource.Styleable.ColorStateListItem_android_alpha = global::Biometric.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::ZXing.Net.Mobile.Resource.Styleable.ColorStateListItem_android_color = global::Biometric.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::ZXing.Net.Mobile.Resource.Styleable.CompoundButton = global::Biometric.Droid.Resource.Styleable.CompoundButton;
+			global::ZXing.Net.Mobile.Resource.Styleable.CompoundButton_android_button = global::Biometric.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::ZXing.Net.Mobile.Resource.Styleable.CompoundButton_buttonCompat = global::Biometric.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.CompoundButton_buttonTint = global::Biometric.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::ZXing.Net.Mobile.Resource.Styleable.CompoundButton_buttonTintMode = global::Biometric.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_barLength = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_color = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_spinBars = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerArrowToggle_thickness = global::Biometric.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerLayout = global::Biometric.Droid.Resource.Styleable.DrawerLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.DrawerLayout_elevation = global::Biometric.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamily = global::Biometric.Droid.Resource.Styleable.FontFamily;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont = global::Biometric.Droid.Resource.Styleable.FontFamilyFont;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_android_font = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_font = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_fontStyle = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_fontWeight = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamilyFont_ttcIndex = global::Biometric.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamily_fontProviderAuthority = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamily_fontProviderCerts = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamily_fontProviderPackage = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::ZXing.Net.Mobile.Resource.Styleable.FontFamily_fontProviderQuery = global::Biometric.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::ZXing.Net.Mobile.Resource.Styleable.Fragment = global::Biometric.Droid.Resource.Styleable.Fragment;
+			global::ZXing.Net.Mobile.Resource.Styleable.FragmentContainerView = global::Biometric.Droid.Resource.Styleable.FragmentContainerView;
+			global::ZXing.Net.Mobile.Resource.Styleable.FragmentContainerView_android_name = global::Biometric.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::ZXing.Net.Mobile.Resource.Styleable.FragmentContainerView_android_tag = global::Biometric.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::ZXing.Net.Mobile.Resource.Styleable.Fragment_android_id = global::Biometric.Droid.Resource.Styleable.Fragment_android_id;
+			global::ZXing.Net.Mobile.Resource.Styleable.Fragment_android_name = global::Biometric.Droid.Resource.Styleable.Fragment_android_name;
+			global::ZXing.Net.Mobile.Resource.Styleable.Fragment_android_tag = global::Biometric.Droid.Resource.Styleable.Fragment_android_tag;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor = global::Biometric.Droid.Resource.Styleable.GradientColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColorItem = global::Biometric.Droid.Resource.Styleable.GradientColorItem;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColorItem_android_color = global::Biometric.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColorItem_android_offset = global::Biometric.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_centerColor = global::Biometric.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_centerX = global::Biometric.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_centerY = global::Biometric.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_endColor = global::Biometric.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_endX = global::Biometric.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_endY = global::Biometric.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_gradientRadius = global::Biometric.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_startColor = global::Biometric.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_startX = global::Biometric.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_startY = global::Biometric.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_tileMode = global::Biometric.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.GradientColor_android_type = global::Biometric.Droid.Resource.Styleable.GradientColor_android_type;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_divider = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_Layout = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::ZXing.Net.Mobile.Resource.Styleable.LinearLayoutCompat_showDividers = global::Biometric.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::ZXing.Net.Mobile.Resource.Styleable.ListPopupWindow = global::Biometric.Droid.Resource.Styleable.ListPopupWindow;
+			global::ZXing.Net.Mobile.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Biometric.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::ZXing.Net.Mobile.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Biometric.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuGroup = global::Biometric.Droid.Resource.Styleable.MenuGroup;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuGroup_android_enabled = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuGroup_android_id = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuGroup_android_menuCategory = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuGroup_android_orderInCategory = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuGroup_android_visible = global::Biometric.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem = global::Biometric.Droid.Resource.Styleable.MenuItem;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_actionLayout = global::Biometric.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_actionProviderClass = global::Biometric.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_actionViewClass = global::Biometric.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_alphabeticModifiers = global::Biometric.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Biometric.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_checkable = global::Biometric.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_checked = global::Biometric.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_enabled = global::Biometric.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_icon = global::Biometric.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_id = global::Biometric.Droid.Resource.Styleable.MenuItem_android_id;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_menuCategory = global::Biometric.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_numericShortcut = global::Biometric.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_onClick = global::Biometric.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_orderInCategory = global::Biometric.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_title = global::Biometric.Droid.Resource.Styleable.MenuItem_android_title;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_titleCondensed = global::Biometric.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_android_visible = global::Biometric.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_contentDescription = global::Biometric.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_iconTint = global::Biometric.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_iconTintMode = global::Biometric.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_numericModifiers = global::Biometric.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_showAsAction = global::Biometric.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuItem_tooltipText = global::Biometric.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView = global::Biometric.Droid.Resource.Styleable.MenuView;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_android_headerBackground = global::Biometric.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_android_horizontalDivider = global::Biometric.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_android_itemBackground = global::Biometric.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Biometric.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_android_itemTextAppearance = global::Biometric.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_android_verticalDivider = global::Biometric.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Biometric.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_preserveIconSpacing = global::Biometric.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::ZXing.Net.Mobile.Resource.Styleable.MenuView_subMenuArrow = global::Biometric.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::ZXing.Net.Mobile.Resource.Styleable.PopupWindow = global::Biometric.Droid.Resource.Styleable.PopupWindow;
+			global::ZXing.Net.Mobile.Resource.Styleable.PopupWindowBackgroundState = global::Biometric.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::ZXing.Net.Mobile.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Biometric.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::ZXing.Net.Mobile.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Biometric.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.PopupWindow_android_popupBackground = global::Biometric.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.PopupWindow_overlapAnchor = global::Biometric.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::ZXing.Net.Mobile.Resource.Styleable.RecycleListView = global::Biometric.Droid.Resource.Styleable.RecycleListView;
+			global::ZXing.Net.Mobile.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Biometric.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::ZXing.Net.Mobile.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Biometric.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView = global::Biometric.Droid.Resource.Styleable.SearchView;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_android_focusable = global::Biometric.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_android_imeOptions = global::Biometric.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_android_inputType = global::Biometric.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_android_maxWidth = global::Biometric.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_closeIcon = global::Biometric.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_commitIcon = global::Biometric.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_defaultQueryHint = global::Biometric.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_goIcon = global::Biometric.Droid.Resource.Styleable.SearchView_goIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_iconifiedByDefault = global::Biometric.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_layout = global::Biometric.Droid.Resource.Styleable.SearchView_layout;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_queryBackground = global::Biometric.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_queryHint = global::Biometric.Droid.Resource.Styleable.SearchView_queryHint;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_searchHintIcon = global::Biometric.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_searchIcon = global::Biometric.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_submitBackground = global::Biometric.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_suggestionRowLayout = global::Biometric.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::ZXing.Net.Mobile.Resource.Styleable.SearchView_voiceIcon = global::Biometric.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.Spinner = global::Biometric.Droid.Resource.Styleable.Spinner;
+			global::ZXing.Net.Mobile.Resource.Styleable.Spinner_android_dropDownWidth = global::Biometric.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::ZXing.Net.Mobile.Resource.Styleable.Spinner_android_entries = global::Biometric.Droid.Resource.Styleable.Spinner_android_entries;
+			global::ZXing.Net.Mobile.Resource.Styleable.Spinner_android_popupBackground = global::Biometric.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::ZXing.Net.Mobile.Resource.Styleable.Spinner_android_prompt = global::Biometric.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::ZXing.Net.Mobile.Resource.Styleable.Spinner_popupTheme = global::Biometric.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawable = global::Biometric.Droid.Resource.Styleable.StateListDrawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawableItem = global::Biometric.Droid.Resource.Styleable.StateListDrawableItem;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawableItem_android_drawable = global::Biometric.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawable_android_constantSize = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawable_android_dither = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawable_android_variablePadding = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.StateListDrawable_android_visible = global::Biometric.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat = global::Biometric.Droid.Resource.Styleable.SwitchCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_android_textOff = global::Biometric.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_android_textOn = global::Biometric.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_android_thumb = global::Biometric.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_showText = global::Biometric.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_splitTrack = global::Biometric.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_switchMinWidth = global::Biometric.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_switchPadding = global::Biometric.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Biometric.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Biometric.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_thumbTint = global::Biometric.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_thumbTintMode = global::Biometric.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_track = global::Biometric.Droid.Resource.Styleable.SwitchCompat_track;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_trackTint = global::Biometric.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::ZXing.Net.Mobile.Resource.Styleable.SwitchCompat_trackTintMode = global::Biometric.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance = global::Biometric.Droid.Resource.Styleable.TextAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_fontFamily = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_shadowColor = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_shadowDx = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_shadowDy = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_shadowRadius = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_textColor = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_textColorHint = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_textColorLink = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_textFontWeight = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_textSize = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_textStyle = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_android_typeface = global::Biometric.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_fontFamily = global::Biometric.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_fontVariationSettings = global::Biometric.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_textAllCaps = global::Biometric.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::ZXing.Net.Mobile.Resource.Styleable.TextAppearance_textLocale = global::Biometric.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar = global::Biometric.Droid.Resource.Styleable.Toolbar;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_android_gravity = global::Biometric.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_android_minHeight = global::Biometric.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_buttonGravity = global::Biometric.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_collapseContentDescription = global::Biometric.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_collapseIcon = global::Biometric.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_contentInsetEnd = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_contentInsetLeft = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_contentInsetRight = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_contentInsetStart = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Biometric.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_logo = global::Biometric.Droid.Resource.Styleable.Toolbar_logo;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_logoDescription = global::Biometric.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_maxButtonHeight = global::Biometric.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_menu = global::Biometric.Droid.Resource.Styleable.Toolbar_menu;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_navigationContentDescription = global::Biometric.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_navigationIcon = global::Biometric.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_popupTheme = global::Biometric.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_subtitle = global::Biometric.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Biometric.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_subtitleTextColor = global::Biometric.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_title = global::Biometric.Droid.Resource.Styleable.Toolbar_title;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleMargin = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleMarginBottom = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleMarginEnd = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleMargins = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleMarginStart = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleMarginTop = global::Biometric.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleTextAppearance = global::Biometric.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::ZXing.Net.Mobile.Resource.Styleable.Toolbar_titleTextColor = global::Biometric.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::ZXing.Net.Mobile.Resource.Styleable.View = global::Biometric.Droid.Resource.Styleable.View;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewBackgroundHelper = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewBackgroundHelper_android_background = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Biometric.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewStubCompat = global::Biometric.Droid.Resource.Styleable.ViewStubCompat;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewStubCompat_android_id = global::Biometric.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Biometric.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::ZXing.Net.Mobile.Resource.Styleable.ViewStubCompat_android_layout = global::Biometric.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::ZXing.Net.Mobile.Resource.Styleable.View_android_focusable = global::Biometric.Droid.Resource.Styleable.View_android_focusable;
+			global::ZXing.Net.Mobile.Resource.Styleable.View_android_theme = global::Biometric.Droid.Resource.Styleable.View_android_theme;
+			global::ZXing.Net.Mobile.Resource.Styleable.View_paddingEnd = global::Biometric.Droid.Resource.Styleable.View_paddingEnd;
+			global::ZXing.Net.Mobile.Resource.Styleable.View_paddingStart = global::Biometric.Droid.Resource.Styleable.View_paddingStart;
+			global::ZXing.Net.Mobile.Resource.Styleable.View_theme = global::Biometric.Droid.Resource.Styleable.View_theme;
+			global::ZXing.Net.Mobile.Resource.Xml.image_share_filepaths = global::Biometric.Droid.Resource.Xml.image_share_filepaths;
+			global::ZXing.Net.Mobile.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Biometric.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 		}
 		
 		public partial class Animation
@@ -17260,784 +22381,787 @@ namespace Biometric.Droid
 			public const int content = 2131296390;
 			
 			// aapt resource value: 0x7F090087
-			public const int contentPanel = 2131296391;
+			public const int contentFrame = 2131296391;
 			
 			// aapt resource value: 0x7F090088
-			public const int contiguous = 2131296392;
+			public const int contentPanel = 2131296392;
 			
 			// aapt resource value: 0x7F090089
-			public const int continuousVelocity = 2131296393;
+			public const int contiguous = 2131296393;
 			
 			// aapt resource value: 0x7F09008A
-			public const int coordinator = 2131296394;
+			public const int continuousVelocity = 2131296394;
 			
 			// aapt resource value: 0x7F09008B
-			public const int cos = 2131296395;
+			public const int coordinator = 2131296395;
 			
 			// aapt resource value: 0x7F09008C
-			public const int counterclockwise = 2131296396;
+			public const int cos = 2131296396;
+			
+			// aapt resource value: 0x7F09008D
+			public const int counterclockwise = 2131296397;
 			
 			// aapt resource value: 0x7F090003
 			public const int CTRL = 2131296259;
 			
-			// aapt resource value: 0x7F09008D
-			public const int currentState = 2131296397;
-			
 			// aapt resource value: 0x7F09008E
-			public const int custom = 2131296398;
+			public const int currentState = 2131296398;
 			
 			// aapt resource value: 0x7F09008F
-			public const int customPanel = 2131296399;
+			public const int custom = 2131296399;
 			
 			// aapt resource value: 0x7F090090
-			public const int cut = 2131296400;
+			public const int customPanel = 2131296400;
 			
 			// aapt resource value: 0x7F090091
-			public const int date_picker_actions = 2131296401;
+			public const int cut = 2131296401;
 			
 			// aapt resource value: 0x7F090092
-			public const int decelerate = 2131296402;
+			public const int date_picker_actions = 2131296402;
 			
 			// aapt resource value: 0x7F090093
-			public const int decelerateAndComplete = 2131296403;
+			public const int decelerate = 2131296403;
 			
 			// aapt resource value: 0x7F090094
-			public const int decor_content_parent = 2131296404;
+			public const int decelerateAndComplete = 2131296404;
 			
 			// aapt resource value: 0x7F090095
-			public const int default_activity_button = 2131296405;
+			public const int decor_content_parent = 2131296405;
 			
 			// aapt resource value: 0x7F090096
-			public const int deltaRelative = 2131296406;
+			public const int default_activity_button = 2131296406;
 			
 			// aapt resource value: 0x7F090097
-			public const int dependency_ordering = 2131296407;
+			public const int deltaRelative = 2131296407;
 			
 			// aapt resource value: 0x7F090098
-			public const int design_bottom_sheet = 2131296408;
+			public const int dependency_ordering = 2131296408;
 			
 			// aapt resource value: 0x7F090099
-			public const int design_menu_item_action_area = 2131296409;
+			public const int design_bottom_sheet = 2131296409;
 			
 			// aapt resource value: 0x7F09009A
-			public const int design_menu_item_action_area_stub = 2131296410;
+			public const int design_menu_item_action_area = 2131296410;
 			
 			// aapt resource value: 0x7F09009B
-			public const int design_menu_item_text = 2131296411;
+			public const int design_menu_item_action_area_stub = 2131296411;
 			
 			// aapt resource value: 0x7F09009C
-			public const int design_navigation_view = 2131296412;
+			public const int design_menu_item_text = 2131296412;
 			
 			// aapt resource value: 0x7F09009D
-			public const int dialog_button = 2131296413;
+			public const int design_navigation_view = 2131296413;
 			
 			// aapt resource value: 0x7F09009E
-			public const int dimensions = 2131296414;
+			public const int dialog_button = 2131296414;
 			
 			// aapt resource value: 0x7F09009F
-			public const int direct = 2131296415;
+			public const int dimensions = 2131296415;
 			
 			// aapt resource value: 0x7F0900A0
-			public const int disableHome = 2131296416;
+			public const int direct = 2131296416;
 			
 			// aapt resource value: 0x7F0900A1
-			public const int disableIntraAutoTransition = 2131296417;
+			public const int disableHome = 2131296417;
 			
 			// aapt resource value: 0x7F0900A2
-			public const int disablePostScroll = 2131296418;
+			public const int disableIntraAutoTransition = 2131296418;
 			
 			// aapt resource value: 0x7F0900A3
-			public const int disableScroll = 2131296419;
+			public const int disablePostScroll = 2131296419;
 			
 			// aapt resource value: 0x7F0900A4
-			public const int disjoint = 2131296420;
+			public const int disableScroll = 2131296420;
 			
 			// aapt resource value: 0x7F0900A5
-			public const int dragAnticlockwise = 2131296421;
+			public const int disjoint = 2131296421;
 			
 			// aapt resource value: 0x7F0900A6
-			public const int dragClockwise = 2131296422;
+			public const int dragAnticlockwise = 2131296422;
 			
 			// aapt resource value: 0x7F0900A7
-			public const int dragDown = 2131296423;
+			public const int dragClockwise = 2131296423;
 			
 			// aapt resource value: 0x7F0900A8
-			public const int dragEnd = 2131296424;
+			public const int dragDown = 2131296424;
 			
 			// aapt resource value: 0x7F0900A9
-			public const int dragLeft = 2131296425;
+			public const int dragEnd = 2131296425;
 			
 			// aapt resource value: 0x7F0900AA
-			public const int dragRight = 2131296426;
+			public const int dragLeft = 2131296426;
 			
 			// aapt resource value: 0x7F0900AB
-			public const int dragStart = 2131296427;
+			public const int dragRight = 2131296427;
 			
 			// aapt resource value: 0x7F0900AC
-			public const int dragUp = 2131296428;
+			public const int dragStart = 2131296428;
 			
 			// aapt resource value: 0x7F0900AD
-			public const int dropdown_menu = 2131296429;
+			public const int dragUp = 2131296429;
 			
 			// aapt resource value: 0x7F0900AE
-			public const int easeIn = 2131296430;
+			public const int dropdown_menu = 2131296430;
 			
 			// aapt resource value: 0x7F0900AF
-			public const int easeInOut = 2131296431;
+			public const int easeIn = 2131296431;
 			
 			// aapt resource value: 0x7F0900B0
-			public const int easeOut = 2131296432;
+			public const int easeInOut = 2131296432;
 			
 			// aapt resource value: 0x7F0900B1
-			public const int east = 2131296433;
+			public const int easeOut = 2131296433;
 			
 			// aapt resource value: 0x7F0900B2
-			public const int edit_query = 2131296434;
+			public const int east = 2131296434;
 			
 			// aapt resource value: 0x7F0900B3
-			public const int elastic = 2131296435;
+			public const int edit_query = 2131296435;
 			
 			// aapt resource value: 0x7F0900B4
-			public const int end = 2131296436;
+			public const int elastic = 2131296436;
 			
 			// aapt resource value: 0x7F0900B5
-			public const int endToStart = 2131296437;
+			public const int end = 2131296437;
 			
 			// aapt resource value: 0x7F0900B6
-			public const int end_padder = 2131296438;
+			public const int endToStart = 2131296438;
 			
 			// aapt resource value: 0x7F0900B7
-			public const int enterAlways = 2131296439;
+			public const int end_padder = 2131296439;
 			
 			// aapt resource value: 0x7F0900B8
-			public const int enterAlwaysCollapsed = 2131296440;
+			public const int enterAlways = 2131296440;
 			
 			// aapt resource value: 0x7F0900B9
-			public const int exitUntilCollapsed = 2131296441;
-			
-			// aapt resource value: 0x7F0900BB
-			public const int expanded_menu = 2131296443;
+			public const int enterAlwaysCollapsed = 2131296441;
 			
 			// aapt resource value: 0x7F0900BA
-			public const int expand_activities_button = 2131296442;
+			public const int exitUntilCollapsed = 2131296442;
 			
 			// aapt resource value: 0x7F0900BC
-			public const int fade = 2131296444;
+			public const int expanded_menu = 2131296444;
+			
+			// aapt resource value: 0x7F0900BB
+			public const int expand_activities_button = 2131296443;
 			
 			// aapt resource value: 0x7F0900BD
-			public const int fill = 2131296445;
-			
-			// aapt resource value: 0x7F0900C0
-			public const int filled = 2131296448;
+			public const int fade = 2131296445;
 			
 			// aapt resource value: 0x7F0900BE
-			public const int fill_horizontal = 2131296446;
-			
-			// aapt resource value: 0x7F0900BF
-			public const int fill_vertical = 2131296447;
+			public const int fill = 2131296446;
 			
 			// aapt resource value: 0x7F0900C1
-			public const int fingerprint_description = 2131296449;
+			public const int filled = 2131296449;
+			
+			// aapt resource value: 0x7F0900BF
+			public const int fill_horizontal = 2131296447;
+			
+			// aapt resource value: 0x7F0900C0
+			public const int fill_vertical = 2131296448;
 			
 			// aapt resource value: 0x7F0900C2
-			public const int fingerprint_error = 2131296450;
+			public const int fingerprint_description = 2131296450;
 			
 			// aapt resource value: 0x7F0900C3
-			public const int fingerprint_icon = 2131296451;
+			public const int fingerprint_error = 2131296451;
 			
 			// aapt resource value: 0x7F0900C4
-			public const int fingerprint_subtitle = 2131296452;
+			public const int fingerprint_icon = 2131296452;
 			
 			// aapt resource value: 0x7F0900C5
-			public const int fitToContents = 2131296453;
+			public const int fingerprint_subtitle = 2131296453;
 			
 			// aapt resource value: 0x7F0900C6
-			public const int @fixed = 2131296454;
+			public const int fitToContents = 2131296454;
 			
 			// aapt resource value: 0x7F0900C7
-			public const int flip = 2131296455;
+			public const int @fixed = 2131296455;
 			
 			// aapt resource value: 0x7F0900C8
-			public const int floating = 2131296456;
+			public const int flip = 2131296456;
 			
 			// aapt resource value: 0x7F0900C9
-			public const int flyoutcontent_appbar = 2131296457;
+			public const int floating = 2131296457;
 			
 			// aapt resource value: 0x7F0900CA
-			public const int forever = 2131296458;
+			public const int flyoutcontent_appbar = 2131296458;
 			
 			// aapt resource value: 0x7F0900CB
-			public const int fragment_container_view_tag = 2131296459;
+			public const int forever = 2131296459;
 			
 			// aapt resource value: 0x7F0900CC
-			public const int frost = 2131296460;
+			public const int fragment_container_view_tag = 2131296460;
+			
+			// aapt resource value: 0x7F0900CD
+			public const int frost = 2131296461;
 			
 			// aapt resource value: 0x7F090004
 			public const int FUNCTION = 2131296260;
 			
-			// aapt resource value: 0x7F0900CD
-			public const int ghost_view = 2131296461;
-			
 			// aapt resource value: 0x7F0900CE
-			public const int ghost_view_holder = 2131296462;
+			public const int ghost_view = 2131296462;
 			
 			// aapt resource value: 0x7F0900CF
-			public const int gone = 2131296463;
+			public const int ghost_view_holder = 2131296463;
 			
 			// aapt resource value: 0x7F0900D0
-			public const int graph = 2131296464;
+			public const int gone = 2131296464;
 			
 			// aapt resource value: 0x7F0900D1
-			public const int graph_wrap = 2131296465;
-			
-			// aapt resource value: 0x7F0900D3
-			public const int grouping = 2131296467;
-			
-			// aapt resource value: 0x7F0900D4
-			public const int groups = 2131296468;
+			public const int graph = 2131296465;
 			
 			// aapt resource value: 0x7F0900D2
-			public const int group_divider = 2131296466;
+			public const int graph_wrap = 2131296466;
+			
+			// aapt resource value: 0x7F0900D4
+			public const int grouping = 2131296468;
 			
 			// aapt resource value: 0x7F0900D5
-			public const int guideline = 2131296469;
+			public const int groups = 2131296469;
+			
+			// aapt resource value: 0x7F0900D3
+			public const int group_divider = 2131296467;
 			
 			// aapt resource value: 0x7F0900D6
-			public const int header_title = 2131296470;
+			public const int guideline = 2131296470;
 			
 			// aapt resource value: 0x7F0900D7
-			public const int hideable = 2131296471;
+			public const int header_title = 2131296471;
 			
 			// aapt resource value: 0x7F0900D8
-			public const int home = 2131296472;
+			public const int hideable = 2131296472;
 			
 			// aapt resource value: 0x7F0900D9
-			public const int homeAsUp = 2131296473;
+			public const int home = 2131296473;
 			
 			// aapt resource value: 0x7F0900DA
-			public const int honorRequest = 2131296474;
+			public const int homeAsUp = 2131296474;
 			
 			// aapt resource value: 0x7F0900DB
-			public const int horizontal_only = 2131296475;
+			public const int honorRequest = 2131296475;
 			
 			// aapt resource value: 0x7F0900DC
-			public const int icon = 2131296476;
+			public const int horizontal_only = 2131296476;
 			
 			// aapt resource value: 0x7F0900DD
-			public const int icon_frame = 2131296477;
+			public const int icon = 2131296477;
 			
 			// aapt resource value: 0x7F0900DE
-			public const int icon_group = 2131296478;
+			public const int icon_frame = 2131296478;
 			
 			// aapt resource value: 0x7F0900DF
-			public const int ifRoom = 2131296479;
+			public const int icon_group = 2131296479;
 			
 			// aapt resource value: 0x7F0900E0
-			public const int ignore = 2131296480;
+			public const int ifRoom = 2131296480;
 			
 			// aapt resource value: 0x7F0900E1
-			public const int ignoreRequest = 2131296481;
+			public const int ignore = 2131296481;
 			
 			// aapt resource value: 0x7F0900E2
-			public const int image = 2131296482;
+			public const int ignoreRequest = 2131296482;
 			
 			// aapt resource value: 0x7F0900E3
-			public const int immediateStop = 2131296483;
+			public const int image = 2131296483;
 			
 			// aapt resource value: 0x7F0900E4
-			public const int included = 2131296484;
+			public const int immediateStop = 2131296484;
 			
 			// aapt resource value: 0x7F0900E5
-			public const int info = 2131296485;
+			public const int included = 2131296485;
 			
 			// aapt resource value: 0x7F0900E6
-			public const int invisible = 2131296486;
+			public const int info = 2131296486;
 			
 			// aapt resource value: 0x7F0900E7
-			public const int inward = 2131296487;
+			public const int invisible = 2131296487;
 			
 			// aapt resource value: 0x7F0900E8
-			public const int italic = 2131296488;
+			public const int inward = 2131296488;
 			
 			// aapt resource value: 0x7F0900E9
-			public const int item_touch_helper_previous_elevation = 2131296489;
+			public const int italic = 2131296489;
 			
 			// aapt resource value: 0x7F0900EA
-			public const int jumpToEnd = 2131296490;
+			public const int item_touch_helper_previous_elevation = 2131296490;
 			
 			// aapt resource value: 0x7F0900EB
-			public const int jumpToStart = 2131296491;
+			public const int jumpToEnd = 2131296491;
 			
 			// aapt resource value: 0x7F0900EC
-			public const int labeled = 2131296492;
+			public const int jumpToStart = 2131296492;
 			
 			// aapt resource value: 0x7F0900ED
-			public const int layout = 2131296493;
+			public const int labeled = 2131296493;
 			
 			// aapt resource value: 0x7F0900EE
-			public const int left = 2131296494;
+			public const int layout = 2131296494;
 			
 			// aapt resource value: 0x7F0900EF
-			public const int leftToRight = 2131296495;
+			public const int left = 2131296495;
 			
 			// aapt resource value: 0x7F0900F0
-			public const int legacy = 2131296496;
+			public const int leftToRight = 2131296496;
 			
 			// aapt resource value: 0x7F0900F1
-			public const int line1 = 2131296497;
+			public const int legacy = 2131296497;
 			
 			// aapt resource value: 0x7F0900F2
-			public const int line3 = 2131296498;
+			public const int line1 = 2131296498;
 			
 			// aapt resource value: 0x7F0900F3
-			public const int linear = 2131296499;
+			public const int line3 = 2131296499;
 			
 			// aapt resource value: 0x7F0900F4
-			public const int listMode = 2131296500;
+			public const int linear = 2131296500;
 			
 			// aapt resource value: 0x7F0900F5
-			public const int list_item = 2131296501;
+			public const int listMode = 2131296501;
 			
 			// aapt resource value: 0x7F0900F6
-			public const int main_appbar = 2131296502;
+			public const int list_item = 2131296502;
 			
 			// aapt resource value: 0x7F0900F7
-			public const int main_tablayout = 2131296503;
+			public const int main_appbar = 2131296503;
 			
 			// aapt resource value: 0x7F0900F8
-			public const int main_toolbar = 2131296504;
+			public const int main_tablayout = 2131296504;
 			
 			// aapt resource value: 0x7F0900F9
-			public const int main_viewpager = 2131296505;
+			public const int main_toolbar = 2131296505;
 			
 			// aapt resource value: 0x7F0900FA
-			public const int masked = 2131296506;
+			public const int main_viewpager = 2131296506;
 			
 			// aapt resource value: 0x7F0900FB
-			public const int match_constraint = 2131296507;
+			public const int masked = 2131296507;
 			
 			// aapt resource value: 0x7F0900FC
-			public const int match_parent = 2131296508;
+			public const int match_constraint = 2131296508;
 			
 			// aapt resource value: 0x7F0900FD
-			public const int material_clock_display = 2131296509;
+			public const int match_parent = 2131296509;
 			
 			// aapt resource value: 0x7F0900FE
-			public const int material_clock_face = 2131296510;
+			public const int material_clock_display = 2131296510;
 			
 			// aapt resource value: 0x7F0900FF
-			public const int material_clock_hand = 2131296511;
+			public const int material_clock_face = 2131296511;
 			
 			// aapt resource value: 0x7F090100
-			public const int material_clock_period_am_button = 2131296512;
+			public const int material_clock_hand = 2131296512;
 			
 			// aapt resource value: 0x7F090101
-			public const int material_clock_period_pm_button = 2131296513;
+			public const int material_clock_period_am_button = 2131296513;
 			
 			// aapt resource value: 0x7F090102
-			public const int material_clock_period_toggle = 2131296514;
+			public const int material_clock_period_pm_button = 2131296514;
 			
 			// aapt resource value: 0x7F090103
-			public const int material_hour_text_input = 2131296515;
+			public const int material_clock_period_toggle = 2131296515;
 			
 			// aapt resource value: 0x7F090104
-			public const int material_hour_tv = 2131296516;
+			public const int material_hour_text_input = 2131296516;
 			
 			// aapt resource value: 0x7F090105
-			public const int material_label = 2131296517;
+			public const int material_hour_tv = 2131296517;
 			
 			// aapt resource value: 0x7F090106
-			public const int material_minute_text_input = 2131296518;
+			public const int material_label = 2131296518;
 			
 			// aapt resource value: 0x7F090107
-			public const int material_minute_tv = 2131296519;
+			public const int material_minute_text_input = 2131296519;
 			
 			// aapt resource value: 0x7F090108
-			public const int material_textinput_timepicker = 2131296520;
+			public const int material_minute_tv = 2131296520;
 			
 			// aapt resource value: 0x7F090109
-			public const int material_timepicker_cancel_button = 2131296521;
+			public const int material_textinput_timepicker = 2131296521;
 			
 			// aapt resource value: 0x7F09010A
-			public const int material_timepicker_container = 2131296522;
+			public const int material_timepicker_cancel_button = 2131296522;
 			
 			// aapt resource value: 0x7F09010B
-			public const int material_timepicker_edit_text = 2131296523;
+			public const int material_timepicker_container = 2131296523;
 			
 			// aapt resource value: 0x7F09010C
-			public const int material_timepicker_mode_button = 2131296524;
+			public const int material_timepicker_edit_text = 2131296524;
 			
 			// aapt resource value: 0x7F09010D
-			public const int material_timepicker_ok_button = 2131296525;
+			public const int material_timepicker_mode_button = 2131296525;
 			
 			// aapt resource value: 0x7F09010E
-			public const int material_timepicker_view = 2131296526;
+			public const int material_timepicker_ok_button = 2131296526;
 			
 			// aapt resource value: 0x7F09010F
-			public const int material_value_index = 2131296527;
+			public const int material_timepicker_view = 2131296527;
 			
 			// aapt resource value: 0x7F090110
-			public const int media_actions = 2131296528;
+			public const int material_value_index = 2131296528;
 			
 			// aapt resource value: 0x7F090111
-			public const int media_controller_compat_view_tag = 2131296529;
+			public const int media_actions = 2131296529;
 			
 			// aapt resource value: 0x7F090112
-			public const int message = 2131296530;
+			public const int media_controller_compat_view_tag = 2131296530;
+			
+			// aapt resource value: 0x7F090113
+			public const int message = 2131296531;
 			
 			// aapt resource value: 0x7F090005
 			public const int META = 2131296261;
 			
-			// aapt resource value: 0x7F090113
-			public const int middle = 2131296531;
-			
 			// aapt resource value: 0x7F090114
-			public const int mini = 2131296532;
+			public const int middle = 2131296532;
 			
 			// aapt resource value: 0x7F090115
-			public const int month_grid = 2131296533;
+			public const int mini = 2131296533;
 			
 			// aapt resource value: 0x7F090116
-			public const int month_navigation_bar = 2131296534;
+			public const int month_grid = 2131296534;
 			
 			// aapt resource value: 0x7F090117
-			public const int month_navigation_fragment_toggle = 2131296535;
+			public const int month_navigation_bar = 2131296535;
 			
 			// aapt resource value: 0x7F090118
-			public const int month_navigation_next = 2131296536;
+			public const int month_navigation_fragment_toggle = 2131296536;
 			
 			// aapt resource value: 0x7F090119
-			public const int month_navigation_previous = 2131296537;
+			public const int month_navigation_next = 2131296537;
 			
 			// aapt resource value: 0x7F09011A
-			public const int month_title = 2131296538;
+			public const int month_navigation_previous = 2131296538;
 			
 			// aapt resource value: 0x7F09011B
-			public const int motion_base = 2131296539;
+			public const int month_title = 2131296539;
 			
 			// aapt resource value: 0x7F09011C
-			public const int mtrl_anchor_parent = 2131296540;
-			
-			// aapt resource value: 0x7F09011E
-			public const int mtrl_calendar_days_of_week = 2131296542;
+			public const int motion_base = 2131296540;
 			
 			// aapt resource value: 0x7F09011D
-			public const int mtrl_calendar_day_selector_frame = 2131296541;
+			public const int mtrl_anchor_parent = 2131296541;
 			
 			// aapt resource value: 0x7F09011F
-			public const int mtrl_calendar_frame = 2131296543;
+			public const int mtrl_calendar_days_of_week = 2131296543;
+			
+			// aapt resource value: 0x7F09011E
+			public const int mtrl_calendar_day_selector_frame = 2131296542;
 			
 			// aapt resource value: 0x7F090120
-			public const int mtrl_calendar_main_pane = 2131296544;
+			public const int mtrl_calendar_frame = 2131296544;
 			
 			// aapt resource value: 0x7F090121
-			public const int mtrl_calendar_months = 2131296545;
+			public const int mtrl_calendar_main_pane = 2131296545;
 			
 			// aapt resource value: 0x7F090122
-			public const int mtrl_calendar_selection_frame = 2131296546;
+			public const int mtrl_calendar_months = 2131296546;
 			
 			// aapt resource value: 0x7F090123
-			public const int mtrl_calendar_text_input_frame = 2131296547;
+			public const int mtrl_calendar_selection_frame = 2131296547;
 			
 			// aapt resource value: 0x7F090124
-			public const int mtrl_calendar_year_selector_frame = 2131296548;
+			public const int mtrl_calendar_text_input_frame = 2131296548;
 			
 			// aapt resource value: 0x7F090125
-			public const int mtrl_card_checked_layer_id = 2131296549;
+			public const int mtrl_calendar_year_selector_frame = 2131296549;
 			
 			// aapt resource value: 0x7F090126
-			public const int mtrl_child_content_container = 2131296550;
+			public const int mtrl_card_checked_layer_id = 2131296550;
 			
 			// aapt resource value: 0x7F090127
-			public const int mtrl_internal_children_alpha_tag = 2131296551;
+			public const int mtrl_child_content_container = 2131296551;
 			
 			// aapt resource value: 0x7F090128
-			public const int mtrl_motion_snapshot_view = 2131296552;
+			public const int mtrl_internal_children_alpha_tag = 2131296552;
 			
 			// aapt resource value: 0x7F090129
-			public const int mtrl_picker_fullscreen = 2131296553;
+			public const int mtrl_motion_snapshot_view = 2131296553;
 			
 			// aapt resource value: 0x7F09012A
-			public const int mtrl_picker_header = 2131296554;
+			public const int mtrl_picker_fullscreen = 2131296554;
 			
 			// aapt resource value: 0x7F09012B
-			public const int mtrl_picker_header_selection_text = 2131296555;
+			public const int mtrl_picker_header = 2131296555;
 			
 			// aapt resource value: 0x7F09012C
-			public const int mtrl_picker_header_title_and_selection = 2131296556;
+			public const int mtrl_picker_header_selection_text = 2131296556;
 			
 			// aapt resource value: 0x7F09012D
-			public const int mtrl_picker_header_toggle = 2131296557;
+			public const int mtrl_picker_header_title_and_selection = 2131296557;
 			
 			// aapt resource value: 0x7F09012E
-			public const int mtrl_picker_text_input_date = 2131296558;
+			public const int mtrl_picker_header_toggle = 2131296558;
 			
 			// aapt resource value: 0x7F09012F
-			public const int mtrl_picker_text_input_range_end = 2131296559;
+			public const int mtrl_picker_text_input_date = 2131296559;
 			
 			// aapt resource value: 0x7F090130
-			public const int mtrl_picker_text_input_range_start = 2131296560;
+			public const int mtrl_picker_text_input_range_end = 2131296560;
 			
 			// aapt resource value: 0x7F090131
-			public const int mtrl_picker_title_text = 2131296561;
+			public const int mtrl_picker_text_input_range_start = 2131296561;
 			
 			// aapt resource value: 0x7F090132
-			public const int mtrl_view_tag_bottom_padding = 2131296562;
+			public const int mtrl_picker_title_text = 2131296562;
 			
 			// aapt resource value: 0x7F090133
-			public const int multiply = 2131296563;
-			
-			// aapt resource value: 0x7F090135
-			public const int navigation_bar_item_icon_view = 2131296565;
-			
-			// aapt resource value: 0x7F090136
-			public const int navigation_bar_item_labels_group = 2131296566;
-			
-			// aapt resource value: 0x7F090137
-			public const int navigation_bar_item_large_label_view = 2131296567;
-			
-			// aapt resource value: 0x7F090138
-			public const int navigation_bar_item_small_label_view = 2131296568;
-			
-			// aapt resource value: 0x7F090139
-			public const int navigation_header_container = 2131296569;
+			public const int mtrl_view_tag_bottom_padding = 2131296563;
 			
 			// aapt resource value: 0x7F090134
-			public const int nav_controller_view_tag = 2131296564;
+			public const int multiply = 2131296564;
+			
+			// aapt resource value: 0x7F090136
+			public const int navigation_bar_item_icon_view = 2131296566;
+			
+			// aapt resource value: 0x7F090137
+			public const int navigation_bar_item_labels_group = 2131296567;
+			
+			// aapt resource value: 0x7F090138
+			public const int navigation_bar_item_large_label_view = 2131296568;
+			
+			// aapt resource value: 0x7F090139
+			public const int navigation_bar_item_small_label_view = 2131296569;
 			
 			// aapt resource value: 0x7F09013A
-			public const int never = 2131296570;
+			public const int navigation_header_container = 2131296570;
+			
+			// aapt resource value: 0x7F090135
+			public const int nav_controller_view_tag = 2131296565;
 			
 			// aapt resource value: 0x7F09013B
-			public const int neverCompleteToEnd = 2131296571;
+			public const int never = 2131296571;
 			
 			// aapt resource value: 0x7F09013C
-			public const int neverCompleteToStart = 2131296572;
-			
-			// aapt resource value: 0x7F09013F
-			public const int none = 2131296575;
-			
-			// aapt resource value: 0x7F090140
-			public const int normal = 2131296576;
-			
-			// aapt resource value: 0x7F090141
-			public const int north = 2131296577;
+			public const int neverCompleteToEnd = 2131296572;
 			
 			// aapt resource value: 0x7F09013D
-			public const int noScroll = 2131296573;
+			public const int neverCompleteToStart = 2131296573;
 			
-			// aapt resource value: 0x7F09013E
-			public const int noState = 2131296574;
+			// aapt resource value: 0x7F090140
+			public const int none = 2131296576;
+			
+			// aapt resource value: 0x7F090141
+			public const int normal = 2131296577;
 			
 			// aapt resource value: 0x7F090142
-			public const int notification_background = 2131296578;
+			public const int north = 2131296578;
+			
+			// aapt resource value: 0x7F09013E
+			public const int noScroll = 2131296574;
+			
+			// aapt resource value: 0x7F09013F
+			public const int noState = 2131296575;
 			
 			// aapt resource value: 0x7F090143
-			public const int notification_main_column = 2131296579;
+			public const int notification_background = 2131296579;
 			
 			// aapt resource value: 0x7F090144
-			public const int notification_main_column_container = 2131296580;
+			public const int notification_main_column = 2131296580;
+			
+			// aapt resource value: 0x7F090145
+			public const int notification_main_column_container = 2131296581;
 			
 			// aapt resource value: 0x7F090006
 			public const int NO_DEBUG = 2131296262;
 			
-			// aapt resource value: 0x7F090145
-			public const int off = 2131296581;
-			
 			// aapt resource value: 0x7F090146
-			public const int on = 2131296582;
+			public const int off = 2131296582;
 			
 			// aapt resource value: 0x7F090147
-			public const int outline = 2131296583;
+			public const int on = 2131296583;
 			
 			// aapt resource value: 0x7F090148
-			public const int outward = 2131296584;
+			public const int outline = 2131296584;
 			
 			// aapt resource value: 0x7F090149
-			public const int overshoot = 2131296585;
+			public const int outward = 2131296585;
 			
 			// aapt resource value: 0x7F09014A
-			public const int packed = 2131296586;
+			public const int overshoot = 2131296586;
 			
 			// aapt resource value: 0x7F09014B
-			public const int parallax = 2131296587;
+			public const int packed = 2131296587;
 			
 			// aapt resource value: 0x7F09014C
-			public const int parent = 2131296588;
+			public const int parallax = 2131296588;
 			
 			// aapt resource value: 0x7F09014D
-			public const int parentPanel = 2131296589;
+			public const int parent = 2131296589;
 			
 			// aapt resource value: 0x7F09014E
-			public const int parentRelative = 2131296590;
+			public const int parentPanel = 2131296590;
 			
 			// aapt resource value: 0x7F09014F
-			public const int parent_matrix = 2131296591;
+			public const int parentRelative = 2131296591;
 			
 			// aapt resource value: 0x7F090150
-			public const int password_toggle = 2131296592;
+			public const int parent_matrix = 2131296592;
 			
 			// aapt resource value: 0x7F090151
-			public const int path = 2131296593;
+			public const int password_toggle = 2131296593;
 			
 			// aapt resource value: 0x7F090152
-			public const int pathRelative = 2131296594;
+			public const int path = 2131296594;
 			
 			// aapt resource value: 0x7F090153
-			public const int peekHeight = 2131296595;
+			public const int pathRelative = 2131296595;
 			
 			// aapt resource value: 0x7F090154
-			public const int percent = 2131296596;
+			public const int peekHeight = 2131296596;
 			
 			// aapt resource value: 0x7F090155
-			public const int pin = 2131296597;
+			public const int percent = 2131296597;
 			
 			// aapt resource value: 0x7F090156
-			public const int position = 2131296598;
+			public const int pin = 2131296598;
 			
 			// aapt resource value: 0x7F090157
-			public const int postLayout = 2131296599;
+			public const int position = 2131296599;
 			
 			// aapt resource value: 0x7F090158
-			public const int progress_circular = 2131296600;
+			public const int postLayout = 2131296600;
 			
 			// aapt resource value: 0x7F090159
-			public const int progress_horizontal = 2131296601;
+			public const int progress_circular = 2131296601;
 			
 			// aapt resource value: 0x7F09015A
-			public const int radio = 2131296602;
+			public const int progress_horizontal = 2131296602;
 			
 			// aapt resource value: 0x7F09015B
-			public const int ratio = 2131296603;
+			public const int radio = 2131296603;
 			
 			// aapt resource value: 0x7F09015C
-			public const int rectangles = 2131296604;
+			public const int ratio = 2131296604;
 			
 			// aapt resource value: 0x7F09015D
-			public const int recycler_view = 2131296605;
+			public const int rectangles = 2131296605;
 			
 			// aapt resource value: 0x7F09015E
-			public const int reverseSawtooth = 2131296606;
+			public const int recycler_view = 2131296606;
 			
 			// aapt resource value: 0x7F09015F
-			public const int right = 2131296607;
+			public const int reverseSawtooth = 2131296607;
 			
 			// aapt resource value: 0x7F090160
-			public const int rightToLeft = 2131296608;
+			public const int right = 2131296608;
 			
 			// aapt resource value: 0x7F090161
-			public const int right_icon = 2131296609;
+			public const int rightToLeft = 2131296609;
 			
 			// aapt resource value: 0x7F090162
-			public const int right_side = 2131296610;
+			public const int right_icon = 2131296610;
 			
 			// aapt resource value: 0x7F090163
-			public const int rounded = 2131296611;
+			public const int right_side = 2131296611;
 			
 			// aapt resource value: 0x7F090164
-			public const int row_index_key = 2131296612;
+			public const int rounded = 2131296612;
 			
 			// aapt resource value: 0x7F090165
-			public const int save_non_transition_alpha = 2131296613;
+			public const int row_index_key = 2131296613;
 			
 			// aapt resource value: 0x7F090166
-			public const int save_overlay_view = 2131296614;
+			public const int save_non_transition_alpha = 2131296614;
 			
 			// aapt resource value: 0x7F090167
-			public const int sawtooth = 2131296615;
+			public const int save_overlay_view = 2131296615;
 			
 			// aapt resource value: 0x7F090168
-			public const int scale = 2131296616;
+			public const int sawtooth = 2131296616;
 			
 			// aapt resource value: 0x7F090169
-			public const int screen = 2131296617;
+			public const int scale = 2131296617;
 			
 			// aapt resource value: 0x7F09016A
-			public const int scroll = 2131296618;
-			
-			// aapt resource value: 0x7F09016E
-			public const int scrollable = 2131296622;
+			public const int screen = 2131296618;
 			
 			// aapt resource value: 0x7F09016B
-			public const int scrollIndicatorDown = 2131296619;
-			
-			// aapt resource value: 0x7F09016C
-			public const int scrollIndicatorUp = 2131296620;
-			
-			// aapt resource value: 0x7F09016D
-			public const int scrollView = 2131296621;
+			public const int scroll = 2131296619;
 			
 			// aapt resource value: 0x7F09016F
-			public const int search_badge = 2131296623;
+			public const int scrollable = 2131296623;
+			
+			// aapt resource value: 0x7F09016C
+			public const int scrollIndicatorDown = 2131296620;
+			
+			// aapt resource value: 0x7F09016D
+			public const int scrollIndicatorUp = 2131296621;
+			
+			// aapt resource value: 0x7F09016E
+			public const int scrollView = 2131296622;
 			
 			// aapt resource value: 0x7F090170
-			public const int search_bar = 2131296624;
+			public const int search_badge = 2131296624;
 			
 			// aapt resource value: 0x7F090171
-			public const int search_button = 2131296625;
+			public const int search_bar = 2131296625;
 			
 			// aapt resource value: 0x7F090172
-			public const int search_close_btn = 2131296626;
+			public const int search_button = 2131296626;
 			
 			// aapt resource value: 0x7F090173
-			public const int search_edit_frame = 2131296627;
+			public const int search_close_btn = 2131296627;
 			
 			// aapt resource value: 0x7F090174
-			public const int search_go_btn = 2131296628;
+			public const int search_edit_frame = 2131296628;
 			
 			// aapt resource value: 0x7F090175
-			public const int search_mag_icon = 2131296629;
+			public const int search_go_btn = 2131296629;
 			
 			// aapt resource value: 0x7F090176
-			public const int search_plate = 2131296630;
+			public const int search_mag_icon = 2131296630;
 			
 			// aapt resource value: 0x7F090177
-			public const int search_src_text = 2131296631;
+			public const int search_plate = 2131296631;
 			
 			// aapt resource value: 0x7F090178
-			public const int search_voice_btn = 2131296632;
+			public const int search_src_text = 2131296632;
 			
 			// aapt resource value: 0x7F090179
-			public const int seekbar = 2131296633;
+			public const int search_voice_btn = 2131296633;
 			
 			// aapt resource value: 0x7F09017A
-			public const int seekbar_value = 2131296634;
-			
-			// aapt resource value: 0x7F09017C
-			public const int selected = 2131296636;
-			
-			// aapt resource value: 0x7F09017D
-			public const int selection_type = 2131296637;
+			public const int seekbar = 2131296634;
 			
 			// aapt resource value: 0x7F09017B
-			public const int select_dialog_listview = 2131296635;
+			public const int seekbar_value = 2131296635;
+			
+			// aapt resource value: 0x7F09017D
+			public const int selected = 2131296637;
 			
 			// aapt resource value: 0x7F09017E
-			public const int sharedValueSet = 2131296638;
+			public const int selection_type = 2131296638;
+			
+			// aapt resource value: 0x7F09017C
+			public const int select_dialog_listview = 2131296636;
 			
 			// aapt resource value: 0x7F09017F
-			public const int sharedValueUnset = 2131296639;
+			public const int sharedValueSet = 2131296639;
 			
 			// aapt resource value: 0x7F090180
-			public const int shellcontent_appbar = 2131296640;
+			public const int sharedValueUnset = 2131296640;
 			
 			// aapt resource value: 0x7F090181
-			public const int shellcontent_toolbar = 2131296641;
+			public const int shellcontent_appbar = 2131296641;
+			
+			// aapt resource value: 0x7F090182
+			public const int shellcontent_toolbar = 2131296642;
 			
 			// aapt resource value: 0x7F090007
 			public const int SHIFT = 2131296263;
 			
-			// aapt resource value: 0x7F090182
-			public const int shortcut = 2131296642;
-			
 			// aapt resource value: 0x7F090183
-			public const int showCustom = 2131296643;
+			public const int shortcut = 2131296643;
 			
 			// aapt resource value: 0x7F090184
-			public const int showHome = 2131296644;
+			public const int showCustom = 2131296644;
 			
 			// aapt resource value: 0x7F090185
-			public const int showTitle = 2131296645;
+			public const int showHome = 2131296645;
+			
+			// aapt resource value: 0x7F090186
+			public const int showTitle = 2131296646;
 			
 			// aapt resource value: 0x7F090008
 			public const int SHOW_ALL = 2131296264;
@@ -18048,242 +23172,242 @@ namespace Biometric.Droid
 			// aapt resource value: 0x7F09000A
 			public const int SHOW_PROGRESS = 2131296266;
 			
-			// aapt resource value: 0x7F090186
-			public const int sin = 2131296646;
-			
 			// aapt resource value: 0x7F090187
-			public const int skipCollapsed = 2131296647;
+			public const int sin = 2131296647;
 			
 			// aapt resource value: 0x7F090188
-			public const int skipped = 2131296648;
+			public const int skipCollapsed = 2131296648;
 			
 			// aapt resource value: 0x7F090189
-			public const int slide = 2131296649;
+			public const int skipped = 2131296649;
 			
 			// aapt resource value: 0x7F09018A
-			public const int sliding_tabs = 2131296650;
+			public const int slide = 2131296650;
 			
 			// aapt resource value: 0x7F09018B
-			public const int snackbar_action = 2131296651;
+			public const int sliding_tabs = 2131296651;
 			
 			// aapt resource value: 0x7F09018C
-			public const int snackbar_text = 2131296652;
+			public const int snackbar_action = 2131296652;
 			
 			// aapt resource value: 0x7F09018D
-			public const int snap = 2131296653;
+			public const int snackbar_text = 2131296653;
 			
 			// aapt resource value: 0x7F09018E
-			public const int snapMargins = 2131296654;
+			public const int snap = 2131296654;
 			
 			// aapt resource value: 0x7F09018F
-			public const int south = 2131296655;
+			public const int snapMargins = 2131296655;
 			
 			// aapt resource value: 0x7F090190
-			public const int spacer = 2131296656;
+			public const int south = 2131296656;
 			
 			// aapt resource value: 0x7F090191
-			public const int special_effects_controller_view_tag = 2131296657;
+			public const int spacer = 2131296657;
 			
 			// aapt resource value: 0x7F090192
-			public const int spinner = 2131296658;
+			public const int special_effects_controller_view_tag = 2131296658;
 			
 			// aapt resource value: 0x7F090193
-			public const int spline = 2131296659;
+			public const int spinner = 2131296659;
 			
 			// aapt resource value: 0x7F090194
-			public const int split_action_bar = 2131296660;
+			public const int spline = 2131296660;
 			
 			// aapt resource value: 0x7F090195
-			public const int spread = 2131296661;
+			public const int split_action_bar = 2131296661;
 			
 			// aapt resource value: 0x7F090196
-			public const int spread_inside = 2131296662;
+			public const int spread = 2131296662;
 			
 			// aapt resource value: 0x7F090197
-			public const int spring = 2131296663;
+			public const int spread_inside = 2131296663;
 			
 			// aapt resource value: 0x7F090198
-			public const int square = 2131296664;
+			public const int spring = 2131296664;
 			
 			// aapt resource value: 0x7F090199
-			public const int src_atop = 2131296665;
+			public const int square = 2131296665;
 			
 			// aapt resource value: 0x7F09019A
-			public const int src_in = 2131296666;
+			public const int src_atop = 2131296666;
 			
 			// aapt resource value: 0x7F09019B
-			public const int src_over = 2131296667;
+			public const int src_in = 2131296667;
 			
 			// aapt resource value: 0x7F09019C
-			public const int standard = 2131296668;
+			public const int src_over = 2131296668;
 			
 			// aapt resource value: 0x7F09019D
-			public const int start = 2131296669;
+			public const int standard = 2131296669;
 			
 			// aapt resource value: 0x7F09019E
-			public const int startHorizontal = 2131296670;
+			public const int start = 2131296670;
 			
 			// aapt resource value: 0x7F09019F
-			public const int startToEnd = 2131296671;
+			public const int startHorizontal = 2131296671;
 			
 			// aapt resource value: 0x7F0901A0
-			public const int startVertical = 2131296672;
+			public const int startToEnd = 2131296672;
 			
 			// aapt resource value: 0x7F0901A1
-			public const int staticLayout = 2131296673;
+			public const int startVertical = 2131296673;
 			
 			// aapt resource value: 0x7F0901A2
-			public const int staticPostLayout = 2131296674;
+			public const int staticLayout = 2131296674;
 			
 			// aapt resource value: 0x7F0901A3
-			public const int status_bar_latest_event_content = 2131296675;
+			public const int staticPostLayout = 2131296675;
 			
 			// aapt resource value: 0x7F0901A4
-			public const int stop = 2131296676;
+			public const int status_bar_latest_event_content = 2131296676;
 			
 			// aapt resource value: 0x7F0901A5
-			public const int stretch = 2131296677;
+			public const int stop = 2131296677;
 			
 			// aapt resource value: 0x7F0901A6
-			public const int submenuarrow = 2131296678;
+			public const int stretch = 2131296678;
 			
 			// aapt resource value: 0x7F0901A7
-			public const int submit_area = 2131296679;
+			public const int submenuarrow = 2131296679;
 			
 			// aapt resource value: 0x7F0901A8
-			public const int supportScrollUp = 2131296680;
+			public const int submit_area = 2131296680;
 			
 			// aapt resource value: 0x7F0901A9
-			public const int switchWidget = 2131296681;
+			public const int supportScrollUp = 2131296681;
+			
+			// aapt resource value: 0x7F0901AA
+			public const int switchWidget = 2131296682;
 			
 			// aapt resource value: 0x7F09000B
 			public const int SYM = 2131296267;
 			
-			// aapt resource value: 0x7F0901AA
-			public const int tabMode = 2131296682;
-			
 			// aapt resource value: 0x7F0901AB
-			public const int tag_accessibility_actions = 2131296683;
+			public const int tabMode = 2131296683;
 			
 			// aapt resource value: 0x7F0901AC
-			public const int tag_accessibility_clickable_spans = 2131296684;
+			public const int tag_accessibility_actions = 2131296684;
 			
 			// aapt resource value: 0x7F0901AD
-			public const int tag_accessibility_heading = 2131296685;
+			public const int tag_accessibility_clickable_spans = 2131296685;
 			
 			// aapt resource value: 0x7F0901AE
-			public const int tag_accessibility_pane_title = 2131296686;
+			public const int tag_accessibility_heading = 2131296686;
 			
 			// aapt resource value: 0x7F0901AF
-			public const int tag_on_apply_window_listener = 2131296687;
+			public const int tag_accessibility_pane_title = 2131296687;
 			
 			// aapt resource value: 0x7F0901B0
-			public const int tag_on_receive_content_listener = 2131296688;
+			public const int tag_on_apply_window_listener = 2131296688;
 			
 			// aapt resource value: 0x7F0901B1
-			public const int tag_on_receive_content_mime_types = 2131296689;
+			public const int tag_on_receive_content_listener = 2131296689;
 			
 			// aapt resource value: 0x7F0901B2
-			public const int tag_screen_reader_focusable = 2131296690;
+			public const int tag_on_receive_content_mime_types = 2131296690;
 			
 			// aapt resource value: 0x7F0901B3
-			public const int tag_state_description = 2131296691;
+			public const int tag_screen_reader_focusable = 2131296691;
 			
 			// aapt resource value: 0x7F0901B4
-			public const int tag_transition_group = 2131296692;
+			public const int tag_state_description = 2131296692;
 			
 			// aapt resource value: 0x7F0901B5
-			public const int tag_unhandled_key_event_manager = 2131296693;
+			public const int tag_transition_group = 2131296693;
 			
 			// aapt resource value: 0x7F0901B6
-			public const int tag_unhandled_key_listeners = 2131296694;
+			public const int tag_unhandled_key_event_manager = 2131296694;
 			
 			// aapt resource value: 0x7F0901B7
-			public const int tag_window_insets_animation_callback = 2131296695;
+			public const int tag_unhandled_key_listeners = 2131296695;
 			
 			// aapt resource value: 0x7F0901B8
-			public const int test_checkbox_android_button_tint = 2131296696;
+			public const int tag_window_insets_animation_callback = 2131296696;
 			
 			// aapt resource value: 0x7F0901B9
-			public const int test_checkbox_app_button_tint = 2131296697;
+			public const int test_checkbox_android_button_tint = 2131296697;
 			
 			// aapt resource value: 0x7F0901BA
-			public const int test_radiobutton_android_button_tint = 2131296698;
+			public const int test_checkbox_app_button_tint = 2131296698;
 			
 			// aapt resource value: 0x7F0901BB
-			public const int test_radiobutton_app_button_tint = 2131296699;
+			public const int test_radiobutton_android_button_tint = 2131296699;
 			
 			// aapt resource value: 0x7F0901BC
-			public const int text = 2131296700;
+			public const int test_radiobutton_app_button_tint = 2131296700;
 			
 			// aapt resource value: 0x7F0901BD
-			public const int text2 = 2131296701;
+			public const int text = 2131296701;
 			
 			// aapt resource value: 0x7F0901BE
-			public const int textEnd = 2131296702;
-			
-			// aapt resource value: 0x7F0901C6
-			public const int textinput_counter = 2131296710;
-			
-			// aapt resource value: 0x7F0901C7
-			public const int textinput_error = 2131296711;
-			
-			// aapt resource value: 0x7F0901C8
-			public const int textinput_helper_text = 2131296712;
-			
-			// aapt resource value: 0x7F0901C9
-			public const int textinput_placeholder = 2131296713;
-			
-			// aapt resource value: 0x7F0901CA
-			public const int textinput_prefix_text = 2131296714;
-			
-			// aapt resource value: 0x7F0901CB
-			public const int textinput_suffix_text = 2131296715;
+			public const int text2 = 2131296702;
 			
 			// aapt resource value: 0x7F0901BF
-			public const int textSpacerNoButtons = 2131296703;
+			public const int textEnd = 2131296703;
 			
-			// aapt resource value: 0x7F0901C0
-			public const int textSpacerNoTitle = 2131296704;
+			// aapt resource value: 0x7F0901C7
+			public const int textinput_counter = 2131296711;
 			
-			// aapt resource value: 0x7F0901C1
-			public const int textStart = 2131296705;
+			// aapt resource value: 0x7F0901C8
+			public const int textinput_error = 2131296712;
 			
-			// aapt resource value: 0x7F0901C2
-			public const int textTop = 2131296706;
+			// aapt resource value: 0x7F0901C9
+			public const int textinput_helper_text = 2131296713;
 			
-			// aapt resource value: 0x7F0901C3
-			public const int text_input_end_icon = 2131296707;
+			// aapt resource value: 0x7F0901CA
+			public const int textinput_placeholder = 2131296714;
 			
-			// aapt resource value: 0x7F0901C4
-			public const int text_input_error_icon = 2131296708;
-			
-			// aapt resource value: 0x7F0901C5
-			public const int text_input_start_icon = 2131296709;
+			// aapt resource value: 0x7F0901CB
+			public const int textinput_prefix_text = 2131296715;
 			
 			// aapt resource value: 0x7F0901CC
-			public const int time = 2131296716;
+			public const int textinput_suffix_text = 2131296716;
+			
+			// aapt resource value: 0x7F0901C0
+			public const int textSpacerNoButtons = 2131296704;
+			
+			// aapt resource value: 0x7F0901C1
+			public const int textSpacerNoTitle = 2131296705;
+			
+			// aapt resource value: 0x7F0901C2
+			public const int textStart = 2131296706;
+			
+			// aapt resource value: 0x7F0901C3
+			public const int textTop = 2131296707;
+			
+			// aapt resource value: 0x7F0901C4
+			public const int text_input_end_icon = 2131296708;
+			
+			// aapt resource value: 0x7F0901C5
+			public const int text_input_error_icon = 2131296709;
+			
+			// aapt resource value: 0x7F0901C6
+			public const int text_input_start_icon = 2131296710;
 			
 			// aapt resource value: 0x7F0901CD
-			public const int title = 2131296717;
+			public const int time = 2131296717;
 			
 			// aapt resource value: 0x7F0901CE
-			public const int titleDividerNoCustom = 2131296718;
+			public const int title = 2131296718;
 			
 			// aapt resource value: 0x7F0901CF
-			public const int title_template = 2131296719;
+			public const int titleDividerNoCustom = 2131296719;
 			
 			// aapt resource value: 0x7F0901D0
-			public const int toggle = 2131296720;
+			public const int title_template = 2131296720;
 			
 			// aapt resource value: 0x7F0901D1
-			public const int toolbar = 2131296721;
+			public const int toggle = 2131296721;
 			
 			// aapt resource value: 0x7F0901D2
-			public const int top = 2131296722;
+			public const int toolbar = 2131296722;
 			
 			// aapt resource value: 0x7F0901D3
-			public const int topPanel = 2131296723;
+			public const int top = 2131296723;
+			
+			// aapt resource value: 0x7F0901D4
+			public const int topPanel = 2131296724;
 			
 			// aapt resource value: 0x7F09000C
 			public const int TOP_END = 2131296268;
@@ -18291,98 +23415,98 @@ namespace Biometric.Droid
 			// aapt resource value: 0x7F09000D
 			public const int TOP_START = 2131296269;
 			
-			// aapt resource value: 0x7F0901D4
-			public const int touch_outside = 2131296724;
-			
 			// aapt resource value: 0x7F0901D5
-			public const int transitionToEnd = 2131296725;
+			public const int touch_outside = 2131296725;
 			
 			// aapt resource value: 0x7F0901D6
-			public const int transitionToStart = 2131296726;
+			public const int transitionToEnd = 2131296726;
 			
 			// aapt resource value: 0x7F0901D7
-			public const int transition_current_scene = 2131296727;
+			public const int transitionToStart = 2131296727;
 			
 			// aapt resource value: 0x7F0901D8
-			public const int transition_layout_save = 2131296728;
+			public const int transition_current_scene = 2131296728;
 			
 			// aapt resource value: 0x7F0901D9
-			public const int transition_position = 2131296729;
+			public const int transition_layout_save = 2131296729;
 			
 			// aapt resource value: 0x7F0901DA
-			public const int transition_scene_layoutid_cache = 2131296730;
+			public const int transition_position = 2131296730;
 			
 			// aapt resource value: 0x7F0901DB
-			public const int transition_transform = 2131296731;
+			public const int transition_scene_layoutid_cache = 2131296731;
 			
 			// aapt resource value: 0x7F0901DC
-			public const int triangle = 2131296732;
+			public const int transition_transform = 2131296732;
 			
 			// aapt resource value: 0x7F0901DD
-			public const int @unchecked = 2131296733;
+			public const int triangle = 2131296733;
 			
 			// aapt resource value: 0x7F0901DE
-			public const int uniform = 2131296734;
+			public const int @unchecked = 2131296734;
 			
 			// aapt resource value: 0x7F0901DF
-			public const int unlabeled = 2131296735;
+			public const int uniform = 2131296735;
 			
 			// aapt resource value: 0x7F0901E0
-			public const int up = 2131296736;
+			public const int unlabeled = 2131296736;
 			
 			// aapt resource value: 0x7F0901E1
-			public const int useLogo = 2131296737;
+			public const int up = 2131296737;
 			
 			// aapt resource value: 0x7F0901E2
-			public const int vertical_only = 2131296738;
+			public const int useLogo = 2131296738;
 			
 			// aapt resource value: 0x7F0901E3
-			public const int view_offset_helper = 2131296739;
+			public const int vertical_only = 2131296739;
 			
 			// aapt resource value: 0x7F0901E4
-			public const int view_transition = 2131296740;
+			public const int view_offset_helper = 2131296740;
 			
 			// aapt resource value: 0x7F0901E5
-			public const int view_tree_lifecycle_owner = 2131296741;
+			public const int view_transition = 2131296741;
 			
 			// aapt resource value: 0x7F0901E6
-			public const int view_tree_saved_state_registry_owner = 2131296742;
+			public const int view_tree_lifecycle_owner = 2131296742;
 			
 			// aapt resource value: 0x7F0901E7
-			public const int view_tree_view_model_store_owner = 2131296743;
+			public const int view_tree_saved_state_registry_owner = 2131296743;
 			
 			// aapt resource value: 0x7F0901E8
-			public const int visible = 2131296744;
+			public const int view_tree_view_model_store_owner = 2131296744;
 			
 			// aapt resource value: 0x7F0901E9
-			public const int visible_removing_fragment_view_tag = 2131296745;
+			public const int visible = 2131296745;
 			
 			// aapt resource value: 0x7F0901EA
-			public const int west = 2131296746;
-			
-			// aapt resource value: 0x7F0901EC
-			public const int withinBounds = 2131296748;
+			public const int visible_removing_fragment_view_tag = 2131296746;
 			
 			// aapt resource value: 0x7F0901EB
-			public const int withText = 2131296747;
+			public const int west = 2131296747;
 			
 			// aapt resource value: 0x7F0901ED
-			public const int wrap = 2131296749;
+			public const int withinBounds = 2131296749;
+			
+			// aapt resource value: 0x7F0901EC
+			public const int withText = 2131296748;
 			
 			// aapt resource value: 0x7F0901EE
-			public const int wrap_content = 2131296750;
+			public const int wrap = 2131296750;
 			
 			// aapt resource value: 0x7F0901EF
-			public const int wrap_content_constrained = 2131296751;
+			public const int wrap_content = 2131296751;
 			
 			// aapt resource value: 0x7F0901F0
-			public const int x_left = 2131296752;
+			public const int wrap_content_constrained = 2131296752;
 			
 			// aapt resource value: 0x7F0901F1
-			public const int x_right = 2131296753;
+			public const int x_left = 2131296753;
 			
 			// aapt resource value: 0x7F0901F2
-			public const int zero_corner_chip = 2131296754;
+			public const int x_right = 2131296754;
+			
+			// aapt resource value: 0x7F0901F3
+			public const int zero_corner_chip = 2131296755;
 			
 			static Id()
 			{
@@ -18992,6 +24116,12 @@ namespace Biometric.Droid
 			
 			// aapt resource value: 0x7F0C0095
 			public const int Toolbar = 2131493013;
+			
+			// aapt resource value: 0x7F0C0096
+			public const int zxingscanneractivitylayout = 2131493014;
+			
+			// aapt resource value: 0x7F0C0097
+			public const int zxingscannerfragmentlayout = 2131493015;
 			
 			static Layout()
 			{
