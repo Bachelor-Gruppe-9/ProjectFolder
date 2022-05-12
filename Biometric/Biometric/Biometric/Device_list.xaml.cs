@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using Xamarin.Forms;
 
-namespace Application
+namespace Biometric
 {
     public partial class Device_list : ContentPage
     {

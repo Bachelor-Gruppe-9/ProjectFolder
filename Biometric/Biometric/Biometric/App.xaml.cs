@@ -1,6 +1,9 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Xamarin.Essentials;
+using static Xamarin.Essentials.Permissions;
+
 
 namespace Biometric
 {
@@ -10,9 +13,9 @@ namespace Biometric
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
-        }
+            MainPage = new NavigationPage(new SelectDevicePage());
 
+        }
         protected override void OnStart()
         {
         }
@@ -25,4 +28,6 @@ namespace Biometric
         {
         }
     }
+
+   
 }

@@ -10,6 +10,8 @@ using Xamarin.Essentials;
 using Plugin.BLE;
 using Xamarin.Forms;
 using Plugin.BLE.Abstractions.Contracts;
+using Plugin.BLE.Abstractions.Exceptions;
+using Plugin.BLE.Abstractions.Extensions;
 
 namespace Biometric
 {
@@ -65,9 +67,18 @@ namespace Biometric
             if (state == BluetoothState.On)
             {
                 await DisplayAlert("Bluetooth status ", "Bluetooth is on", "OK");
-                adapter.ScanTimeout = 8000;
                 adapter.DeviceDiscovered += (s, a) => deviceList.Add(a.Device);
                 adapter.DeviceConnected += (s, a) => DisplayAlert("Bluetooth status", "Device connected", "ok");
+                //send signal if bluetooth gets on or of
+                ble.StateChanged += (s, a) =>
+                {
+                    DisplayAlert("Bluetooth status", $"The bluetooth state changed to {a.NewState}", "ok");
+                    // DisplayAlert("state changed to{ e.NewState}");
+
+
+                };
+
+                
                 await adapter.StartScanningForDevicesAsync();
 
 
@@ -75,27 +86,45 @@ namespace Biometric
 
                 foreach (IDevice device in deviceList)
                 {
-                    sb.Append(device.Name);
-                    sb.Append(" - ");
+                    sb.AppendLine(device.Name + ", " + device.Id);
                 }
 
                 String deviceListString = sb.ToString();
 
                 await DisplayAlert("bluetooth list", deviceListString, "OK");
+                
 
+
+
+                IDevice connectedDevice;
+
+                //connect to a known  device
                 try
                 {
-                    var device = deviceList.Where(d => d.Name != null && d.Name == "HC-05").First();
-                    if (device != null)
-                    {
-                        await adapter.ConnectToDeviceAsync(device);
-                    }
+                    //await adapter.ConnectToDeviceAsync(Guid.Parse("64-0B-D7-01-39-69"));
+
+                    await adapter.ConnectToKnownDeviceAsync(Guid.Parse("00000000-0000-0000-0000-b827eb7e01fc"));
                 }
+                
                 catch (DeviceConnectionException exception)
                 {
+                    await DisplayAlert("Bluetooth error", "Failed to connect to device: " + exception.Message, "ok");
                     // ... could not connect to device
+                    return;
                 }
+                catch (Exception exception)
+                {
+                    await DisplayAlert("Error", exception.Message, "ok");
+                    return;
+                }
+                //int bytes = 0;
+                //var services = await connectedDevice.GetServicesAsync();
+                //var characteristics = await service.GetCharacteristicsAsync();
+                //await characteristic.WriteAsync(bytes);
+                
             }
         }
+
+        
     }
 }
