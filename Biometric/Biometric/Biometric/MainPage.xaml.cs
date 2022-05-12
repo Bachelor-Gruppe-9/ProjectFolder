@@ -12,6 +12,8 @@ using Xamarin.Forms;
 using Plugin.BLE.Abstractions.Contracts;
 using Android;
 using Android.Bluetooth;
+using Plugin.LocalNotification;
+using Plugin.LocalNotification.EventArgs;
 
 namespace Biometric
 {
@@ -24,7 +26,20 @@ namespace Biometric
         public MainPage()
         {
             InitializeComponent();
+
+            NotificationCenter.Current.NotificationTapped += 
+                Current_NotificationTapped;
+
         }
+
+        private void Current_NotificationTapped(NotificationEventArgs e)
+        {
+            Device.BeginInvokeOnMainThread(() =>
+            {
+                DisplayAlert("notification tapped", "data", "OK");
+            });
+        }
+
 
         async void Button_Clicked(object sender, EventArgs e)
         {
@@ -88,11 +103,30 @@ namespace Biometric
 
         }
 
-        const string RequestToEnableBluetooth = 1;
-        if ( !bluetooth.IsEnabled){
-            var intent = new Intent(
-                BluetoothAdapter.ActionStateChanged
-            )
-        
+            private void Button_Clicked_2(object sender, EventArgs e)
+        {
+            var notification = new NotificationRequest
+            {
+                BadgeNumber = 1,
+                Description = "Dør kan åpnes, trykk her",
+                Title = "Notification",
+                ReturningData = "dummy data",
+                NotificationId = 1337,
+                //Schedule = DateTime.Now.AddSeconds(10),
+                Schedule =
+                 {
+                     NotifyTime = DateTime.Now.AddSeconds(5),
+                 }
+               
+            };
+            NotificationCenter.Current.Show(notification);
+        }
+
+        //const string RequestToEnableBluetooth = 1;
+        // if ( !bluetooth.IsEnabled){
+        //  var intent = new Intent(
+        //    BluetoothAdapter.ActionStateChanged
+        // )
+
     }
 }

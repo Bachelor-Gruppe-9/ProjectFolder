@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Biometric.MainPage">
 
-    <StackLayout>
+    
+     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="LockTap" HorizontalTextAlignment="Center" 
                    TextColor="White" FontSize="36"/>
@@ -15,6 +16,10 @@
         <Button Text="Connect Bluetooth"
                 TextColor="Blue" FontSize="20" Padding="0" CornerRadius="100"
         Clicked="Button_Clicked_1"/>
-    </StackLayout>
+
+        <Button Text="Schedule notification" 
+                TextColor="Blue" FontSize="20" Padding="0" CornerRadius="100"
+                Clicked="Button_Clicked_2"/>
+    </StackLayout> 
 
 </ContentPage>
