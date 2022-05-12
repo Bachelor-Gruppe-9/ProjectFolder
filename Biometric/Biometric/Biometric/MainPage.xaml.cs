@@ -83,7 +83,13 @@ namespace Biometric
                 await DisplayAlert("bluetooth list", deviceListString, "OK");
 
             }
+         
 
         }
+        public void Button_Clicked_2(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new QR());
+        }
+
     }
 }

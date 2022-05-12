@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Biometric.QR"
+             xmlns:zxingcommon="clr-namespace:ZXing.Common;assembly=zxing"
+   xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"  >
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text=" Your identificationnumber: " HorizontalTextAlignment="Center" FontSize="20"></Label>
+        <Label Text="{Binding myPropy}" HorizontalTextAlignment="Center" FontSize="20"></Label>
+        <zxing:ZXingBarcodeImageView
+            BarcodeValue = "{Binding myPropy }"
+            IsVisible="True"
+            x:Name="QRcodeView"
+            BarcodeFormat ="QR_CODE"
+            HeightRequest="300"
+            WidthRequest="300" >
+            <zxing:ZXingBarcodeImageView.BarcodeOptions>
+            <zxingcommon:EncodingOptions Height=" 300" Width=" 300"/>
+            </zxing:ZXingBarcodeImageView.BarcodeOptions>
+        </zxing:ZXingBarcodeImageView>
+    </StackLayout>
+</ContentPage>
